@@ -1,0 +1,1001 @@
+User,acousticness,artists,danceability,duration_ms,energy,explicit,id,instrumentalness,key,liveness,loudness,mode,name,popularity,release_date,speechiness,tempo,valence,year
+1,0.995,['Carl Woitschach'],0.708,158648,0.195,0,6KbQ3uYMLKb5jDxLF7wYDD,0.563,10,0.151,-12.428,1,Singende Bataillone 1. Teil,0,1928,0.0506,118.469,0.779,1928
+2,0.994,"['Robert Schumann', 'Vladimir Horowitz']",0.379,282133,0.0135,0,6KuQTIu1KoTTkLXKrwlLPV,0.901,8,0.0763,-28.454,1,"Fantasiestücke, Op. 111: Più tosto lento",0,1928,0.0462,83.972,0.0767,1928
+3,0.604,['Seweryn Goszczyński'],0.749,104300,0.22,0,6L63VW0PibdM1HDSBoqnoM,0,5,0.119,-19.924,0,Chapter 1.18 - Zamek kaniowski,0,1928,0.929,107.177,0.88,1928
+4,0.995,['Francisco Canaro'],0.781,180760,0.13,0,6M94FkXd15sOAOQYRnWPN8,0.887,1,0.111,-14.734,0,Bebamos Juntos - Instrumental (Remasterizado),0,1928-09-25,0.0926,108.003,0.72,1928
+5,0.99,"['Frédéric Chopin', 'Vladimir Horowitz']",0.21,687733,0.204,0,6N6tiFZ9vLTSOIxkj8qKrd,0.908,11,0.098,-16.829,1,"Polonaise-Fantaisie in A-Flat Major, Op. 61",1,1928,0.0424,62.149,0.0693,1928
+6,0.995,"['Felix Mendelssohn', 'Vladimir Horowitz']",0.424,352600,0.12,0,6NxAf7M8DNHOBTmEd3JSO5,0.911,6,0.0915,-19.242,0,Scherzo a capriccio: Presto,0,1928,0.0593,63.521,0.266,1928
+7,0.956,"['Franz Liszt', 'Vladimir Horowitz']",0.444,136627,0.197,0,6O0puPuyrxPjDTHDUgsWI7,0.435,11,0.0744,-17.226,1,"Valse oubliée No. 1 in F-Sharp Major, S. 215/1",0,1928,0.04,80.495,0.305,1928
+8,0.988,['Carl Woitschach'],0.555,153967,0.421,0,6OJjveoYwJdIt76y0Pxpxw,0.836,1,0.105,-9.878,1,Per aspera ad astra,0,1928,0.0474,123.31,0.857,1928
+9,0.995,"['Francisco Canaro', 'Charlo']",0.683,162493,0.207,0,6OaJ8Bh7lsBeYoBmwmo2nh,0.206,9,0.337,-9.801,0,Moneda Corriente - Remasterizado,0,1928-10-03,0.127,119.833,0.493,1928
+10,0.846,['Seweryn Goszczyński'],0.674,111600,0.205,0,6PrZexNb16cabXR8Q418Xc,0,9,0.17,-20.119,1,Chapter 1.3 - Zamek kaniowski,0,1928,0.954,81.249,0.759,1928
+11,0.994,"['Sergei Rachmaninoff', 'Vladimir Horowitz']",0.376,590293,0.0719,0,6QBInZBkQNIQYU9gGzT5l4,0.883,10,0.196,-21.849,0,"Piano Sonata No. 2 in B-Flat Minor, Op. 36: I. Allegro agitato - Meno mosso",0,1928,0.0352,141.39,0.0393,1928
+12,0.989,"['Frédéric Chopin', 'Vladimir Horowitz']",0.17,85133,0.0823,0,6QIONtzbQCbnmWNwn0H1yT,0.911,10,0.0962,-30.107,0,"Piano Sonata No. 2, Op. 35: IV. Finale. Presto",1,1928,0.0317,85.989,0.346,1928
+13,0.99,"['Samuel Barber', 'Vladimir Horowitz']",0.359,338333,0.0435,0,6QgdUySTRGVkNo3KwbHpK3,0.899,7,0.109,-20.858,1,"Piano Sonata in E-Flat Minor, Op. 26: III. Adagio mesto",0,1928,0.0424,96.645,0.042,1928
+14,0.992,"['Robert Schumann', 'Vladimir Horowitz']",0.311,167333,0.0107,0,6RvSNoCPBZeTR2LyGvdJOw,0.883,5,0.0954,-35.648,1,"Nachtstücke, Op. 23: No. 4 in F",0,1928,0.0556,78.98,0.216,1928
+15,0.977,"['Ludwig van Beethoven', 'Staatskapelle Berlin', 'Richard Strauss']",0.335,276563,0.105,0,6Rwn56jcC0TdGQzbRl7NGw,0.84,5,0.231,-16.049,0,"Symphony No. 5 in C Minor, Op. 67: 3. Allegro",0,1928-01-01,0.0716,80.204,0.406,1928
+16,0.991,"['George Butterworth', 'John Cameron']",0.319,184840,0.00593,0,6Sdpmree8xpGWaedACPMlP,6.35E-05,7,0.0691,-25.789,0,A Shropshire Lad: Is My Team Ploughing?,0,1928,0.051,79.831,0.169,1928
+17,0.996,"['Alexander Scriabin', 'Vladimir Horowitz']",0.319,326067,0.155,0,6T0mZB7p3qzOifdXZ3Su9P,0.917,4,0.126,-18.728,1,"Sonata No. 3, Op. 23 in F-Sharp Minor: IV. Presto con fuoco; Meno mosso",0,1928,0.036,66.947,0.0488,1928
+18,0.994,"['Francisco Canaro', 'Luis Scalon']",0.787,167107,0.156,0,6TFuAErGpJ9FpxQQ1HC8nM,0.659,4,0.11,-14.056,0,Invocación al Tango - Remasterizado,0,1928-09-16,0.157,117.167,0.849,1928
+19,0.993,"['Thomas Arne', 'John Heddle Nash']",0.569,122533,0.15,0,6UUfiNT82MWBNnmsE2ZNWf,0.0015,5,0.106,-15.238,1,Where the Bee Sucks,0,1928,0.0474,76.93,0.596,1928
+20,0.992,['Francisco Canaro'],0.763,173707,0.132,0,6Ukl7n0q3Cjd0Og8uBmVeP,0.0693,4,0.112,-13.002,1,Tendrás Que Llorar Conmigo - Instrumental (Remasterizado),0,1928-09-17,0.0886,111.679,0.832,1928
+21,0.993,"['Moritz Moszkowski', 'Vladimir Horowitz']",0.352,80800,0.132,0,6UxGTlqovmrBV4SKAsoz0A,0.966,8,0.425,-23.202,1,"Etude in A-Flat, Op. 72, No. 11",0,1928,0.0381,74.737,0.661,1928
+22,0.99,['Francisco Canaro'],0.833,176000,0.132,0,6VGWQU6XIXshFT288CoLrk,0.000568,1,0.0957,-11.131,1,Quisiste Cachar un Gil - Instrumental (Remasterizado),0,1928-09-20,0.295,121.779,0.568,1928
+23,0.975,"['Frédéric Chopin', 'Vladimir Horowitz']",0.277,245440,0.09,0,6VUm7Dg5sufmG01IYcoJE3,0.949,7,0.125,-26.188,1,"Andante spianato in E-Flat Major, Op. 22",0,1928,0.0316,105.031,0.168,1928
+24,0.99,['Francisco Canaro'],0.811,169720,0.175,0,6VqUdRHLlFMXmN4plGWSMA,0.841,9,0.13,-13.639,1,La Recova - Instrumental (Remasterizado),0,1928-09-16,0.0712,115.212,0.933,1928
+25,0.988,"['Francisco Canaro', 'Charlo']",0.699,166000,0.221,0,6W7iUeL4W0WVIF1BEOCswF,0.0725,11,0.142,-12.228,1,El Espejito - Remasterizado,0,1928-09-20,0.115,117.899,0.782,1928
+26,0.988,"['Roger Quilter', 'John Heddle Nash']",0.54,152600,0.102,0,6WBXyRc3ynwvRHiBWudVLo,2.13E-06,4,0.0819,-18.555,1,It Was a Lover and His Lass,0,1928,0.0792,73.516,0.433,1928
+27,0.99,['Hafız Yaşar'],0.569,162197,0.327,0,6WFYaPHg3P8jQuh7x9YKYZ,0.947,7,0.134,-13.622,1,Kız Saçların,0,1928-05-07,0.0499,82.742,0.562,1928
+28,0.991,"['Frédéric Chopin', 'Vladimir Horowitz']",0.38,505920,0.119,0,6WRmg6x1bYjHxzeMCfKguB,0.89,11,0.0601,-21.255,1,"Scherzo No. 1 in B Minor, Op. 20",0,1928,0.0389,132.005,0.18,1928
+29,0.993,"['Muzio Clementi', 'Vladimir Horowitz']",0.28,251960,0.0436,0,6WSYfri77xoUvXLg3WTdLF,0.885,8,0.0865,-25.958,1,"Sonata, Op. 14, No. 3 in F Minor: I. Allegro agitato",0,1928,0.0393,81.076,0.182,1928
+30,0.686,['Seweryn Goszczyński'],0.715,102200,0.22,0,6XD6qJykJ91uC9AYb84ZeY,0,2,0.206,-19.788,1,Chapter 4.12 - Zamek kaniowski,0,1928,0.948,113.214,0.545,1928
+31,0.995,"['Francisco Canaro', 'Charlo']",0.767,177507,0.23,0,6XbXjlJZxRZslzXDh115DL,0.605,2,0.133,-10.728,1,Venite Conmigo - Remasterizado,0,1928-09-25,0.199,119.985,0.868,1928
+32,0.995,['Ignacio Corsini'],0.531,159107,0.124,0,6XoyWGdCJwFaJV1Pnmphwr,0.0168,2,0.118,-23.243,1,Por una Mujer - Remasterizado,0,1928-05-14,0.0711,101.902,0.555,1928
+33,0.422,['Shungi Music Crew'],0.662,372962,0.606,0,6XxKNIhZQsW1A5Sg6O32Is,0.915,7,0.0594,-7.026,0,Loving You,0,1928-08-20,0.0376,111.999,0.645,1928
+34,0.987,"['George Butterworth', 'John Cameron']",0.238,173293,0.0324,0,6Z6DJ8L7WMy2WHbXe3jR9I,0.000986,7,0.112,-24.361,0,A Shropshire Lad: Oh Fair Enough are Sky and Plain,0,1928,0.0541,172.321,0.0379,1928
+35,0.983,['Ignacio Corsini'],0.668,151840,0.261,0,6ZSXaYQBOPDDmKeqaOfBa2,0.0232,7,0.122,-16.91,0,Abuelita - Remasterizado,0,1928-05-14,0.101,120.553,0.702,1928
+36,0.989,['Perchicot'],0.769,140267,0.442,0,6ZWi1fuonJCUlt4p6o9Uzs,1.27E-06,2,0.167,-12.697,0,La Noce À Rebecca,0,1928,0.273,132.125,0.934,1928
+37,0.994,"['Francisco Canaro', 'Charlo']",0.801,166493,0.113,0,6aBzlB3FTioN5vCTfdswr8,0.206,4,0.129,-12.147,1,Por Esta Cruz - Remasterizado,0,1928-09-20,0.0837,117.063,0.672,1928
+38,0.994,['Francisco Canaro'],0.854,200213,0.151,0,6aNewFey3lEHDerGgy3rYN,0.371,4,0.159,-11.163,0,Che Bouhier - Instrumental (Remasterizado),0,1928-09-16,0.137,110.331,0.781,1928
+39,0.708,['Seweryn Goszczyński'],0.677,95900,0.204,0,6aXTusFB0Ycjmt9TXr2cfK,0,1,0.104,-20.024,0,Chapter 4.10 - Zamek kaniowski,0,1928,0.957,84.826,0.667,1928
+40,0.777,['Seweryn Goszczyński'],0.738,139100,0.282,0,6bKJYhoaWIohnhspidbdW7,0,1,0.29,-16.556,1,Chapter 2.11 - Zamek kaniowski,0,1928,0.952,140.612,0.703,1928
+41,0.977,"['Frédéric Chopin', 'Vladimir Horowitz']",0.305,215267,0.083,0,6duqhjENDYbR2Q4Hpogh9M,0.697,6,0.231,-20.895,1,"Nocturne in F-Sharp Major, Op. 15, No. 2",1,1928,0.0331,80.622,0.0479,1928
+42,0.993,"['Dmitry Kabalevsky', 'Vladimir Horowitz']",0.372,285133,0.0945,0,6h6ShFPagQGy48KSFd8BU9,0.941,10,0.189,-22.709,0,"Sonata No. 3, Op. 46: II. Andante cantabile",0,1928,0.0317,59.217,0.0791,1928
+43,0.99,"['Frédéric Chopin', 'Vladimir Horowitz']",0.337,333907,0.0699,0,6hUMURfCaJ6JB8EWL1ZLr7,0.903,5,0.106,-23.806,0,"Nocturne F Minor, Op. 55, No. 1",2,1928,0.0322,72.133,0.135,1928
+44,0.995,['Francisco Canaro'],0.729,174720,0.191,0,6hcPbniXegOud4FNv8Efxz,0.455,4,0.103,-15.313,0,Timbero - Instrumental (Remasterizado),0,1928-09-17,0.108,112.565,0.902,1928
+45,0.826,['Seweryn Goszczyński'],0.726,108800,0.249,0,6i3IWozMMPQXtD5W1klS0n,0,9,0.173,-16.82,0,Chapter 3.4 - Zamek kaniowski,0,1928,0.952,112.379,0.559,1928
+46,0.662,['Seweryn Goszczyński'],0.631,109900,0.23,0,6i7kom9nwTggWaYQAW9puH,0,1,0.145,-19.213,0,Chapter 1.13 - Zamek kaniowski,0,1928,0.959,83.401,0.595,1928
+47,0.985,['Francisco Canaro'],0.81,169160,0.3,0,6iInEwECoC9ZX8uPDRjyft,0.000885,4,0.13,-9.702,1,Mariposa de Cabaret - Instrumental (Remasterizado),0,1928-09-25,0.289,115.648,0.806,1928
+48,0.985,"['Frédéric Chopin', 'Vladimir Horowitz']",0.355,138013,0.0452,0,6j8nMxm9yFxN3Mdodm9tEl,0.825,1,0.153,-24.125,1,"Mazurka in F Minor, Op. 7, No. 3",2,1928,0.0329,84.551,0.276,1928
+49,0.461,['Shungi Music Crew'],0.733,369721,0.613,0,6jIUK38SalSc8jYFLW4FYv,0.951,7,0.122,-8.749,1,Rumours,0,1928-08-20,0.0383,123.019,0.26,1928
+50,0.993,"['Franz Liszt', 'Vladimir Horowitz']",0.303,491333,0.226,0,6jm4s7lONpJRXumjV6WH23,0.826,3,0.119,-21.483,1,"Danse macabre, S. 555 (after Camille Saint-Saens)",0,1928,0.0444,67.013,0.146,1928
+51,0.995,"['Robert Schumann', 'Vladimir Horowitz']",0.319,118093,0.00217,0,6jpxi5YTFfquMKm7HLS0fW,0.937,10,0.0791,-36.905,1,"Humoreske, Op. 20: Einfach",0,1928,0.0412,78.505,0.229,1928
+52,0.992,"['Robert Schumann', 'Vladimir Horowitz']",0.468,158973,0.0184,0,6k3zky8VRvpPo9T5dqWbKS,0.912,10,0.103,-27.785,1,"Humoreske, Op. 20: Innig",0,1928,0.0447,59.38,0.235,1928
+53,0.992,['Ignacio Corsini'],0.698,168400,0.192,0,6k6oWqs8cZnnjY38LdP08T,0.00577,2,0.243,-17.343,1,La Carreta - Remasterizado,0,1928-05-14,0.128,78.218,0.681,1928
+54,0.993,"['Francisco Canaro', 'Charlo']",0.836,194000,0.207,0,6kfj3G8mZQH4n530vJen6L,0.522,7,0.321,-9.54,1,"Dentra, No Llores - Remasterizado",0,1928-10-03,0.152,112.369,0.595,1928
+55,0.992,"['Frédéric Chopin', 'Vladimir Horowitz']",0.233,519933,0.113,0,6l4zbFqen97rgCxmq9LWgK,0.879,1,0.161,-18.276,1,"Barcarolle, Op. 60",0,1928,0.0397,64.082,0.0642,1928
+56,0.993,['Paul Whiteman'],0.641,161587,0.192,0,6m2U5lsHxlDvCUl6aZzCLO,0.5,3,0.593,-15.905,1,I'd Rather Cry Over You,0,1928,0.04,106.052,0.704,1928
+57,0.995,"['Francisco Canaro', 'Charlo']",0.461,204867,0.195,0,6mUmlFMnIKz3m8rIDnzwd0,0.886,10,0.0969,-15.059,1,En un Pueblito de España - Remasterizado,0,1928-09-21,0.0609,76.419,0.844,1928
+58,0.989,"['Muzio Clementi', 'Vladimir Horowitz']",0.222,351000,0.0113,0,6mUr9qArNrSpsXeWIL2Go0,0.954,5,0.0873,-33.218,1,"Sonata quasi Concerto, Op. 33, No. 3 in C: II. Adagio e cantabile, con espressione",0,1928,0.043,74.04,0.0917,1928
+59,0.991,['Ignacio Corsini'],0.431,108573,0.315,0,6mlX2fWNqtclyBUAyBHNQ5,0.883,11,0.108,-21.753,0,Caido del Cielo - Remasterizado,0,1928-05-14,0.0464,65.735,0.711,1928
+60,0.991,['Ted Weems & His Orchestra'],0.839,162147,0.37,0,6myKdOFzdAkk3npbTVrzFg,0.0419,2,0.104,-11.602,1,"Chick, Chick, Chick, Chick, Chicken - Lay A Little Egg For Me",1,1928-07-01,0.08,115.063,0.976,1928
+61,0.991,"['Francisco Canaro', 'Charlo']",0.829,175493,0.199,0,6nRuUkty1Wsn3rPZgfpZ9F,6.54E-06,10,0.119,-9.2,0,Triste Paica - Remasterizado,0,1928-09-20,0.0619,116.214,0.681,1928
+62,0.99,['Ignacio Corsini'],0.709,130813,0.148,0,6nxEIdbSzOtdi93IskacDT,0.0262,3,0.131,-18.933,0,Piedad - Remasterizado,0,1928-05-14,0.0775,122.415,0.516,1928
+63,0.872,['Taj Mahal'],0.571,155893,0.204,0,6oZyWbbisoG8jOunmpPH40,0.779,6,0.197,-18.61,1,Country Blues #1,0,1928,0.0328,129.289,0.0932,1928
+64,0.991,['Francisco Canaro'],0.808,194413,0.215,0,6p5vkrnb0SdBxqHXNPn8Zs,0.524,9,0.0906,-12.205,1,La Cabeza del Italiano - Instrumental (Remasterizado),0,1928-09-17,0.0851,110.894,0.866,1928
+65,0.989,"['Robert Schumann', 'Vladimir Horowitz']",0.368,163800,0.124,0,6p8Q6LG6m1kxAzTbUyIWN3,0.892,0,0.105,-21.742,0,"Humoreske, Op. 20: Intermezzo",0,1928,0.0371,128.418,0.266,1928
+66,0.732,['Seweryn Goszczyński'],0.72,100700,0.286,0,6qxoAGlWUrVYbvq3x6S08C,0,5,0.292,-15.861,1,Chapter 2.23 - Zamek kaniowski,0,1928,0.939,114.059,0.695,1928
+67,0.991,"['Muzio Clementi', 'Vladimir Horowitz']",0.317,214667,0.0916,0,6rIuHOee0surqjlxUWHruQ,0.918,10,0.104,-30.682,1,"Rondo, No. 2",0,1928,0.0411,80.74,0.511,1928
+68,0.947,['John Raitt'],0.333,122733,0.146,0,6rd3MB90B6JcMzSsxTVX5P,0.000426,2,0.265,-16.99,1,Where's the Mate for Me?,2,1928,0.0353,75.372,0.234,1928
+69,0.986,['Francisco Canaro'],0.613,303493,0.187,0,6sHTmkp6k8genhaEHK5NxF,0.804,1,0.111,-13.959,1,Pájaro Azul - Instrumental (Remasterizado),0,1928-09-21,0.255,116.325,0.3,1928
+70,0.977,['Ted Weems & His Orchestra'],0.757,180147,0.49,0,6t2heLDAa5eqqLZM6yyDKw,0.043,10,0.0885,-9.198,1,It Was Only A Sun Shower,0,1928-07-01,0.035,105.734,0.836,1928
+71,0.974,"['Frédéric Chopin', 'Vladimir Horowitz']",0.188,236493,0.0891,0,6tD8hbtg9YvauF84fl15sd,0.896,0,0.124,-25.936,1,"Andante spianato in E-Flat Major, Op. 22",3,1928,0.0326,59.946,0.164,1928
+72,0.989,['Francisco Canaro'],0.858,168413,0.249,0,6tmVNRSYKtvrfhuuPnn7JK,8.79E-05,2,0.181,-8.897,1,Che Italiano - Instrumental (Remasterizado),0,1928-09-16,0.224,115.858,0.611,1928
+73,0.989,['Paul Whiteman'],0.441,201053,0.0454,0,6u4X5c1kV7hZrlMOD3FAco,0.0752,7,0.0801,-21.884,1,Chiquita,0,1928,0.0463,133.475,0.194,1928
+74,0.996,['Ignacio Corsini'],0.675,145973,0.127,0,6uORAJwv0yYp917APJP8Be,0.0311,3,0.102,-21.612,1,Destellos - Remasterizado,0,1928-05-14,0.226,129.587,0.516,1928
+75,0.987,"['Samuel Barber', 'Vladimir Horowitz']",0.242,115627,0.149,0,6v13FCz4z385EbNyPaXYCU,0.877,0,0.134,-26.742,1,"Piano Sonata in E-Flat Minor, Op. 26: II. Allegro vivace e leggero",0,1928,0.0369,88.188,0.279,1928
+76,0.99,"['Frédéric Chopin', 'Vladimir Horowitz']",0.444,104013,0.0431,0,6vK4MMy5CNIUNvFXlG9NuF,0.889,1,0.124,-26.77,1,"Étude in G-Flat Major, Op. 10, No. 5 ""Black Keys""",1,1928,0.041,106.062,0.404,1928
+77,0.725,['Seweryn Goszczyński'],0.791,107800,0.234,0,6vniIHqoSV74xRTMdomqij,0,8,0.152,-17.951,1,Chapter 2.16 - Zamek kaniowski,0,1928,0.947,37.596,0.705,1928
+78,0.99,"['Frédéric Chopin', 'Vladimir Horowitz']",0.272,473227,0.281,0,6wt8PKNBSqNFqdOxgexvKu,0.867,10,0.087,-16.228,0,"Piano Sonata No. 2, Op. 35: I. Grave - Doppio movimento",0,1928,0.0365,99.27,0.0775,1928
+79,0.993,"['Francisco Canaro', 'Charlo']",0.466,204000,0.161,0,6x09M8ELRKDbwPH1y1uTje,0.764,6,0.118,-13.007,0,Always - Remasterizado,0,1928-09-25,0.0576,75.24,0.447,1928
+80,0.989,"['Frédéric Chopin', 'Vladimir Horowitz']",0.28,254107,0.0463,0,6xpA90VSHtmaUhNltHIcVM,0.873,11,0.0743,-19.78,1,"Nocturne in E Minor, Op. 72, No. 1",1,1928,0.0347,100.131,0.0722,1928
+81,0.995,"['Robert Schumann', 'Vladimir Horowitz']",0.389,94307,0.263,0,6yOkXNFTUxZpnXXu1yJT3l,0.914,5,0.128,-15.034,0,"Sonata No. 3, Op. 14: III: Variation II",0,1928,0.0354,73.981,0.188,1928
+82,0.993,['Paul Whiteman'],0.523,202173,0.0867,0,6yanEXQBzoNKlWJzKGBpsb,0.124,10,0.14,-17.528,1,Reaching for Someone (And Not Finding Anyone There),1,1928,0.0707,161.687,0.697,1928
+83,0.918,['Leroy Carr'],0.754,184840,0.194,0,6yx49288aRqkexZC1BoldM,4.34E-05,3,0.188,-11.634,1,Midnight Hour Blues,1,1928,0.053,84.042,0.454,1928
+84,0.992,"['Frédéric Chopin', 'Vladimir Horowitz']",0.301,785427,0.0823,0,71FaVeFy9ZOiQRY4yOijey,0.852,1,0.087,-23.282,1,"Polonaise-Fantaisie in A-Flat Major, Op. 61",0,1928,0.0382,137.296,0.0548,1928
+85,0.993,"['Frédéric Chopin', 'Vladimir Horowitz']",0.409,318267,0.0224,0,722u6arjn98Ygql8TyqKZz,0.908,1,0.13,-18.234,1,"Nocturne in C-Sharp Minor, Op. 27, No. 1 - 2001 Remastered",1,1928,0.0441,126.458,0.0655,1928
+86,0.995,"['Alexander Scriabin', 'Vladimir Horowitz']",0.411,97627,0.211,0,72f1VDD6VELfZybK1Wkggy,0.876,2,0.106,-16.423,0,"Preludes: Op. 59, No. 2",0,1928,0.0489,79.812,0.119,1928
+87,0.992,"['Dmitry Kabalevsky', 'Vladimir Horowitz']",0.266,350373,0.242,0,72iGv3PppJRsZwfT5ntZps,0.915,10,0.154,-19.283,0,"Sonata No. 3, Op. 46: I. Allegro con moto",0,1928,0.0314,86.437,0.114,1928
+88,0.777,['Seweryn Goszczyński'],0.748,110200,0.295,0,72vD6lhG8KohMxjGqkKzBX,0,9,0.122,-16.945,1,Chapter 3.14 - Zamek kaniowski,0,1928,0.94,114.431,0.717,1928
+89,0.994,['Francisco Canaro'],0.79,160000,0.171,0,73LY41HCJzlQwoNBmWM7Md,0.0562,5,0.116,-13.993,1,¿Te Acuerdas Mamita? - Instrumental (Remasterizado),0,1928-09-20,0.221,121.646,0.856,1928
+90,0.995,['Ignacio Corsini'],0.579,136160,0.33,0,747Dowy6MecKApVkFH1asI,0.94,1,0.108,-20.558,1,Quema Esas Cartas - Remasterizado,0,1928-05-14,0.055,134.545,0.89,1928
+91,0.995,"['Robert Schumann', 'Vladimir Horowitz']",0.316,76960,0.191,0,74qEIULd05bBGGtWiCglvC,0.914,10,0.101,-16.249,0,"Sonata No. 3, Op. 14: III: Variation III",0,1928,0.0389,109.331,0.18,1928
+92,0.991,"['Frédéric Chopin', 'Vladimir Horowitz']",0.245,340973,0.0577,0,74rczPEWk2w3Fl8eENpzuf,0.882,5,0.0704,-24.98,0,"Nocturne F Minor, Op. 55, No. 1",0,1928,0.0328,74.004,0.105,1928
+93,0.992,"['Francisco Canaro', 'Charlo']",0.78,161000,0.238,0,757cWe7lwe0BjpY1IRigot,0.0355,3,0.108,-13.552,0,Tu Disfraz - Remasterizado,0,1928-09-20,0.209,121.064,0.844,1928
+94,0.995,['Hikmet Rıza Hanım'],0.449,159496,0.169,0,75AyIcNnQzdiYln6BQJeps,0.832,7,0.0999,-12.993,0,Ayva Çiçek Açmış,0,1928-05-11,0.0497,66.372,0.413,1928
+95,0.993,['Francisco Canaro'],0.766,184000,0.203,0,75PDI4YUCg84Y0Nt0KAKa1,0.169,2,0.147,-10.142,0,Emoción - Instrumental (Remasterizado),0,1928-09-25,0.0728,116.415,0.692,1928
+96,0.995,['Ignacio Corsini'],0.599,135507,0.137,0,75Tt3zPHlYnejhusIUy50f,0.305,5,0.132,-22.342,0,Cualquier Cosa - Remasterizado,0,1928-05-14,0.161,137.384,0.687,1928
+97,0.994,"['Francisco Canaro', 'Charlo']",0.615,170000,0.205,0,75vvVnUqj8PlyJBAZ494p3,0.913,2,0.113,-13.837,1,Pobre Gaucho - Remasterizado,0,1928-10-03,0.0618,58.299,0.752,1928
+98,0.996,"['Alexander Scriabin', 'Vladimir Horowitz']",0.278,288907,0.0049,0,75yPZGkLb31Q4dRFqzMF5z,0.932,11,0.0954,-31.442,1,"Sonata No. 3, Op. 23 in F-Sharp Minor: III. Andante",0,1928,0.0407,81.033,0.0606,1928
+99,0.996,"['Alexander Scriabin', 'Vladimir Horowitz']",0.393,48627,0.0545,0,75zIt9muIwtL6o30PcqskO,0.829,7,0.328,-27.582,1,"Preludes: Op. 11, No. 3 in G",0,1928,0.0366,70.495,0.374,1928
+100,0.105,['Shungi Music Crew'],0.699,388115,0.838,0,764wHEOb2yPgsJHmU0J4ZS,0.909,7,0.128,-12.106,1,Trip to Limpopo,0,1928-08-20,0.0462,123.993,0.481,1928
+101,0.981,['Elsie Houston'],0.78,117362,0.55,0,3yH0dcIQudG7VcC0kB4T8V,0.122,4,0.165,-11.096,0,Óia o Sapo,0,1930-12-31,0.396,83.383,0.847,1930
+102,0.991,['Ignacio Corsini'],0.545,168653,0.133,0,3yZj8i9TwsWAVmBWKdMbaa,0.444,7,0.115,-20.53,0,Cobardia - Remasterizado,0,1930-06-21,0.127,185.062,0.691,1930
+103,0.995,['Francisco Canaro'],0.746,186000,0.159,0,3yqMsVEs3Fq3jzsibskXeY,0.819,8,0.109,-15.106,1,Asuero - Instrumental (Remasterizado),0,1930-11-20,0.189,120.084,0.88,1930
+104,0.981,['Αντώνης Νταλγκάς'],0.273,200693,0.0958,0,3ysZe4AZtpys3VbZabN0Nh,0.00109,1,0.637,-20.217,1,Μπεστενγκιάρ μανές,0,1930-01-01,0.0465,86.281,0.18,1930
+105,0.982,['Stellakis Perpiniadis'],0.503,188120,0.46,0,3zFy6I5USXgmG18E3f1971,0.78,9,0.157,-9.289,0,O milonas,0,1930-01-01,0.0454,79.269,0.909,1930
+106,0.989,['Αντώνης Διαμαντίδης'],0.414,165520,0.229,0,3zGslzrt12d41TKH7xBO5R,0.00067,7,0.121,-10.564,1,Θεοδωράκης Γρίβας,0,1930-01-01,0.0587,74.796,0.325,1930
+107,0.992,"['S. Loukopoulos', 'Klarino G. Anestopoulos', 'Klarino KOstas Giaouzos', 'Klarinos Nikos Karakostas']",0.368,204840,0.263,0,3zK60VaQyLm9Tbrji7v4eX,0.89,9,0.288,-16.263,1,Xipna Pouli Mou To Proi,0,1930-01-01,0.0476,101.447,0.312,1930
+108,0.996,['Paradosiako I. KIriakatis'],0.342,178154,0.308,0,3zYsOagWsmCQ0OwREYFxJ2,0.903,0,0.14,-13.483,1,Kenouria Logia,0,1930-01-01,0.0564,74.733,0.949,1930
+109,0.951,['Moune De Rivel'],0.69,169509,0.714,0,3zhptXjoaB6EF8WUtde9iA,0.000348,0,0.234,-15.857,0,Kiembeli,2,1930-01-01,0.0747,116.188,0.804,1930
+110,0.994,['Dimitris Gkogkos'],0.552,194880,0.275,0,402nzcLa8CkqfeD3GzEy6j,0.829,11,0.11,-12.746,0,Matia glika kai galana,0,1930-01-01,0.0599,117.057,0.544,1930
+111,0.962,['Giorgos Papasideris'],0.32,185307,0.529,0,404Vsdauw3WGz3FG8Qwv9A,0.392,9,0.117,-7.449,1,Kalikie,0,1930-01-01,0.0474,79.649,0.858,1930
+112,0.994,"['Petros Epitropakis', 'Antonis Kalampousis']",0.144,211399,0.331,0,40AkLtfyKR89OxRaf3X9zh,0.88,4,0.145,-13.406,0,San Oneiro,0,1930-01-01,0.0428,71.956,0.164,1930
+113,0.29,['Cellular Project'],0.344,192332,0.857,0,40P3zk2IX1Iannfbz89mO2,0.874,3,0.125,-5.441,1,Purple Daze,0,1930,0.0507,140.669,0.158,1930
+114,0.971,"['Francisco Canaro', 'Luis Diaz']",0.807,207493,0.202,0,40c7MoKLp6KVavEdHLBINz,0.161,6,0.0561,-13.675,1,Cascabeles - Remasterizado,0,1930-12-03,0.184,115.364,0.886,1930
+115,0.989,"['Francisco Canaro', 'Charlo']",0.445,185507,0.288,0,40jiorcB4ujhNCJEM3NYRz,0.758,2,0.111,-8.925,1,Cantando Bajo la Lluvia - Remasterizado,0,1930-11-12,0.0699,205.423,0.697,1930
+116,0.996,['Sotiris Stasinopoulos'],0.269,271560,0.319,0,40lNmAqzsDxT1aV39oakv4,0.882,7,0.196,-16.218,1,Kovo Mia Klara,0,1930-01-01,0.0514,75.833,0.447,1930
+117,0.971,['Nota Kaleli'],0.74,30000,0.508,0,40q1O23P19AcDSghky2Ct3,0.946,2,0.134,-11.353,1,Pagkratiotissa mou,0,1930-01-01,0.063,76.43,0.967,1930
+118,0.87,['Robert Francis'],0.353,137090,0.0785,0,41FFRKj6ehfOer45QC85mm,2.21E-06,0,0.112,-18.434,0,My Funny Valentine,2,1930,0.0376,70.535,0.261,1930
+119,0.99,"['Francisco Canaro', 'Roberto Maida']",0.518,174493,0.462,0,41fXcqGebIUYOFQvDzqLJG,0.85,4,0.157,-9.632,0,A Lo Lejos - Remasterizado,0,1930-12-03,0.377,178.88,0.696,1930
+120,0.991,['The Caresser'],0.574,189571,0.372,0,41ot3rSkTwJ7tLBut2jmH5,0.000129,4,0.877,-9.888,0,Edward the VIII,1,1930-01-01,0.0592,88.836,0.874,1930
+121,0.991,['Soula Karagiorgi'],0.358,182733,0.35,0,41uoJrpHQhmOAkcXtKsAk3,0.0387,2,0.348,-13.585,1,Skliri Kardia,0,1930-01-01,0.0392,113.337,0.305,1930
+122,0.779,['The Merlons'],0.427,128707,0.531,0,41wmjlc9ChMBHZ8fB0btdM,0.978,0,0.145,-16.675,1,Loda,0,1930,0.0325,110.993,0.353,1930
+123,0.994,"['Francisco Canaro', 'Charlo', 'Angel Ramos']",0.6,202000,0.174,0,4285vY2v7Z1Kyh3Gi3sDrz,0.805,4,0.173,-9.047,1,Clavel del Aire - Remasterizado,0,1930-11-13,0.0449,118.107,0.594,1930
+124,0.977,['Κώστας Δούσιας'],0.611,240160,0.38,0,428NvDHsWDUzEBUjvmfCFW,0.000192,10,0.117,-16.791,1,Το καλογεράκι,0,1930-01-01,0.0586,147.909,0.654,1930
+125,0.996,['Miltiadis Kazis'],0.401,253121,0.354,0,42Ij0aAdwHtw9bOykDyGie,0.0123,2,0.248,-8.238,1,Kanella kanellitsa mou,0,1930-01-01,0.0387,113.026,0.797,1930
+126,0.984,['Carlos Gardel'],0.711,165200,0.256,0,42N8vjI5pRxgsgkuKm9VfA,0.00756,11,0.084,-11.731,1,Que se vaya,2,1930-08-18,0.0789,114.151,0.603,1930
+127,0.983,['Raquel Meller'],0.728,157246,0.159,0,42VPZtXihKkHwDx7AyvsFg,0.000423,2,0.115,-10.325,1,Ay! Cipriano,1,1930-01-01,0.475,122.18,0.65,1930
+128,0.995,"[""Sam Manning's and His Cole Jazz Orchestra""]",0.664,173333,0.283,0,42WDMm9hX0xCFkkKpt6NOY,0.874,8,0.109,-18.301,0,Bungo,0,1930-01-01,0.0807,99.506,0.688,1930
+129,0.821,['The Four Deuces'],0.627,132400,0.795,0,42r18phTFwegQjdbeDnFyN,0,7,0.105,-0.395,1,Fore Day in the Morning,0,1930-01-01,0.136,100.715,0.975,1930
+130,0.941,"['Banda del Regimiento Pérez 3 de Infantería', 'Adrián Patiño']",0.629,184086,0.714,0,42wQ4jDtm0xxBUJDJnJpRr,0.97,7,0.284,-9.104,1,Como El Rocha,0,1930-01-01,0.0361,126.95,0.965,1930
+131,0.00142,['Shiny Gnomes'],0.45,224360,0.873,0,4306jl5QnfahO7GXeLUAq0,0.000147,7,0.323,-6.885,1,The Nest,0,1930,0.0507,132.04,0.505,1930
+132,0.944,"['Petros Epitropakis', 'Elvira Nte Ntalgko']",0.433,187294,0.458,0,432t2QZQYpOJdEHmb60JAp,0.00186,5,0.0641,-10.689,1,Mparmpa Giannis Kanatas,0,1930-01-01,0.0585,65.672,0.716,1930
+133,0.971,['Carlos Gardel'],0.72,140573,0.236,0,43NCVFtFp0pBCEGdmJI5GQ,0.00119,2,0.0376,-14.263,0,Esclavas blancas,1,1930-08-18,0.121,128.107,0.69,1930
+134,0.993,['Paradosiako'],0.308,208704,0.317,0,43QD71OfHYeV0gc3jgvWYm,0.934,2,0.109,-12.646,0,Argitiko,0,1930-01-01,0.0451,87.108,0.915,1930
+135,0.992,"['Francisco Canaro', 'Charlo']",0.373,204000,0.239,0,43aHhXYKEQ6iitIbfFdUWI,0.848,4,0.179,-9.449,1,Nunca Jamás - Remasterizado,0,1930-11-13,0.079,83.856,0.589,1930
+136,0.936,['Ioannis Panagiotopoulos'],0.594,192347,0.54,0,43tahNxwxcaWRBEFFtg6e1,0.879,8,0.242,-10.699,0,To Tragoudi Tou Kolokotroni,0,1930-01-01,0.0507,108.376,0.772,1930
+137,0.982,['Los Peregrinos'],0.453,175882,0.446,0,448LaLI9LO7OdbOp9gz65L,0.0467,0,0.463,-9.89,0,Cholita Paceña (Cueca),0,1930-01-01,0.036,118.377,0.64,1930
+138,0.994,['Giorgos Papasideris'],0.429,182733,0.214,0,448LdSPFzZA69X6kbW1ZBa,0.941,3,0.111,-14.994,0,Me Doxa Na Girisis,0,1930-01-01,0.0626,77.289,0.716,1930
+139,0.994,['D.roitman'],0.327,257493,0.114,0,44FzNHdYMyEZ5Fpvz1Qv9U,0.556,7,0.13,-19.691,0,Oshamnu mikolom,0,1930,0.0534,66.043,0.184,1930
+140,0.991,['Carlos Galhardo'],0.712,197092,0.623,0,44NkmEmGvCudWCfqWklKIq,0.566,4,0.303,-9.828,1,O Palhaço o Que É?,7,1930-06-14,0.04,134.58,0.926,1930
+141,0.993,['Smt. Angurbala Devi'],0.433,193280,0.148,0,44d2dTOy7Pz3q7n85JpaBx,0.898,3,0.0967,-16.861,0,Kapat Shyam E Ki Chhalona,0,1930-12-01,0.0588,127.361,0.313,1930
+142,0.943,['Roza Eskenazi'],0.354,203600,0.387,0,44i8kWhXwKOcxXWNkW1IIc,0.00817,1,0.0674,-9.324,1,Alaniara,0,1930-01-01,0.0293,99.883,0.442,1930
+143,0.996,['Marika Papaggika'],0.478,247360,0.404,0,44nod4F5OuloAdZrE627PF,0.76,2,0.114,-9.466,1,Mes tou Siggrou th filaki,0,1930-01-01,0.0401,117.94,0.696,1930
+144,0.979,['Francisco Canaro'],0.696,170507,0.325,0,45gT0SuDZIPG99CysAoBNK,0.664,1,0.432,-8.604,1,Ya Va Para Un Mes - Instrumental (Remasterizado),0,1930-12-03,0.135,115.337,0.856,1930
+145,0.993,['Pirros Xronidis'],0.423,192587,0.409,0,45i0kvbyPfVaST8OX5VyXb,3.07E-06,0,0.342,-11.573,0,Ki An Metaniosoume,0,1930-01-01,0.0364,100.719,0.617,1930
+146,0.993,['Ignacio Corsini'],0.635,177787,0.143,0,45qV959UBzPnWuRJQM2LEv,0.504,3,0.119,-20.475,0,El Regreso - Remasterizado,0,1930-06-21,0.097,103.767,0.54,1930
+147,0.995,"['Francisco Canaro', 'Charlo']",0.585,191000,0.199,0,4668mfHlOUN0MQc3gGMqbX,0.6,6,0.12,-11.035,1,Pantaleón - Remasterizado,0,1930-11-16,0.127,210.173,0.926,1930
+148,0.995,['Dimitris Arapakis'],0.37,181693,0.287,0,467wQe7ACYneXJ882MfVXH,0.448,2,0.122,-12.17,1,Evga Gkolfo Sto Vouno,0,1930-01-01,0.0514,110.882,0.327,1930
+149,0.994,['Giorgos Papasideris'],0.367,175493,0.262,0,46WBp2UIhe9rOaUL5qy6xF,0.939,10,0.124,-13.883,0,Kato Ston Kampo Sto Plati,0,1930-01-01,0.054,74.284,0.842,1930
+150,0.996,['Giorgos Papasideris'],0.389,175827,0.409,0,46kISPbFGH6uelVB2hNUaa,0.808,8,0.173,-9.333,0,Pera Sto Pera Mahala,0,1930-01-01,0.0507,88.788,0.796,1930
+151,0.977,['Ignacio Corsini'],0.66,138347,0.215,0,47PSm96pHcTUuV1fLBtZ0q,5.69E-06,5,0.782,-17.501,1,Siete Lágrimas - Remasterizado,0,1930-06-21,0.0938,107.809,0.561,1930
+152,0.983,"['Gene Sedric', 'Al Casey']",0.564,166893,0.191,0,47Yn2O8dgxSzyWDrq4n7Nx,0.802,8,0.168,-11.108,1,Wail Of The Scromph,2,1930,0.0319,86.405,0.388,1930
+153,0.962,['Francisco Canaro'],0.766,171000,0.252,0,48EGcTrfJ9GORtz3KebYOm,0,10,0.337,-8.795,0,Bajo Cuerda - Instrumental (Remasterizado),0,1930-12-03,0.0556,113.661,0.881,1930
+154,0.994,['Kostas Tsanakos'],0.475,30000,0.277,0,48gD3QaOgrZvyr3vhMuG1R,0.000742,11,0.299,-10.802,0,To koritsi sou kira mou,0,1930-01-01,0.0465,93.681,0.968,1930
+155,0.988,"['Francisco Canaro', 'Charlo']",0.631,179493,0.254,0,48scMLeZSqaJoTStmQIlHI,0.527,1,0.106,-8.206,1,Mejicana Ven - Remasterizado,0,1930-11-20,0.0604,99.762,0.713,1930
+156,0.905,"['Sy Oliver', 'Attila the Hun', 'Jimmie Lunceford & His Orchestra']",0.8,176120,0.166,0,493O6Uf84IQH4SH4Scumay,0.128,5,0.0883,-14.921,0,Hittin' the Bottle,1,1930-01-01,0.0779,104.06,0.617,1930
+157,0.991,['Patrício Teixeira'],0.534,196043,0.199,0,49OPPHZzx3svtdYt4ffCQV,0.0902,3,0.11,-15.419,1,Gavião Calçudo,0,1930-06-20,0.0685,100.386,0.578,1930
+158,0.8,['Robert Francis'],0.51,150777,0.27,0,49UWs2R4eF9Ww2TwecHE2K,0.000489,7,0.122,-12.788,1,Look for the Silver Lining,0,1930,0.0956,174.472,0.418,1930
+159,0.904,"['Giorgos Papasideris', 'Klarino Har. Margels']",0.502,192067,0.494,0,49gHX66DkP4yrMT6hng6UO,0.933,9,0.0844,-7.685,0,Gia Sou Kaimeni Leventia,0,1930-01-01,0.0388,112.033,0.931,1930
+160,0.995,['ANTONIS NTALGKAS'],0.434,196693,0.306,0,4A807nqcpcHJVxVMNmxllY,0.901,10,0.12,-11.895,0,Salam Sala,0,1930-01-01,0.0555,124.672,0.314,1930
+161,0.993,['Kostas Roukounas'],0.361,193653,0.365,0,4AVjTCJVohNzt2I4Tbx1m8,0.81,5,0.238,-12.329,1,Neva Rast Manes,0,1930-01-01,0.0506,101.89,0.546,1930
+162,0.985,"['Francisco Canaro', 'Ernesto Fama']",0.676,197507,0.312,0,4BI6u0ALUUmIa3WHyMMpnl,0.133,4,0.113,-6.49,1,Las Obreritas Chilenas - Remasterizado,0,1930-12-05,0.109,177.429,0.876,1930
+163,0.992,"['Francisco Canaro', 'Charlo']",0.701,179507,0.266,0,4BwqVJLcYAuTrepQyyLjml,0.415,3,0.24,-14.107,1,La Traicionera - Remasterizado,0,1930-11-12,0.152,114.907,0.937,1930
+164,0.94,['Jack Payne'],0.569,170867,0.117,0,4C8Zw7r2LvN4SnBDtIu7qc,0.00874,0,0.151,-22.011,1,Fancy You Falling for Me!,0,1930,0.0383,114.602,0.637,1930
+165,0.994,"['Francisco Canaro', 'Charlo']",0.669,189493,0.458,0,4Ccl9Q8YI8h7JOvSzoH5Ca,0.682,11,0.136,-7.391,1,La Comadreja - Remasterizado,0,1930-12-05,0.321,154.61,0.984,1930
+166,0.994,['Hrisoula Stini'],0.493,200760,0.264,0,4CizuT4ZZCClJisvxsVWf0,5.09E-06,7,0.176,-12.082,1,Kathe Vradaki Stis Ohto,0,1930-01-01,0.0513,79.949,0.695,1930
+167,0.966,['Lord Kitchener'],0.817,179080,0.559,0,4CjFhaey3Jr4z4uoIrms4H,0.0248,8,0.0974,-1.991,1,Muriel and the Bug,1,1930-01-01,0.141,140.984,0.908,1930
+168,0.445,"['Shorty Bralik', 'ParkPlace Swagg']",0.613,206785,0.55,1,4CnpHG2qWJJu5gwWbo1OCX,0,4,0.107,-12.05,0,No Lack'n,0,1930-05-29,0.404,116.576,0.352,1930
+169,0.982,"['Manuel Ponce', 'Andrés Segovia']",0.385,165960,0.108,0,4DIRWsTjTb728nKD6oBRY4,0.845,9,0.141,-28.06,0,Suite in A major: Allemande,2,1930-01-01,0.0499,110.895,0.738,1930
+170,0.993,['Fragiskos Dimitriou'],0.293,223787,0.211,0,4DSIEavoLru6Dn5OKrP1Uw,0.865,1,0.112,-11.083,0,Ntoulas,0,1930-01-01,0.0391,89.13,0.56,1930
+171,0.968,['Francisco Canaro'],0.722,177000,0.297,0,4DcAyA58a9WBd1BWHk8jNB,0.343,10,0.224,-6.402,0,El Castigo - Instrumental (Remasterizado),0,1930-11-16,0.0483,111.254,0.925,1930
+172,0.986,"['Giorgos Mpekas', 'Polixeni LItou']",0.548,194880,0.289,0,4DlATZ1MIXLxb1WbA6utuO,0.367,4,0.102,-8.432,0,Vasilikos Tha Gino,0,1930-01-01,0.0411,122.284,0.757,1930
+173,0.989,['Dimitris Filipopoulos'],0.315,201613,0.55,0,4E5i6hk6cipCOFHBUN4AP3,0.027,4,0.326,-6.997,0,Mesanuxta,0,1930-01-01,0.0386,103.721,0.339,1930
+174,0.953,['Carlos Gardel'],0.705,160307,0.199,0,4EMYJgIiQJdxnKzc6ze1uJ,1.59E-05,8,0.128,-11.973,1,Por seguidora y por fiel,2,1930-08-18,0.148,134.81,0.846,1930
+175,0.979,['Ignacio Corsini'],0.552,135987,0.321,0,4EMxostYJMzLf9OemonETB,0.747,7,0.118,-19.321,1,Una Milonga de Amor - Remasterizado,0,1930-06-21,0.0574,134.681,0.724,1930
+176,0.974,"['Francisco Canaro', 'Luis Díaz']",0.529,163000,0.326,0,4Ebejo6qrwwmYaYtO6JhP8,0,1,0.122,-9.604,0,Rosa Blanca - Remasterizado,0,1930-12-03,0.0771,171.431,0.934,1930
+177,0.915,['Paradosiako Har. Margelis'],0.469,182571,0.569,0,4EeCXn6kMhuGDCvhW1Nj5G,0.381,8,0.116,-11.84,0,Karakaxa,0,1930-01-01,0.0778,139.069,0.767,1930
+178,0.989,['Ignacio Corsini'],0.742,149640,0.181,0,4EtakFon0YpeclknJpuDNp,0.0123,3,0.162,-18.367,0,Lo Han Visto Con Otra - Remasterizado,0,1930-06-21,0.104,125.773,0.689,1930
+179,0.995,['Raquel Meller'],0.534,155246,0.232,0,4Fy0LR2VsxaI0ZvtUAXLrY,0.000491,4,0.235,-10.537,0,El Peligro de las Rosas,0,1930-01-01,0.081,73.425,0.409,1930
+180,0.995,"['Renos Talmas', 'Panos Visvardis']",0.345,197680,0.395,0,4GcaZeQH8XpwlXTVdf8T3y,0.192,9,0.342,-11.025,1,Tosoi Sou Eipan S'agapo,0,1930-01-01,0.0353,126.39,0.653,1930
+181,0.984,"[""Scarlet D'Carpio""]",0.4,142443,0.19,0,4Gcc2YB0AAlzPLQhosdyAw,0.9,0,0.182,-12.062,1,Chililin Uth'aja,0,1930,0.0492,81.29,0.402,1930
+182,0.983,"['Dimitris Gkogkos', 'Manolis Xiotis']",0.567,194227,0.547,0,4HlNijxuoeNkexYmTPOIhh,0.921,7,0.113,-12.907,1,To perasma,0,1930-01-01,0.0433,107.782,0.929,1930
+183,0.991,['Dimitris Filipopoulos'],0.274,202760,0.505,0,4Hxm08tWVyqpFzHlFl55XV,6.11E-05,4,0.29,-8.284,1,Rezenta,0,1930-01-01,0.0348,109.34,0.617,1930
+184,0.965,['Giorgos Papasideris'],0.436,202213,0.452,0,4IJWk7RaZahEF1bpsF6lWe,0.43,8,0.44,-8.72,1,Vohaitissa,0,1930-01-01,0.104,70.808,0.504,1930
+185,0.97,['Lord Kitchener'],0.683,182413,0.578,0,4INNcmdasqo8mDTcm2sPf7,6.25E-05,0,0.227,-0.934,1,Wife and Mother,0,1930-01-01,0.112,140.157,0.881,1930
+186,0.68,"['Oρχήστρα Β.Reibold', 'Τέτος Δημητριάδης']",0.571,172347,0.543,0,4IR8qww21dJImL5VmpBMPJ,2.61E-06,7,0.477,-9.035,0,Σόνια,0,1930-01-01,0.0868,101.903,0.734,1930
+187,0.996,['Sotiris Stasinopoulos'],0.361,257280,0.281,0,4J8bnVjrlrv1TaNnni6B9l,0.918,6,0.319,-14.203,1,Anevika Ston Elimpo,0,1930-01-01,0.0577,67.137,0.597,1930
+188,0.987,['Αντώνης Διαμαντίδης'],0.379,190560,0.315,0,4JjGOgKuFitoGVNXkgLDQK,0.00305,2,0.369,-9.775,1,Δέσπω Καλαματιανή,0,1930-01-01,0.0525,97.433,0.551,1930
+189,0.995,['Kostas Nouros'],0.469,181493,0.175,0,4JrSTmT784lDkSpsDjLeDX,0.972,1,0.105,-16.876,0,Stin Athina,0,1930-01-01,0.0685,78.456,0.318,1930
+190,0.988,['Rita Ampatzi'],0.494,188200,0.247,0,4K4Wdz01nYqAOOGiZs1WXL,0.511,1,0.151,-12.34,0,Stis Aretousas ti spilia,0,1930-01-01,0.0441,113.799,0.563,1930
+191,0.995,['Raquel Meller'],0.617,164800,0.166,0,4K5fBR4Fr26EBZZlSThn1J,0.589,2,0.107,-13.419,0,Valencia (La Bien Amada),0,1930-01-01,0.326,129.003,0.616,1930
+192,0.991,"['Danai Stratigopoulou', 'Panos Visvardis']",0.392,182173,0.316,0,4K9P9H5l0xJbUV89GKtKPc,0.00161,2,0.378,-9.65,1,Dio Maura Matia,0,1930-01-01,0.0388,112.605,0.455,1930
+193,0.986,['Γιώργος Κατσαρός'],0.513,174667,0.278,0,4KONpyi8cgWspQrWuW2f0k,0,2,0.666,-10.1,1,Μου έδωσες την καρδούλα σου,0,1930-01-01,0.0566,111.084,0.631,1930
+194,0.993,"['Giota Lidia', 'Prodromos Tsaousakis']",0.613,204840,0.311,0,4KTaMgC3vIdYo4K4CU85Cm,0.15,4,0.134,-11.212,0,Ο μετανάστης,0,1930-01-01,0.0451,119.633,0.961,1930
+195,0.995,['Sofia Iatridou'],0.396,221587,0.535,0,4KVzyRdy2VyMDzDs2eEART,0.484,0,0.396,-6.069,1,Glukeia Retzina,0,1930-01-01,0.0501,137.832,0.54,1930
+196,0.988,['Roza Eskenazi'],0.475,201173,0.445,0,4KZAdHeZ2uqhrzFIQW9IE2,0.0191,6,0.366,-11.115,1,To Marikaki,0,1930-01-01,0.042,80.644,0.796,1930
+197,0.981,"['Federico Moreno Torroba', 'Vicente Gomez', 'Guillermo Gomez']",0.533,159896,0.205,0,4KgutHaYymtSF07o1ezYkf,0.943,3,0.107,-18.888,0,Fandanguillo,0,1930-01-01,0.0676,114.557,0.712,1930
+198,0.984,"['Francisco Canaro', 'Charlo']",0.852,181987,0.375,0,4KnjJgdiSy5k7aapXGJyov,0.1,2,0.246,-6.287,1,El Pingo de Pascual - Remasterizado,0,1930-12-05,0.135,117.141,0.891,1930
+199,0.989,"['Francisco Canaro', 'Charlo']",0.439,192000,0.0716,0,4KuFgXbahxEILwg8qu1kKG,1.44E-05,7,0.122,-19.899,1,Que Bello Es Soñar - Remasterizado,0,1930-11-12,0.0753,77.081,0.23,1930
+200,0.994,['D.roitman'],0.27,255040,0.146,0,4KzEt55q1rOlGDiISqYART,0.000117,3,0.121,-16.569,1,Schochney botey chomer,0,1930,0.0647,74.37,0.255,1930
+201,0.747,"['Sinclair Lewis', 'Frank Arnold']",0.632,320145,0.197,0,4gZXSffISQgwcUg3FfU6Be,0,4,0.186,-16.435,0,"Das ist bei uns nicht möglich, Kapitel 137",0,1935,0.962,165.754,0.37,1935
+202,0.923,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.499,149000,0.0405,0,4gi71RnhXrk6dPfh8w9orj,0.00121,5,0.578,-16.296,1,"Haydn: String Quartet No. 5 in F Major, Op. 3 No. 5, Hob. III, 17: III. Menuetto (Attrib. Hoffstetter)",0,1935,0.0457,137.713,0.839,1935
+203,0.565,"['Sinclair Lewis', 'Frank Arnold']",0.722,273072,0.252,0,4h8gqHQ6pdgXWqElxBSGeo,0,5,0.169,-14.629,0,"Das ist bei uns nicht möglich, Kapitel 5",0,1935,0.938,126.048,0.456,1935
+204,0.701,"['Sinclair Lewis', 'Frank Arnold']",0.709,220488,0.169,0,4hVWHAQki1TUhgQv0hN6tl,0,4,0.352,-20.818,1,"Das ist bei uns nicht möglich, Kapitel 31",0,1935,0.95,128.769,0.449,1935
+205,0.492,['Эрнест Хемингуэй'],0.626,109512,0.225,1,4hmVv3I9OPCbI5FbRa5lUI,0,7,0.164,-16.619,1,Часть 58.3 & Часть 59.1 - Зеленые холмы Африки,0,1935,0.949,174.223,0.534,1935
+206,0.979,['Nikos Karakostas'],0.595,192613,0.587,0,4i7Wfj5kX5aUAB5WCS8lZn,0.908,0,0.274,-5.927,1,Agginara,0,1935-01-01,0.0405,108.834,0.949,1935
+207,0.952,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.383,268947,0.0859,0,4i89yRwIF9fyhCa0xhsx1q,0.00759,0,0.0963,-17.174,0,"Haydn: String Quartet No. 62 in C Major, Op. 76 No. 3, Hob. III, 77, ""Emperor"": IV. Finale (Presto)",0,1935,0.0402,87.764,0.399,1935
+208,0.991,"['Margarita Cueto', 'Jorge Añez']",0.751,210991,0.134,0,4iCz3Nr7IryTuxf2PNhcXd,0.00737,5,0.13,-13.177,1,Los Promeseritos,0,1935-01-01,0.446,81.293,0.459,1935
+209,0.974,['Cristian Vasile'],0.34,180088,0.515,0,4jCr1iWP2I9WfywJ2Zx4qR,5.39E-05,2,0.548,-9.463,0,"Cărărue, du-mă iar",0,1935-01-01,0.0539,137.841,0.45,1935
+210,0.965,['Viorel Demetriad'],0.609,156970,0.356,0,4jFnAPWgw8XgDBdrspTKu8,0.427,10,0.217,-13.484,1,Nu te am decât pe tine,0,1935-01-01,0.0637,81.878,0.825,1935
+211,0.712,"['Sinclair Lewis', 'Frank Arnold']",0.67,326832,0.15,0,4jJ1Xp7ccRdH2U3TcylvFI,1.02E-06,5,0.123,-19.516,0,"Das ist bei uns nicht möglich, Kapitel 193",0,1935,0.958,147.377,0.474,1935
+212,0.973,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.546,192667,0.058,0,4k50qy50MOtBgkOBOjyfx8,0.625,7,0.288,-16.558,1,"Haydn: String Quartet No. 59 in G Minor, Op. 74 No. 3, Hob. III, 74, ""The Horseman"": III. Menuetto (Allegretto)",0,1935,0.0476,149.401,0.69,1935
+213,0.909,"['Ruggero Leoncavallo', 'Karl Böhm', 'Staatskapelle Dresden']",0.211,213800,0.178,0,4k8gfZc9CfCiUQ7OQ9Q4bZ,0.917,4,0.0861,-16.841,1,"Leoncavallo: Pagliacci, Act 1: Intermezzo",0,1935,0.0415,74.311,0.0359,1935
+214,0.971,['Petre Alexandru'],0.357,157962,0.432,0,4kHaq05yyafCSVhTjp18m0,3.35E-06,8,0.265,-10.943,1,Laie chiorul,0,1935-01-01,0.13,64.378,0.62,1935
+215,0.918,"['Johannes Brahms', 'Karl Böhm', 'Staatskapelle Dresden']",0.21,754480,0.174,0,4kitSA29V9ZlJN0QKNplKt,0.903,4,0.351,-12.639,0,"Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo",0,1935,0.0347,80.95,0.118,1935
+216,0.333,['Эрнест Хемингуэй'],0.714,118585,0.178,1,4l9f8JE1UmmIU1ITw6CjVx,0,7,0.27,-15.534,1,Часть 2.3 & Часть 3.1 - Зеленые холмы Африки,0,1935,0.892,130.663,0.552,1935
+217,0.993,"['Samuel Barber', 'Marilyn Horne']",0.235,155867,0.156,0,4lD0D2YENuo6esNxqA6Qu6,0.00601,4,0.0702,-19.433,0,"4 Songs, Op.13: 3. Sure on this Shining Night",0,1935,0.0553,84.884,0.0394,1935
+218,0.779,"['Anton Bruckner', 'Karl Böhm', 'Staatskapelle Dresden']",0.158,1170280,0.119,0,4lP0LpspRC1El9FOGp03iz,0.749,5,0.118,-15.162,0,Bruckner: Symphony No. 5 in B-Flat Major: I. Introduction - Adagio - Allegro,0,1935,0.0347,56.985,0.0884,1935
+219,0.952,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.404,276160,0.167,0,4leEGQMmNu3CXZIQMkwgcW,0.066,0,0.235,-17.837,1,"Haydn: String Quartet No. 57 in C Major, Op. 74 No. 1, Hob. III, 72: I. Allegro moderato",0,1935,0.0402,139.599,0.394,1935
+220,0.965,['Cristian Vasile'],0.597,170606,0.315,0,4lf3WuFwxm7O4EV86mSpm5,5.33E-05,0,0.291,-12.014,1,Bianca,0,1935-01-01,0.061,109.395,0.617,1935
+221,0.99,['Stratos Pagioumtzis'],0.516,195467,0.447,0,4mGGOzPdFXME6mZMs0if8B,0.164,2,0.213,-11.354,1,I Meraklides,0,1935-01-04,0.0323,90.211,0.675,1935
+222,0.982,['Marcelle Bordas'],0.637,169973,0.211,0,4mNmdGAJBVXnyRQoSAHldN,0,10,0.0927,-14.646,1,La Femme À Barbe,0,1935,0.134,115.78,0.644,1935
+223,0.25,['Эрнест Хемингуэй'],0.711,97046,0.121,1,4mnAn0Wiw3TKXzjbrJBlFb,0,11,0.171,-19.258,0,Часть 26.4 & Часть 27.1 - Зеленые холмы Африки,0,1935,0.923,128.659,0.688,1935
+224,0.747,"['Sinclair Lewis', 'Frank Arnold']",0.716,212729,0.195,0,4myvoef5VDjnbwOXXqgnrK,0,1,0.464,-21.61,0,"Das ist bei uns nicht möglich, Kapitel 82",0,1935,0.953,110.987,0.534,1935
+225,0.192,['Эрнест Хемингуэй'],0.745,170124,0.0924,1,4ojBmQOy7aYpm4EjWG6Ucm,0,11,0.187,-20.099,0,Часть 97.3 - Зеленые холмы Африки,0,1935,0.883,109.016,0.741,1935
+226,0.353,['Эрнест Хемингуэй'],0.665,113103,0.113,1,4oy0cGz6rbXJpJKd7kIoRH,0,11,0.147,-17.155,0,Часть 72.4 & Часть 73.1 - Зеленые холмы Африки,0,1935,0.896,81.736,0.746,1935
+227,0.743,"['Sinclair Lewis', 'Frank Arnold']",0.716,268344,0.216,0,4p4jR3HT9LkvKlHSVTcht8,1.80E-05,2,0.393,-21.318,1,"Das ist bei uns nicht möglich, Kapitel 192",0,1935,0.935,126.073,0.513,1935
+228,0.995,"['Kakkia Mendri', 'Lidia Likiardopoulou', '2014 ATHINAIKI DISCOGRAFIKI']",0.501,189453,0.341,0,4pRTgwUEHWSHSpsirCkl1s,0.0117,2,0.418,-11.514,1,An xanagirizes,0,1935-01-01,0.0814,109.956,0.621,1935
+229,0.267,['Эрнест Хемингуэй'],0.71,103500,0.135,1,4pwXzP4nlIC5CCX1OlTnqH,0,7,0.221,-17.587,1,Часть 79.2 - Зеленые холмы Африки,0,1935,0.932,83.975,0.71,1935
+230,0.952,"['Samuel Barber', 'Leontyne Price', 'Thomas Schippers', 'New Philharmonia Orchestra']",0.232,559453,0.188,0,4pz6Hqwt78bMWosL0Kxp5S,0.000669,5,0.0964,-13.759,0,"Antony and Cleopatra, Op. 40: Give Me My Robe",0,1935,0.0387,105.337,0.0379,1935
+231,0.491,['Эрнест Хемингуэй'],0.729,101745,0.136,1,4q6G3SMiRzm5udxGEw6jyx,0,11,0.118,-16.814,0,Часть 8.4 & Часть 9.1 - Зеленые холмы Африки,0,1935,0.936,83.848,0.51,1935
+232,0.21,['Эрнест Хемингуэй'],0.628,113100,0.108,1,4qCMLwR23qjj8v0WEJOdEB,0,6,0.214,-15.938,1,Часть 40.3 - Зеленые холмы Африки,0,1935,0.932,176.004,0.806,1935
+233,0.282,['Эрнест Хемингуэй'],0.686,108000,0.176,1,4qGDVmu2FbayxOXryli4rm,0,11,0.136,-16.794,0,Часть 47.2 - Зеленые холмы Африки,0,1935,0.939,88.323,0.807,1935
+234,0.958,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.569,208600,0.058,0,4qbV52OKldyO4LSMLJdXYG,0.000935,3,0.165,-17.211,1,"Haydn: String Quartet No. 52 in E-Flat Major, Op. 64 No. 6, Hob. III, 64: III. Menuetto (Allegretto)",0,1935,0.0452,138.41,0.655,1935
+235,0.948,"['Samuel Barber', 'Leonard Slatkin', 'St. Louis Symphony']",0.185,294213,0.151,0,4qr6XmYs4rtQT0nvuqqoSQ,0.906,4,0.106,-16.431,0,"Symphony No. 1, Op. 9: IV. Con moto (Passacaglia)",0,1935,0.0389,114.663,0.0398,1935
+236,0.926,"['Francisco Canaro', 'Roberto Maida']",0.575,162507,0.422,0,4qzNrA9TfcT7i2eLqqMe15,1.19E-05,2,0.21,-4.853,1,Parece Mentira - Remasterizado,0,1935-01-10,0.0516,119.899,0.743,1935
+237,0.924,"['Max Reger', 'Karl Böhm', 'Staatskapelle Dresden']",0.215,129480,0.128,0,4r7DjpsSHHPr9P8WC40Ush,0.861,9,0.378,-18.602,1,"Reger: Variations and Fugue on a Theme of Mozart, Op. 132: II. Var. I (L'istesso tempo, quasi un poco piu lento)",0,1935,0.0378,110.383,0.267,1935
+238,0.319,['Эрнест Хемингуэй'],0.688,112200,0.154,1,4r8KXRe05iyNQ1N77KEtKK,0,0,0.349,-15.634,1,Часть 3.2 - Зеленые холмы Африки,0,1935,0.945,88.625,0.536,1935
+239,0.976,['Jean Moscopol'],0.436,218723,0.216,0,4rj5vRZYaweI3wHjUckNt6,3.43E-06,0,0.111,-15.916,1,C-un buchetel de trandafiri,0,1935-01-01,0.0556,99.302,0.338,1935
+240,0.591,"['Sinclair Lewis', 'Frank Arnold']",0.707,308024,0.234,0,4rmkGgD9JTLewZCw9e94PG,0,1,0.42,-17.933,0,"Das ist bei uns nicht möglich, Kapitel 166",0,1935,0.952,129.551,0.396,1935
+241,0.514,['Эрнест Хемингуэй'],0.718,98200,0.132,1,4sEEBSQNWOyEGY5S9eEpfN,0,7,0.195,-17.659,1,Часть 79.3 - Зеленые холмы Африки,0,1935,0.935,127.557,0.541,1935
+242,0.0124,['Jeff Stetson'],0.5,317413,0.676,0,4suAr05Z4lMo3uiHJR1etY,0.786,11,0.13,-9.881,0,Nowhere Street,0,1935,0.0425,93.408,0.725,1935
+243,0.962,"['Jean Sibelius', 'Jascha Heifetz', 'Sir Thomas Beecham', 'London Philharmonic Orchestra']",0.147,408360,0.16,0,4swEz6fT6V3CR0i8BwzRBF,0.756,10,0.186,-19.085,1,Violin Concerto in D minor Op. 47: II. Adagio di molto,0,1935,0.0417,91.591,0.0396,1935
+244,0.378,['Avelino Muñoz'],0.61,162773,0.402,0,4txgO8BqSQ5z2THqkwWYit,0.853,7,0.0866,-16.23,1,Boleros Panameños,0,1935-01-01,0.0474,128.742,0.34,1935
+245,0.984,"['Eugen Mirea', 'V. Citov', 'Manole Stroici']",0.558,179827,0.228,0,4u8gssQxavBHHfAQF2OW4l,2.55E-05,5,0.105,-12.721,1,De închiriat,0,1935-01-01,0.0341,95.884,0.47,1935
+246,0.975,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.352,332013,0.061,0,4uJAWyZSP5fvGWiCAZcqHA,0.568,3,0.245,-18.683,1,"Haydn: String Quartet No. 25 in C Major, Op. 20 No. 2, Hob. III, 32: II. Adagio",0,1935,0.0481,84.903,0.318,1935
+247,0.43,['Эрнест Хемингуэй'],0.644,96400,0.18,1,4uPfR173mFycl3JOLZ4yXl,0,6,0.211,-16.635,0,Часть 74.3 - Зеленые холмы Африки,0,1935,0.959,164.912,0.649,1935
+248,0.311,['Эрнест Хемингуэй'],0.727,100854,0.203,1,4uZOR2T4mLPxDvVSFe4mci,0,11,0.357,-15.634,0,Часть 68.4 & Часть 69.1 - Зеленые холмы Африки,0,1935,0.941,61.563,0.783,1935
+249,0.635,"['Sinclair Lewis', 'Frank Arnold']",0.717,320719,0.167,0,4w5J1GWuuemYq9XAg4CILn,0,11,0.0995,-19.801,0,"Das ist bei uns nicht möglich, Kapitel 23",0,1935,0.951,121.438,0.589,1935
+250,0.401,['Эрнест Хемингуэй'],0.679,106500,0.177,1,4w9aSaQoPj1ZoTt70cSlPs,0,7,0.166,-14.871,1,Часть 70.2 - Зеленые холмы Африки,0,1935,0.942,148.042,0.803,1935
+251,0.993,['Stratos Pagioumtzis'],0.662,212000,0.2,0,4wS3zv8bP2oyIm9weZ5yas,0.0529,5,0.116,-13.33,0,O Kosmos Plouti Lahtari,0,1935-01-04,0.0825,121.308,0.799,1935
+252,0.918,"['Francisco Canaro', 'Roberto Maida']",0.614,196413,0.474,0,4x2wZH5nYQhNjdBWQdlASj,0.0443,8,0.0781,-4.011,1,Tu y Yo - Remasterizado,0,1935-01-10,0.0369,138.328,0.818,1935
+253,0.885,"['Francisco Canaro', 'Roberto Maida']",0.664,184707,0.656,0,4xU6EjFFubreVX6SYd6x7C,0.0034,5,0.0379,-4.43,1,Las Chicas del Dia - Remasterizado,0,1935-01-10,0.136,167.885,0.952,1935
+254,0.983,['K.C.Dey'],0.519,210840,0.256,0,4xwu1YwKlTS4RFVmq8y64e,6.65E-05,7,0.103,-11.74,1,"Mathur Sakhi Hari Ki Mathurapur Gelo, Pt. 1",0,1935-12-01,0.118,130.9,0.295,1935
+255,0.856,"['Sinclair Lewis', 'Frank Arnold']",0.679,229918,0.208,0,4yCKFxkeZ7h344MEWyaWjc,2.93E-06,2,0.176,-18.738,1,"Das ist bei uns nicht möglich, Kapitel 147",0,1935,0.958,93.552,0.397,1935
+256,0.784,"['n/a', 'Nitsch, Johanens', 'In Motion']",0.622,320800,0.484,0,4z7TEhZmXEaHCH3tJXs0xR,0.767,9,0.0703,-9.426,1,Back home,0,1935,0.0271,107.924,0.371,1935
+257,0.643,['Carmen Miranda'],0.551,171720,0.343,0,50Cgvk6qN64smqeByp1C3p,0.00485,0,0.081,-17.897,0,Esqueci De Sorrir,0,1935,0.108,111.656,0.731,1935
+258,0.723,['Jeff Stetson'],0.523,245160,0.31,0,50DrbJGrSmdSufBl5VsXnI,0.0197,4,0.115,-10.652,0,With You In Mind,0,1935,0.0302,133.914,0.289,1935
+259,0.894,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.526,171147,0.287,0,50d5nBSh3lxvkrRHqIqRjz,0.315,3,0.468,-16.41,1,"Haydn: String Quartet No. 30 in E-Flat Major, Op. 33 No. 2, Hob. III, 38, ""The Joke"": IV. Finale (Presto)",0,1935,0.0789,91.308,0.59,1935
+260,0.993,"['Stratos Pagioumtzis', 'Stellakis Perpiniadis']",0.725,188000,0.439,0,50qLzsaZVax9a18mRNLY5U,0.311,4,0.342,-11.59,1,Thelo Na S Antamoso,0,1935-01-04,0.0456,104.608,0.909,1935
+261,0.671,"['Sinclair Lewis', 'Frank Arnold']",0.697,210404,0.216,0,51VvRJi9AZEVafPhPuR9LG,6.36E-05,11,0.129,-19.262,1,"Das ist bei uns nicht möglich, Kapitel 178",0,1935,0.933,105.389,0.537,1935
+262,0.932,['Nikos Karakostas'],0.555,195147,0.627,0,51nmrQ6C5S7yCANimlcoAU,0.925,7,0.326,-7.196,1,Gia mia Lidorikiotissa,0,1935-01-01,0.0354,111.17,0.86,1935
+263,0.903,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.548,199600,0.287,0,51ssflxVu7o5Yc9Dnd3bu9,0.00751,3,0.123,-15.034,1,"Haydn: String Quartet No. 52 in E-Flat Major, Op. 64 No. 6, Hob. III, 64: IV. Finale (Presto)",0,1935,0.0695,151.723,0.733,1935
+264,0.705,"['Sinclair Lewis', 'Frank Arnold']",0.654,297679,0.219,0,53onNX0wBZB9kzDAAFUm1R,1.12E-06,0,0.147,-17.349,1,"Das ist bei uns nicht möglich, Kapitel 140",0,1935,0.956,92.485,0.355,1935
+265,0.531,['Avelino Muñoz'],0.726,156667,0.435,0,53xXJksbgw9JiJj2S5WGsK,0.861,2,0.0783,-15.112,0,Estampa Panameña,0,1935-01-01,0.0713,94.845,0.789,1935
+266,0.909,"['Samuel Barber', 'Leonard Slatkin', 'St. Louis Symphony']",0.335,257960,0.173,0,5424zSt3uMw3QfKurMbDkB,0.928,0,0.124,-23.249,1,"Symphony No. 1, Op. 9: II. Allegro molto",0,1935,0.0464,107.721,0.209,1935
+267,0.907,"['N. Vlădoianu', 'N. Constantinescu', 'Ion Vasilescu', 'Mia Braia', 'Petre Alexandru']",0.336,138867,0.332,0,54UW6BOvKKi9M7kgOGK4q3,0,2,0.308,-12.923,1,Să nu ne pierdem vremea supărați,0,1935-01-01,0.0329,88.247,0.432,1935
+268,0.733,"['Sinclair Lewis', 'Frank Arnold']",0.623,296739,0.205,0,55LS22v84eFhasf8dJXGQ6,1.07E-06,7,0.152,-19.382,1,"Das ist bei uns nicht möglich, Kapitel 149",0,1935,0.964,78.988,0.522,1935
+269,0.939,"['Richard Wagner', 'Karl Böhm', 'Arno Schellenberg', 'Eugen Füchs', 'Hanns Lange', 'Hans Hermann Nissen', 'Helene Jung', 'Hermann Greiner', 'Klaus Hermanns', 'Ludwig Eybisch', 'Margarete Teschemacher', 'Martin Kremer', 'Robert Büssel', 'Rudolf Dittrich', 'Rudolf Schmalnauer', 'Serge Smirnoff', 'Sven Nilsson', 'Torsten Ralf', 'Staatskapelle Dresden']",0.127,215400,0.258,0,55a1nD1yUFy4oM1jEzIGja,0.75,7,0.369,-14.69,1,"Wagner: Die Meistersinger von Nürnberg, WWV 96, Act 3: ""Silentium! Silentium!"" (Apprentices, All)",0,1935,0.0326,71.253,0.17,1935
+270,0.306,['Эрнест Хемингуэй'],0.671,120281,0.114,1,55wsUbhC9MpNhN4yNFcra5,0,7,0.379,-18.045,1,Часть 75.4 & Часть 76.1 - Зеленые холмы Африки,0,1935,0.923,150.917,0.83,1935
+271,0.447,['Эрнест Хемингуэй'],0.68,115390,0.203,1,56PQrN9xIJCtWKdT0LQtuG,0,11,0.126,-14.22,0,Часть 55.4 & Часть 56.1 - Зеленые холмы Африки,0,1935,0.918,85.072,0.684,1935
+272,0.993,['Cristian Vasile'],0.403,197016,0.316,0,56ZqpKP4EfkS6WQsQPnXVc,0.0255,7,0.448,-14.457,0,De ce mi-ai spus că mă iubești?,0,1935-01-01,0.0472,116.625,0.285,1935
+273,0.661,['Эрнест Хемингуэй'],0.621,101800,0.162,1,56oqHw4mJFMorBNJQprM9L,0,2,0.432,-15.19,1,Часть 64.2 - Зеленые холмы Африки,0,1935,0.944,180.009,0.619,1935
+274,0.995,['Πέτρος Κυριακός'],0.549,89490,0.256,0,57JtPCnbDXyYYRr73dvUu1,0.00891,5,0.295,-12.094,1,Ο παντουφλάς,0,1935-01-01,0.147,115.451,0.381,1935
+275,0.385,['Carl Verheyen'],0.268,121360,0.493,0,57OaX0xwrv3Loj9fxIljeW,0.735,7,0.452,-8.307,1,Hubcap With Strings,2,1935,0.0354,176.673,0.551,1935
+276,0.987,['Nandalal Puri'],0.464,176813,0.148,0,57rfqRYpKi8AoVixLBsOG3,0.47,11,0.0981,-16.274,0,Gabir Rate Jagi Khungi Tomare,0,1935-12-01,0.0406,70.495,0.324,1935
+277,0.968,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.481,223747,0.121,0,57yZ9NcjSMST5b228hxDO1,0.522,3,0.339,-16.163,1,"Haydn: String Quartet No. 59 in G Minor, Op. 74 No. 3, Hob. III, 74, ""The Horseman"": I. Allegro",0,1935,0.046,83.721,0.465,1935
+278,0.996,['Carlota Jaramillo'],0.5,173923,0.126,0,59LCbEtnHLcfsSvz91hzzy,0.59,6,0.242,-16.808,0,Imploración De Amor,2,1935-01-01,0.109,191.862,0.456,1935
+279,0.922,['Elyane Célis'],0.426,193827,0.223,0,59PnS1LZdaq9nd2I7SjZNy,0.614,3,0.259,-15.16,1,Piroulirouli,0,1935,0.0485,121.284,0.353,1935
+280,0.753,"['Sinclair Lewis', 'Frank Arnold']",0.716,273046,0.202,0,5AAgVY7r7EZd7Mgr9cV3m2,0,9,0.117,-18.206,1,"Das ist bei uns nicht möglich, Kapitel 43",0,1935,0.953,126.421,0.545,1935
+281,0.995,['Carlota Jaramillo'],0.577,184869,0.195,0,5ACQzeMtLTEiwBmRzSN7ti,0.843,1,0.197,-14.354,0,Me Has Robado El Corazón,3,1935-01-01,0.102,211.089,0.637,1935
+282,0.904,['Carl Verheyen'],0.433,62213,0.459,0,5ATKi233F5CFbx7QhdixA1,0.786,7,0.108,-8.41,1,Big Sur,2,1935,0.0418,154.805,0.726,1935
+283,0.511,"['Theodor Berger', 'Karl Böhm', 'Staatskapelle Dresden']",0.402,232720,0.44,0,5AkWbIxJiOL0oAZ54lHKCk,0.888,5,0.538,-12.313,1,"Berger: Rondino giocoso, Op. 4",0,1935,0.0357,115.983,0.657,1935
+284,0.962,['Carmen Miranda'],0.567,161133,0.393,0,5ArZWjx9ri7rITQBaaYL43,0,5,0.0844,-13.591,0,Fogueira Do Meu Coração,0,1935,0.128,79.049,0.897,1935
+285,0.733,"['Sinclair Lewis', 'Frank Arnold']",0.664,346737,0.19,0,5BQmNfAyeuCK1ZdWZZ5PE5,0,6,0.194,-21.317,0,"Das ist bei uns nicht möglich, Kapitel 88",0,1935,0.958,93.143,0.512,1935
+286,0.947,"['Wolfgang Amadeus Mozart', 'Karl Böhm', 'Staatskapelle Dresden']",0.25,581013,0.181,0,5BnLJA44jNfBBA9FPfgrkV,0.0776,4,0.274,-17.617,1,"Mozart: Violin Concerto No. 5 in A Major, K. 219 ""Turkish"": II. Adagio",0,1935,0.0436,132.546,0.141,1935
+287,0.526,['Эрнест Хемингуэй'],0.719,102183,0.158,1,5CYbeDfMVDtmeSBYHnPhlj,0,11,0.113,-16.966,0,Часть 54.4 & Часть 55.1 - Зеленые холмы Африки,0,1935,0.893,110.161,0.849,1935
+288,0.312,['Эрнест Хемингуэй'],0.786,97600,0.111,1,5DTPaXdLbZI8MihHsuDKjn,0,7,0.274,-17.775,1,Часть 4.3 - Зеленые холмы Африки,0,1935,0.903,103.285,0.692,1935
+289,0.674,"['Sinclair Lewis', 'Frank Arnold']",0.717,329601,0.247,0,5DfV1EzC0BRoll1sCuMB4j,0,5,0.476,-15.863,0,"Das ist bei uns nicht möglich, Kapitel 60",0,1935,0.954,128.767,0.489,1935
+290,0.968,['Lead Belly'],0.589,281078,0.383,0,5DtPYDt4rEBfcH2KD2rmlA,0.042,8,0.165,-10.225,1,Matchbox Blues (141-B),0,1935,0.34,82.538,0.719,1935
+291,0.987,"['Samuel Barber', 'Leontyne Price']",0.278,46173,0.529,0,5ELjsbRazvfjdRDKWESvJM,0.000257,1,0.673,-21.451,1,"Hermit Songs, Op. 29: Promiscuity",0,1935,0.589,203.133,0.838,1935
+292,0.981,['Lead Belly'],0.602,182282,0.488,0,5EVQBCdoCVmpQV4lfRLsQg,0.00308,8,0.167,-10.391,1,Death Letter Blues - Part 2 (Take 1),0,1935,0.0472,151.152,0.621,1935
+293,0.988,['Marianne Oswald'],0.626,196840,0.052,0,5EnN9J6MwBszuNOWMiBRgS,4.64E-06,6,0.107,-19.774,0,Jeu De Massacre,0,1935,0.087,85.683,0.354,1935
+294,0.416,['Эрнест Хемингуэй'],0.72,110724,0.169,1,5F9gPPANODjnb7IGi95Kgb,0,11,0.114,-16.962,0,Часть 51.4 & Часть 52.1 - Зеленые холмы Африки,0,1935,0.911,126.277,0.758,1935
+295,0.598,"['Sinclair Lewis', 'Frank Arnold']",0.634,260377,0.208,0,5FYELmJG1ukQH3idciaVf6,0,7,0.449,-19.325,1,"Das ist bei uns nicht möglich, Kapitel 184",0,1935,0.961,85.458,0.466,1935
+296,0.991,"['Margarita Cueto', 'Juan Arvizu']",0.379,172225,0.177,0,5GSYJMNiezq1egJC6zo13A,9.72E-06,7,0.164,-12.954,1,Colombina,0,1935-01-01,0.0426,111.254,0.173,1935
+297,0.294,['Эрнест Хемингуэй'],0.69,114600,0.211,1,5GU1tlVvAfZaj1Cg67iFH2,0,7,0.41,-14.16,1,Часть 69.3 - Зеленые холмы Африки,0,1935,0.893,99.678,0.674,1935
+298,0.166,['Эрнест Хемингуэй'],0.725,99900,0.137,1,5Gt4ob7gpoNJVX3wKLXE3V,0,7,0.332,-18.865,1,Часть 95.3 - Зеленые холмы Африки,0,1935,0.943,125.284,0.73,1935
+299,0.969,"['Wolfgang Amadeus Mozart', 'Karl Böhm', 'Staatskapelle Dresden']",0.249,266400,0.0862,0,5HnpCNszzXQTlIgHtSneuQ,0.385,8,0.18,-20.471,1,"Mozart: Horn Concerto No. 3 in E-Flat Major, K. 447: II. Romance. Larghetto",0,1935,0.0366,72.751,0.209,1935
+300,0.958,"['Franz Joseph Haydn', 'Pro Arte Quartet']",0.307,340947,0.0801,0,5IC43ZAlcPcSdh9AWnfX2F,0.0409,9,0.367,-17.726,1,"Haydn: String Quartet No. 44 in E Major, Op. 54 No. 3, Hob. III, 59: II. Largo cantabile",0,1935,0.0421,75.475,0.313,1935
+301,0.856,"['Ludwig van Beethoven', 'New York Philharmonic', 'Arturo Toscanini']",0.373,423467,0.219,0,3v7SEXkdNYWSmEdvpoyVOf,0.224,2,0.292,-15.594,1,"Symphony No. 7 in A Major, Op. 92: III. Presto - Assai meno presto",0,1936,0.0681,126.912,0.428,1936
+302,0.774,"['Ludwig van Beethoven', 'New York Philharmonic', 'Leonard Bernstein']",0.286,281760,0.118,0,41fhkre5Hgw18BcuEXHk73,0.677,5,0.103,-18.132,1,"Symphony No. 8 in F Major, Op. 93: III. Tempo di menuetto",0,1936,0.0338,119.925,0.27,1936
+303,0.901,"['Ludwig van Beethoven', 'Columbia Symphony Orchestra', 'Bruno Walter']",0.244,425107,0.187,0,48VzpQYEWWWyM2uUGysrw4,0.924,0,0.0904,-17.768,1,"Symphony No. 1 in C Major, Op. 21: I. Adagio molto - Allegro con brio",0,1936,0.035,99.511,0.175,1936
+304,0.978,"['Ludwig van Beethoven', 'Wiener Philharmoniker', 'Herbert von Karajan']",0.324,446000,0.339,0,4EafdWyeDb7Xlvhs7Xgca8,0.875,0,0.138,-14.29,0,"Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",0,1936,0.0491,100.55,0.242,1936
+305,0.912,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Erich Kleiber']",0.407,332920,0.314,0,4QXdztFKUBJid2MhfOul6L,0.668,3,0.091,-18.495,1,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": III. Scherzo (Allegro vivace)",0,1936,0.107,80.939,0.338,1936
+306,0.961,"['Ludwig van Beethoven', 'Orchestre De La Société Des Concerts Du Conservatoire', 'Carl Schuricht']",0.361,332467,0.158,0,4T95kvlt4y9d8Ty3aaxTqI,0.87,10,0.141,-11.942,1,"Symphony No. 4 in B-Flat Major, Op. 60: III. Allegro vivace",0,1936,0.0326,75.906,0.173,1936
+307,0.992,"['Jeanette Mcdonald', 'Allan Jones']",0.288,115953,0.363,0,4XdccXdbwuRNwULdZfDIVn,0.805,8,0.223,-11.148,0,Tosca,0,1936-07-25,0.0376,67.846,0.241,1936
+308,0.964,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Josef Krips']",0.243,534587,0.104,0,4YyIiKxpXpCxuBAH4tGx5p,0.744,3,0.106,-17.171,1,"Symphony No. 4 in B-Flat Major, Op. 60: II. Adagio",0,1936,0.0386,73.819,0.0873,1936
+309,0.934,"['Ludwig van Beethoven', 'Tilla Briem', 'Elisabeth Höngen', 'Peter Anders', 'Rudolf Watzke', 'Choeur Bruno Kittel', 'Berliner Philharmoniker', 'Wilhelm Furtwängler']",0.234,1038400,0.408,0,4dyXvYZcD49SLZ7zzpDBMV,0.686,10,0.117,-9.846,1,"Symphony No. 9 in D Minor, Op. 125 ""Ode to Joy"": I. Allegro ma non troppo, un poco maestoso",0,1936,0.0368,135.379,0.103,1936
+310,0.978,"['Ludwig van Beethoven', 'Philharmonia Orchestra', 'Herbert von Karajan']",0.133,981093,0.0648,0,4nGeicn6SM1AjvXbra6PzV,0.864,0,0.106,-19.207,0,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": II. Marcia funebre (Adagio assai)",0,1936,0.0391,77.093,0.037,1936
+311,0.887,"['Ludwig van Beethoven', 'Chicago Symphony Orchestra', 'Fritz Reiner']",0.31,417720,0.211,0,4p5b6f76shQR8eP0x39iyK,0.858,2,0.132,-17.175,1,"Symphony No. 7 in A Major, Op. 92: III. Presto - Assai meno presto",0,1936,0.0541,91.799,0.212,1936
+312,0.99,"['Ludwig van Beethoven', 'Elisabeth Schwarzkopf', 'Elisabeth Höngen', 'Hans Hopf', 'Otto Edelmann', 'Bayreuth Festival Orchestra', 'Wilhelm Furtwängler']",0.435,720400,0.29,0,50JXQWJRlE7tm6PfRB6Mzn,0.851,0,0.135,-16.26,1,"Symphony No. 9 in D Minor, Op. 125 ""Ode to Joy"": II. Molto vivace - Presto",0,1936,0.0527,124.573,0.292,1936
+313,0.5,"['Ludwig van Beethoven', 'New York Philharmonic', 'Leonard Bernstein']",0.258,580227,0.258,0,54SJyUHr4ExLs9RpPKwLFA,0.861,5,0.0761,-16.283,1,"Symphony No. 8 in F Major, Op. 93: I. Allegro vivace e con brio",0,1936,0.0347,153.413,0.315,1936
+314,0.76,"['Ludwig van Beethoven', 'New York Philharmonic', 'Arturo Toscanini']",0.376,678893,0.25,0,54xmWLM6RedoTLJiia9MJD,0.389,9,0.0893,-13.416,1,"Symphony No. 7 in A Major, Op. 92: I. Poco sostenuto - Vivace",0,1936,0.0451,110.841,0.267,1936
+315,0.857,"['Ludwig van Beethoven', 'Orchestre De La Société Des Concerts Du Conservatoire', 'Carl Schuricht']",0.209,706787,0.211,0,5AKY6umdPJLrBEINBj61uG,0.817,5,0.0947,-11.285,1,"Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",0,1936,0.0354,67.333,0.21,1936
+316,0.871,"['Ludwig van Beethoven', 'New York Philharmonic', 'Arturo Toscanini']",0.158,514400,0.0746,0,5ASBfpKxvSV7uzro5NZ2c2,0.0452,9,0.14,-19.061,0,"Symphony No. 7 in A Major, Op. 92: II. Allegretto",0,1936,0.0464,72.538,0.0736,1936
+317,0.961,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Erich Kleiber']",0.115,849760,0.0492,0,5DMZEqlrPkdesUQvlTphC3,0.658,5,0.118,-24.034,1,"Symphony No. 6 in F Major, Op. 68 ""Pastoral"": II. Scene am Bach (Andante molto moto)",0,1936,0.0459,83.282,0.0559,1936
+318,0.897,"['Ludwig van Beethoven', 'NBC Symphony Orchestra', 'Arturo Toscanini']",0.27,369853,0.251,0,5Ftg3p47SGG477ADYtFDv7,0.907,2,0.151,-15.368,1,"Symphony No. 2 in D Major, Op. 36: IV. Allegro molto",0,1936,0.0362,152.537,0.393,1936
+319,0.995,"['Jeanette MacDonald', 'Nelson Eddy']",0.282,188020,0.373,0,5GmosPftgbvGStbgOJJhiy,0.805,6,0.256,-11.475,0,Finale,0,1936-07-25,0.0419,71.75,0.0842,1936
+320,0.896,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Josef Krips']",0.371,419067,0.328,0,5ImIZFcTj0dW7wauXAGiGi,0.882,5,0.335,-14.004,1,"Symphony No. 4 in B-Flat Major, Op. 60: IV. Allegro ma non troppo",0,1936,0.0456,140.958,0.481,1936
+321,0.975,"['Ludwig van Beethoven', 'Philharmonia Orchestra', 'Herbert von Karajan']",0.14,866027,0.0777,0,5KxrxkTrjgEmAt7erJdg2o,0.897,3,0.104,-17.533,1,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": I. Allegro con brio",0,1936,0.0351,70.169,0.101,1936
+322,0.911,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Willem Mengelberg']",0.394,509147,0.0784,0,5NLVJJvpTKPzeY75UpwGsT,0.654,5,0.114,-20.295,1,"Symphony No. 6 in F Major, Op. 68 ""Pastoral"": I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande (Allegro ma non troppo)",0,1936,0.0369,128.269,0.364,1936
+323,0.979,['Nelson Eddy'],0.458,242959,0.75,0,5Oe0OzzaAdONrZOUcQcygk,0.516,9,0.256,-8.521,1,The Mounties,0,1936-07-25,0.206,70.626,0.296,1936
+324,0.836,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Josef Krips']",0.313,561507,0.183,0,5P3S4RWjamvpPiost5qPKA,0.48,5,0.0856,-13.124,1,"Symphony No. 4 in B-Flat Major, Op. 60: I. Adagio - Allegro vivace",0,1936,0.0421,143.338,0.235,1936
+325,0.76,"['Ludwig van Beethoven', 'Columbia Symphony Orchestra', 'Bruno Walter']",0.35,375173,0.229,0,5SKvH8lCss3S38tbpvn3N6,0.74,0,0.0968,-18.256,1,"Symphony No. 1 in C Major, Op. 21: IV. Finale (Adagio - Allegro molto e vivace)",0,1936,0.0384,140.933,0.338,1936
+326,0.646,"['Ludwig van Beethoven', 'Chicago Symphony Orchestra', 'Fritz Reiner']",0.289,413507,0.326,0,5VZ404K28FeqFMzzvLm8PV,0.919,9,0.0837,-14.919,1,"Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio",0,1936,0.0375,74.831,0.349,1936
+327,0.986,['Jeanette MacDonald'],0.544,42769,0.0949,0,5Wqi0VztZFJTW3kJ4ht9oV,0.00391,6,0.612,-14.587,1,Three Blind Mice,0,1936-07-25,0.17,98.044,0.326,1936
+328,0.966,"['Ludwig van Beethoven', 'Philharmonia Orchestra', 'Herbert von Karajan']",0.139,704853,0.0934,0,5dL2giS6apVr8YOPcX0Dk8,0.931,3,0.0999,-17.661,1,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": IV. Finale (Allegro molto)",0,1936,0.0418,63.328,0.127,1936
+329,0.991,['Nelson Eddy'],0.295,155068,0.396,0,5dqBhtvIo0mgx7USFLqlBc,0.162,1,0.0892,-6.828,1,Just for You,0,1936-07-25,0.0398,129.957,0.259,1936
+330,0.958,"['Ludwig van Beethoven', 'Tilla Briem', 'Elisabeth Höngen', 'Peter Anders', 'Rudolf Watzke', 'Choeur Bruno Kittel', 'Berliner Philharmoniker', 'Wilhelm Furtwängler']",0.329,681880,0.407,0,5ixi3wl1ODHv7cR9c3ZzvB,0.849,2,0.0761,-15.163,1,"Symphony No. 9 in D Minor, Op. 125 ""Ode to Joy"": II. Molto vivace - Presto",0,1936,0.0541,135.713,0.382,1936
+331,0.796,"['Ludwig van Beethoven', 'London Symphony Orchestra', 'Felix Weingartner']",0.318,585560,0.136,0,5qnr8KyFGpgImVctQD0n0M,0.467,2,0.0939,-17.831,1,"Symphony No. 2 in D Major, Op. 36: I. Adagio molto - Allegro con brio",0,1936,0.0351,92.536,0.185,1936
+332,0.991,"['Jeanette MacDonald', 'Nelson Eddy']",0.264,152100,0.409,0,5ylI4QV6h7sd4SCQtHjuAK,0.249,6,0.317,-10.306,1,Indian Love Call (Duet),0,1936-07-25,0.0392,130.649,0.13,1936
+333,0.929,"['Ludwig van Beethoven', 'Orchestre De La Société Des Concerts Du Conservatoire', 'Carl Schuricht']",0.394,426693,0.431,0,62mli6o303SCPDlGoSO9Zr,0.914,10,0.33,-11.116,1,"Symphony No. 4 in B-Flat Major, Op. 60: IV. Allegro ma non troppo",0,1936,0.0382,136.669,0.486,1936
+334,0.958,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Josef Krips']",0.298,343107,0.131,0,66MeNd20vTzSaEs2FGIujV,0.749,10,0.12,-13.947,1,"Symphony No. 4 in B-Flat Major, Op. 60: III. Allegro vivace",0,1936,0.0424,148.113,0.218,1936
+335,0.993,['Jeanette Mcdonald'],0.555,205729,0.524,0,6Bm4OT48ZPmyGTMieJIJ6q,0.0435,8,0.557,-9.133,0,"Pardon Me, Madame",0,1936-07-25,0.119,79.207,0.537,1936
+336,0.948,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Erich Kleiber']",0.304,839400,0.16,0,6Pq0FUo2ipHBZXePUXi3qY,0.588,10,0.0707,-14.657,1,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": I. Allegro con brio",0,1936,0.0403,77.197,0.138,1936
+337,0.992,['Jeanette MacDonald'],0.217,205975,0.35,0,6RCbTtaOhlFlBubpNtkyqK,0.139,2,0.237,-10.092,1,Indian Love Call,0,1936-07-25,0.0429,90.883,0.234,1936
+338,0.974,"['Robe', 'Chorus']",0.368,231573,0.882,0,6RrQcjCdW8gaMst4H1VTfg,0.881,3,0.244,-8.178,0,Totem Tom-Tom,0,1936-07-25,0.0745,127.933,0.254,1936
+339,0.977,"['Ludwig van Beethoven', 'Orchestre De La Société Des Concerts Du Conservatoire', 'Carl Schuricht']",0.209,564987,0.133,0,6Z5lc5Oh20uAXbMWv1gVHI,0.743,3,0.127,-15.993,1,"Symphony No. 4 in B-Flat Major, Op. 60: II. Adagio",0,1936,0.0378,68.465,0.0712,1936
+340,0.907,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Erich Kleiber']",0.319,674347,0.184,0,6mZ9S6juz1Qh2rPxLu4GYN,0.437,3,0.337,-13.941,1,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": IV. Finale (Allegro molto)",0,1936,0.0433,138.008,0.189,1936
+341,0.904,"['Ludwig van Beethoven', 'Royal Philharmonic Orchestra', 'Hermann Scherchen']",0.489,234800,0.0495,0,6nqVRqnHIbeSZZnEMn41F4,0.0602,10,0.0666,-23.352,1,"Symphony No. 8 in F Major, Op. 93: II. Allegretto scherzando",0,1936,0.0404,171.105,0.457,1936
+342,0.828,"['Ludwig van Beethoven', 'NBC Symphony Orchestra', 'Arturo Toscanini']",0.45,337333,0.291,0,6wQIV4Une9BkpHaKn1fdVB,0.51,7,0.139,-13.437,1,"Symphony No. 1 in C Major, Op. 21: IV. Finale (Adagio - Allegro molto e vivace)",0,1936,0.0922,78.221,0.484,1936
+343,0.863,"['Ludwig van Beethoven', 'Columbia Symphony Orchestra', 'Bruno Walter']",0.326,226160,0.163,0,70BTT7u5Q3d8FJ72PDjsI3,0.801,0,0.0539,-19.817,1,"Symphony No. 1 in C Major, Op. 21: III. Menuetto (Allegro molto e vivace)",0,1936,0.101,155.687,0.127,1936
+344,0.941,"['Ludwig van Beethoven', 'Royal Philharmonic Orchestra', 'René Leibowitz']",0.112,536573,0.0289,0,70x2WexcTgYD3JG0VS7NIq,0.498,8,0.067,-22.892,1,"Symphony No. 5 in C Minor, Op. 67: II. Andante con moto",0,1936,0.0383,83.341,0.0705,1936
+345,0.959,"['Ludwig van Beethoven', 'Wiener Philharmoniker', 'Herbert von Karajan']",0.325,297680,0.164,0,75n70AbHfZeGxYtiWOcvWj,0.613,0,0.497,-17.04,1,"Symphony No. 5 in C Minor, Op. 67: III. Scherzo (Allegro)",0,1936,0.0467,84.765,0.284,1936
+346,0.903,"['Ludwig van Beethoven', 'Royal Philharmonic Orchestra', 'René Leibowitz']",0.309,277413,0.0875,0,7E174pvu3AzG552ihemDDA,0.84,5,0.404,-21.045,0,"Symphony No. 5 in C Minor, Op. 67: III. Scherzo (Allegro)",0,1936,0.0393,134.318,0.216,1936
+347,0.829,"['Ludwig van Beethoven', 'NBC Symphony Orchestra', 'Arturo Toscanini']",0.367,485853,0.223,0,7cagKMl51QQ8qWH8QnQm9N,0.881,0,0.141,-12.396,1,"Symphony No. 1 in C Major, Op. 21: I. Adagio molto - Allegro con brio",0,1936,0.04,115.15,0.321,1936
+348,0.948,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Willem Mengelberg']",0.427,334213,0.119,0,7enSqUvkbKCvuv3HPuhFG4,0.0805,5,0.131,-20.554,1,"Symphony No. 6 in F Major, Op. 68 ""Pastoral"": III. Lustiges Zusammensein der Landleute (Allegro)",0,1936,0.0468,139.862,0.51,1936
+349,0.963,"['Ludwig van Beethoven', 'Wilma Lipp', 'Marga Höffgen', 'Murray Dickie', 'Gottlob Frick', 'Chorale Elisabeth Brasseur', 'Orchestre De La Société Des Concerts Du Conservatoire', 'Carl Schuricht']",0.335,678667,0.359,0,7i2kO7moICtUeY7kNh0STg,0.873,2,0.173,-16.847,0,"Symphony No. 9 in D Minor, Op. 125 ""Ode to Joy"": II. Molto vivace - Presto",0,1936,0.0481,84.554,0.398,1936
+350,0.927,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Erich Kleiber']",0.345,553880,0.0865,0,7mLc3T335KERsMts7LAKA5,0.651,5,0.117,-17.585,1,"Symphony No. 6 in F Major, Op. 68 ""Pastoral"": I. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande (Allegro ma non troppo)",0,1936,0.0369,117.366,0.237,1936
+351,0.956,"['Ludwig van Beethoven', 'Concertgebouworkest', 'Erich Kleiber']",0.363,313800,0.122,0,7n464SNnIopih8qPrtmTIE,0.327,5,0.206,-16.58,1,"Symphony No. 6 in F Major, Op. 68 ""Pastoral"": III. Lustiges Zusammensein der Landleute (Allegro)",0,1936,0.0591,154.33,0.428,1936
+352,0.874,"['Ludwig van Beethoven', 'Chicago Symphony Orchestra', 'Fritz Reiner']",0.247,539960,0.05,0,7nkCaCKivy3Y7WhRtX0Mvt,0.749,4,0.0696,-20.628,0,"Symphony No. 7 in A Major, Op. 92: II. Allegretto",0,1936,0.0377,132.646,0.044,1936
+353,0.994,"['Jeanette MacDonald', 'Gilda Gray']",0.407,307337,0.789,0,7vrkLLH4fFGN1rdKkAD1I0,0.707,4,0.917,-8.844,1,"Dinah, Some of These Days",0,1936-07-25,0.498,113.977,0.774,1936
+354,0.989,"['Allan Jones', 'Jeanette Mcdonald']",0.352,406223,0.465,0,7wiUKiHMiiq8ewBOi0T0Gr,0.0621,11,0.825,-9.459,1,Capulet's Ball,0,1936-07-25,0.0597,118.94,0.339,1936
+355,0.947,"['Roza Eskenazi', 'Nikos Karakostas']",0.59,196093,0.441,0,2KRTqKtjAetLgzZi4YJWfo,0.191,3,0.214,-8.765,0,Stazoun ta keramidia sou,0,1940-01-01,0.0445,77.988,0.411,1940
+356,0.904,"['Francisco Canaro', 'Ernesto Fama']",0.737,177480,0.557,0,2KeiqgScES5dOL8E6XjOfZ,0.00193,3,0.0654,-4.709,1,Radio Amor - Remasterizado,0,1940-01-24,0.0473,131.353,0.93,1940
+357,0.252,['Эрнест Хемингуэй'],0.75,105300,0.153,1,2KfrhuYqzBOryBUK6q0mHS,0,0,0.393,-16.563,1,Часть 98.3 - По ком звонит колокол,0,1940,0.95,60.051,0.602,1940
+358,0.965,['Kalanidhi Rathin Ghosh'],0.295,198627,0.346,0,2L2W1PS5nc3fftA4UCyTev,0,1,0.141,-12.177,0,Radhar Ki Holo Antare Byatha,0,1940-12-01,0.0585,82.392,0.476,1940
+359,0.905,['Marika Kanaropoulou'],0.642,199533,0.32,0,2LDNfq50I2drGWzFPvXYC3,0,2,0.0969,-8.493,1,Vale me stin agkalia sou,0,1940-01-01,0.0711,122.134,0.69,1940
+360,0.699,['Эрнест Хемингуэй'],0.72,113771,0.115,1,2LHy4be3NDR94aR6jGqReE,0,11,0.576,-20.152,0,Часть 137.3 - По ком звонит колокол,0,1940,0.947,111.392,0.542,1940
+361,0.983,"['Giorgos Papasideris', 'Vaios', 'Malliaras', 'Klarino']",0.356,212493,0.446,0,2LftAAmFTIOR74EBIEbvMF,0.242,10,0.374,-9,1,Platanos,0,1940-01-01,0.0765,189.951,0.918,1940
+362,0.953,['Giorgos Papasideris'],0.489,199973,0.36,0,2LlUv3n3vQRlHJeOqftV2M,0.056,1,0.0569,-9.025,1,Apopse den koimithika,1,1940-01-01,0.0327,105.991,0.308,1940
+363,0.977,"['Kostas Roukounas', 'I. Ogdontakis', 'Violi']",0.45,196547,0.437,0,2Llzs2lsFqz4U5iFqG3cAp,0.939,7,0.274,-14.698,1,Ta koritsia tis Livadias,0,1940-01-01,0.11,90.22,0.724,1940
+364,0.856,['Saltoy Maria'],0.442,309000,0.403,0,2M9RZU1pBT1rnEgQHKMS2o,0.000851,0,0.324,-11.164,1,Osa kinteria ston ntounia,0,1940-01-01,0.0335,100.543,0.71,1940
+365,0.281,['Эрнест Хемингуэй'],0.647,96100,0.0967,1,2MJzZ60Ma8dgJhHmwJnmX4,0,6,0.598,-22.399,0,Часть 78.2 - По ком звонит колокол,0,1940,0.955,149.003,0.625,1940
+366,0.985,['Mixalis Xatzis'],0.52,174160,0.555,0,2MaRcIk0JPF0xEomQfqUE4,0.911,6,0.156,-10.491,0,To ksenaki,0,1940-01-01,0.0456,104.782,0.891,1940
+367,0.993,['Dimitris Mpenetos'],0.554,194307,0.191,0,2McSwkCoGyWnLqrfPye09V,0.662,0,0.13,-16.688,1,Stolizetai mia melaxrini,0,1940-01-01,0.0469,108.806,0.899,1940
+368,0.113,['The Cotton Candy Blues Band'],0.707,119759,0.399,0,2NGzQCGAyUXb4THolii8Bk,0.215,7,0.308,-12.086,1,Key to the highway,0,1940,0.0354,103.729,0.477,1940
+369,0.995,['Rita Ampatzi'],0.572,196880,0.211,0,2NHqr3Co6cn7rbhukP1it7,0.881,4,0.11,-14.401,0,Tha pernao opos kai prota,0,1940-01-01,0.112,79.227,0.901,1940
+370,0.989,['Giorgos Papasideris'],0.397,203827,0.299,0,2NPfhRPcRkG8EKqxOdDECk,0.0562,5,0.378,-10.559,1,Dervenakia,0,1940-01-01,0.0422,62.684,0.456,1940
+371,0.992,"['Anonymous', 'Thomanerchor Leipzig', 'Günther Ramin']",0.324,160525,0.133,0,2NYkKaHJ10zcz6Xl6QK7nE,1.68E-06,8,0.405,-20.507,0,O Jesulein zart,0,1940-05-06,0.0539,105.705,0.0921,1940
+372,0.986,['周璇'],0.63,184840,0.268,0,2NhVBq1A6rdxJ0Al30ueFc,0.00429,8,0.135,-10.917,1,凱旋歌,1,1940-02-01,0.0305,110.15,0.794,1940
+373,0.985,"['Georgia Mitaki', 'Giorgos Anestopoulos']",0.549,215733,0.489,0,2NvPZsIdFGvSkrs99BicHu,0.411,10,0.15,-10.287,1,O tseligkas simpetheriazei,0,1940-01-01,0.035,104.855,0.632,1940
+374,0.994,['Georgia Mitaki'],0.345,204947,0.453,0,2O7IydEOaKEf6aoa73W2du,0.89,0,0.136,-10.737,1,Giati mas adiases Diamanto,0,1940-01-01,0.0398,69.04,0.816,1940
+375,0.992,['Luciano Tajoli'],0.278,215954,0.0135,0,2OLnCsT6qis0heVMgjIJXC,0.0914,1,0.146,-24.407,1,Stornellata Romana,0,1940-06-29,0.044,75.276,0.322,1940
+376,0.979,['Georgia Mitaki'],0.402,189093,0.519,0,2OQid8yLOzjfxKuF0FOMet,0.904,6,0.405,-11.164,1,Megareitissa,0,1940-01-01,0.0523,82.464,0.608,1940
+377,0.993,"['Rita Ampatzi', 'Kostas', 'Giaoyzos', 'Klarino']",0.449,194693,0.231,0,2OcfxrGIdFFWW30MkCWEA0,0.922,11,0.11,-15.589,0,Mia konti kontoyla,0,1940-01-01,0.0498,112.41,0.392,1940
+378,0.96,['Anuradha Paudwal'],0.547,203170,0.228,0,2OwkpxK4xTOUW2vus3Koct,0.00203,7,0.809,-12.266,1,Mere Jeevan Ke Saathi,0,1940-12-31,0.0608,113.984,0.614,1940
+379,0.664,['Эрнест Хемингуэй'],0.702,95193,0.0836,1,2OxoJ6Shkho5KNQ3n8NFWa,0,0,0.44,-21.473,1,Часть 116.3 & Часть 117.1 - По ком звонит колокол,0,1940,0.949,106.31,0.572,1940
+380,0.942,['Rita Ampatzi'],0.298,207773,0.333,0,2P9nlEA7NIVU5vQiMN2IRb,0.00342,1,0.176,-10.732,1,Lafina,0,1940-01-01,0.0389,98.839,0.208,1940
+381,0.99,"['Nilla Pizzi', 'Duo Fasano']",0.35,204069,0.0498,0,2PPe5Ne0EZXp2bvp8Y9E8p,0.906,7,0.179,-24.64,1,Buonanotte ai bimbi del mondo,0,1940-07-04,0.0455,130.796,0.215,1940
+382,0.108,['Эрнест Хемингуэй'],0.595,97080,0.0648,1,2PZXMuukOz1l6STwKcAuz2,0,7,0.357,-27.66,1,Часть 31.4 & Часть 32.1 - По ком звонит колокол,0,1940,0.961,173.686,0.478,1940
+383,0.542,['Эрнест Хемингуэй'],0.666,105800,0.131,1,2PiDBjA7UJ5pURKTH8wGin,0,0,0.447,-21.917,1,Часть 171.3 - По ком звонит колокол,0,1940,0.96,148.554,0.584,1940
+384,0.952,"['Francisco Canaro', 'Ernesto Fama']",0.609,172587,0.467,0,2PlD65Dah3WyhKxmG4dYJX,0.408,2,0.366,-8.419,1,Estrellita Mia - Remasterizado,0,1940-01-24,0.0406,103.787,0.792,1940
+385,0.989,"['Nilla Pizzi', 'Achille Togliani']",0.386,185469,0.115,0,2QMHXNMPNUGHuttynqxbjS,0.96,11,0.147,-24.709,1,La Luna si veste d'argento,6,1940-06-29,0.0676,68.382,0.192,1940
+386,0.992,['Jaganmoy Mitra'],0.237,200133,0.17,0,2QWzhkT0RFRVQCoMPIWwLy,0.566,11,0.0927,-20.145,0,Jodi Mala Holo Aaji Milan,0,1940-12-01,0.0523,73.996,0.341,1940
+387,0.648,['Эрнест Хемингуэй'],0.635,97700,0.123,1,2QsBJP7osAQF1C7c6rgYSr,0,2,0.679,-18.743,1,Часть 186.2 - По ком звонит колокол,0,1940,0.964,167.971,0.611,1940
+388,0.964,"['Nilla Pizzi', 'Gino Latilla']",0.501,221701,0.0404,0,2R60ydPD1gKR171zzmbp49,0.0373,3,0.0968,-24.412,1,Amico tango,0,1940-06-29,0.0552,104.967,0.316,1940
+389,0.99,['Kalyani'],0.419,199471,0.199,0,2RA8MhjyuPl6MeTQngQnkv,0.00061,7,0.16,-8.309,1,Oonchi Nigahon Ke Teer,0,1940-01-01,0.0817,78.593,0.65,1940
+390,0.97,"['Giorgos Papasideris', 'Tasos Xalkias-Klarino']",0.36,200747,0.559,0,2RTHkjcQSIfuFmnheAKQAZ,0.185,8,0.247,-7.054,1,Aetos,0,1940-01-01,0.0335,100.411,0.73,1940
+391,0.94,"['Rita Ampatzi', 'Giorgos Anestopoulos']",0.555,198800,0.555,0,2RUC3GcehdiEUuj7UmQ8JP,4.63E-05,1,0.177,-6.446,0,Xoriatopoula,0,1940-01-01,0.0482,115.498,0.905,1940
+392,0.99,['Stratos Pagioumtzis'],0.652,204453,0.245,0,2RWsSsqbXhuIqCxaNJHoae,0.727,11,0.22,-14.034,1,Kalogeraki,0,1940-01-01,0.0573,113.176,0.737,1940
+393,0.808,['Luis Rovira y su Orquesta'],0.482,197279,0.461,0,2ReflbaUpvKAXBFKNe5fvZ,0.917,5,0.154,-8.702,1,El regreso de Cristóbal Colón - Remastered,0,1940-01-12,0.0547,173.851,0.799,1940
+394,0.867,['Jararaca E Ratinho'],0.684,191537,0.407,0,2RtcfTQFWye3yylWfyUDlu,0,0,0.594,-12.931,1,Viola das Alagoas,0,1940-01-01,0.161,91.217,0.961,1940
+395,0.957,['Rita Ampatzi'],0.677,196867,0.21,0,2S0wn9CvY9n7S1jEMzSRVD,0.000344,8,0.0917,-9.53,1,O xemagkas,0,1940-01-01,0.0424,99.381,0.648,1940
+396,0.991,"['Roza Eskenazi', 'Nikos Rellias', 'Klarino']",0.511,198427,0.439,0,2SDRstRpsCTF7qBvPh4Txa,0.598,7,0.132,-9.713,1,Oi omorfes tis Livadeias,0,1940-01-01,0.0308,104.824,0.705,1940
+397,0.991,"['Bedřich Smetana', 'Marie Podvalová', 'Stanislav Muž', 'Vilém Zítek', 'Josef Vojta', 'Ota Horáková', 'Marta Krásová', 'Jaroslav Veverka', 'Prague National Theatre Chorus', 'Prague National Theatre Orchestra', 'Jan Maria Ouředník', 'Václav Talich', 'Josef Křikava']",0.449,60507,0.315,0,2SEGaosrnf7rpEtPAldV2e,0.137,8,0.145,-15.779,1,"Libuše, Act III, Scene 3: ""Buď vítaná"" (Libuše, Přemysl ze Stadic, Chrudoš od Otavy, Šťáhlav na Radbuze, Krasava, Radmila, Lutobor, Radovan) - Live",0,1940,0.135,82.553,0.113,1940
+398,0.996,['Stellakis Perpiniadis'],0.417,200373,0.445,0,2SFh3oOyVzpL2I223kR8AP,0.877,9,0.0744,-10.315,0,Ta dio soy matia,0,1940-01-01,0.037,89.698,0.871,1940
+399,0.702,['Эрнест Хемингуэй'],0.747,110669,0.115,1,2SKdDS2W91Ooozp6IORK7C,0,0,0.553,-18.654,1,Часть 77.4 & Часть 78.1 - По ком звонит колокол,0,1940,0.954,105.013,0.564,1940
+400,0.995,['Roza Eskenazi'],0.381,205227,0.0761,0,2SKdNPkIAYA3bYG0TDCMdD,0.0742,1,0.118,-14.004,1,Gkazet Nixevent,0,1940-01-01,0.0441,51.591,0.601,1940
+401,0.889,['Rita Ampatzi'],0.567,183387,0.685,0,2SinRSpQ1pvAvyLXAUSOVw,0.505,2,0.333,-7.267,1,Mpallos,0,1940-01-01,0.0622,92.62,0.655,1940
+402,0.124,"['Richard Levitt', 'Charles Byrd', 'Carl Tucker']",0.722,217920,0.722,0,2SqS3ORikXwbfcT91oHboP,0.368,8,0.155,-7.73,1,Everybody's Got a Little Devil in Their Soul,0,1940-11-15,0.0571,95.998,0.931,1940
+403,0.892,['Wilmoth Houdini'],0.615,190440,0.338,0,2T1LyJnwFP99hFSB4Avc3o,0.00218,5,0.0837,-10.603,1,No Mo' Bench and Board,0,1940-01-01,0.144,93.704,0.973,1940
+404,0.995,['周璇'],0.628,158840,0.153,0,2TAqdX8vSVYxDb0vog9dNr,0.0352,5,0.253,-14.279,1,何日君再來 - 二,2,1940-02-01,0.0413,116.931,0.712,1940
+405,0.968,['Ying Yin Wu'],0.538,167667,0.313,0,2TCHu1TbS9GNE3ULxJWqwa,1.47E-06,0,0.0859,-8.904,1,風流債,1,1940-02-01,0.0317,80.211,0.625,1940
+406,0.986,['Dimitris Arapakis'],0.479,148373,0.311,0,2TR5GqpryoJNnNMWKiSOTm,1.76E-05,1,0.172,-10.39,1,H trigona,0,1940-01-01,0.0866,109.246,0.602,1940
+407,0.963,['ANTONIS NTALGKAS'],0.606,193000,0.478,0,2TVQMLzcgZmOn0QMRaJW7G,0.341,6,0.0637,-8.272,1,Karotseris,0,1940-01-01,0.0588,100.048,0.89,1940
+408,0.655,['Эрнест Хемингуэй'],0.625,107238,0.117,1,2TbudbWZckUyROv97ODfPk,0,0,0.352,-19.169,1,Часть 206.3 & Часть 207.1 - По ком звонит колокол,0,1940,0.966,174.875,0.468,1940
+409,0.959,['Marika Ninou'],0.575,191853,0.941,0,2Tf6tDx5h7aFinn2RfBNWz,0.609,6,0.3,-10.92,0,Palamakia palamakia,1,1940-01-01,0.136,170.691,0.531,1940
+410,0.913,['Giorgos Papasideris'],0.469,197027,0.645,0,2TneKtcD2TRihDYyy3b4RS,0.35,7,0.307,-4.892,1,Golfo,0,1940-01-01,0.0571,122.108,0.748,1940
+411,0.628,['Эрнест Хемингуэй'],0.711,142700,0.0723,1,2TscTzaTCMH1MtyEndvTbB,0,7,0.235,-21.06,1,Часть 24.3 - По ком звонит колокол,0,1940,0.958,108.721,0.581,1940
+412,0.976,['Wilmoth Houdini'],0.64,186985,0.294,0,2Ud4ur2SnjfQ7fE5RMU8vi,0.00143,11,0.421,-12.828,1,"Rum and Coca-Cola, Pt. 1",1,1940-01-01,0.0464,146.133,0.676,1940
+413,0.772,['Эрнест Хемингуэй'],0.705,113551,0.0813,1,2UiY53Ur3qXranFELuz4az,0,2,0.57,-20.999,1,Часть 16.3 & Часть 17.1 - По ком звонит колокол,0,1940,0.957,107.762,0.634,1940
+414,0.959,['Mixalis Kalergis'],0.442,201227,0.579,0,2Umi1q0ZH3MirWNYRMyno5,0.000494,3,0.138,-7.641,0,Sto Pa Ke Sto Parigkila,0,1940-01-01,0.0386,107.165,0.743,1940
+415,0.996,['Euaggelos Sofroniou'],0.311,184000,0.2,0,2UrKxrgUa35APXtIdHMXiv,0.936,6,0.112,-14.072,1,Mikropantremeni,0,1940-01-01,0.0543,82.805,0.548,1940
+416,0.748,['Эрнест Хемингуэй'],0.72,111700,0.138,1,2V5cp7G6IBoBCQCXmCT8OZ,0,11,0.308,-19.324,0,Часть 148.2 - По ком звонит колокол,0,1940,0.964,78.753,0.649,1940
+417,0.517,['Эрнест Хемингуэй'],0.69,100400,0.121,1,2V5pJFH9bVMq1jXpTN4kTT,0,7,0.384,-17.576,1,Часть 211.3 - По ком звонит колокол,0,1940,0.955,102.13,0.494,1940
+418,0.965,['Rita Ampatzi'],0.359,209627,0.494,0,2VYelHaivHIBrjTb1ZBNdf,0.0853,10,0.17,-8.573,0,Ola Ta Dentra,0,1940-01-01,0.0401,90.243,0.82,1940
+419,0.992,['Giorgos Papasideris'],0.267,202173,0.23,0,2VeL5uHXJ7PYgAQZF63eAE,0.535,9,0.158,-12.887,1,Na imoun pouli na petaga,0,1940-01-01,0.0563,77.878,0.379,1940
+420,0.867,['Эрнест Хемингуэй'],0.6,96800,0.154,1,2VmDLXk9jQqe8HjBXHvcYa,0,4,0.784,-18.066,0,Часть 166.2 - По ком звонит колокол,0,1940,0.964,205.313,0.394,1940
+421,0.569,['Эрнест Хемингуэй'],0.727,99700,0.17,1,2Vpu8cbJhFa4RuIeF68q1b,0,11,0.695,-17.68,0,Часть 155.2 - По ком звонит колокол,0,1940,0.953,107.185,0.424,1940
+422,0.993,['周璇'],0.369,192160,0.224,0,2WD3szaxLCPVzWgkzVx36A,0.896,5,0.358,-15.705,1,葬花,1,1940-02-01,0.0426,74.396,0.446,1940
+423,0.995,['Anna Likiardopoulou'],0.36,192120,0.262,0,2X1xOy1oHFnO7d5FKtNc2x,0.704,0,0.111,-15.812,0,Kapote klapsame kai oi dio,0,1940-01-01,0.0459,114.732,0.635,1940
+424,0.113,['Ansambl Biljana'],0.582,269267,0.531,0,2Y6iMuaQHRzMCR37ld292x,0.000935,5,0.385,-6.942,1,Čifte Čifte Pajtonlari,5,1940-11-23,0.0276,133.96,0.84,1940
+425,0.797,['The Gns Band'],0.499,274200,0.711,0,2YFPgxXqTxeTuWB4e4qsve,0.00189,0,0.507,-8.421,1,Whats the Blues Got to Do With It,0,1940,0.04,126.632,0.68,1940
+426,0.995,['Mixalis Kalergis'],0.448,191093,0.201,0,2YcLciPOwEjutzHHDnJLWj,0.562,9,0.184,-15.076,0,Anathema Se Lohage,0,1940-01-01,0.0928,147.637,0.751,1940
+427,0.56,['Эрнест Хемингуэй'],0.711,96300,0.133,1,2Ycd5nLLeWiLFvSszp6Pib,0,11,0.345,-20.988,0,Часть 35.2 - По ком звонит колокол,0,1940,0.95,129.829,0.707,1940
+428,0.988,"['Roza Eskenazi', 'Nikos Karakostas', 'Klarino']",0.484,191520,0.359,0,2YmVF7Ig84O7eYfGRgFd0W,0.016,6,0.23,-11.527,0,Zafiria ein' ta matia soy,0,1940-01-01,0.0523,129.554,0.927,1940
+429,0.994,['Kanak Das Biswas'],0.254,191653,0.174,0,2YnbsU5Q3rGOjbe36VNbUS,0.878,0,0.141,-13.936,0,Deko Na Amare Deko Na,0,1940-12-01,0.0383,175.464,0.172,1940
+430,0.988,"['Stratos Pagioumtzis', 'Ioanna Georgokopoulou']",0.689,198613,0.377,0,2ZGCMzTDtatCkqskpSfEWx,0.119,2,0.137,-13.936,1,Se ksana eida pali,0,1940-01-01,0.0392,129.229,0.905,1940
+431,0.991,['Giorgos Panagiotopoylos-Koyros)'],0.206,199347,0.434,0,2ZQo4qi5RdvUxMVQlun2op,0.0138,2,0.777,-11.406,1,Striftopoylos,0,1940-01-01,0.0528,72.74,0.297,1940
+432,0.975,['Mr. Padgaonkar'],0.517,200753,0.223,0,2ZiSYkFcpLqBlK15HwBpLP,2.70E-06,11,0.646,-10.77,1,Radheshyam Shyam Shyam,0,1940-12-31,0.0491,119.141,0.512,1940
+433,0.924,['Ying Yin Wu'],0.305,208000,0.327,0,2ZjcSkq9hn0W4dCxDomZVc,1.95E-06,2,0.119,-6.507,1,醉酒,1,1940-02-01,0.0347,125.202,0.543,1940
+434,0.991,['Dimitris Arapakis'],0.323,183520,0.417,0,2Znw89DLuMhJD6ZbCDQLIQ,0.00438,3,0.101,-9.6,0,Kino T Asteri To Lampro,0,1940-01-01,0.123,76.643,0.336,1940
+435,0.99,"['Stellakis Perpiniadis', 'Manolis Xiotis']",0.434,188587,0.323,0,2a9UxA0s7kcY86sLYzSxsy,0.312,7,0.108,-13.597,0,Vouno me vouno,1,1940-01-01,0.0295,99.275,0.54,1940
+436,0.994,"['Victor Arden', 'Adam Caroll']",0.713,188720,0.126,0,2aLLqFbnXWcAvYgadfrVqU,0.942,5,0.0946,-20.506,1,Wake up and Dream: What is this thing called love?,0,1940,0.0538,103.274,0.6,1940
+437,0.995,['ANTONIS NTALGKAS'],0.466,190000,0.418,0,2aOJvJndkibPw5qLlDzCF8,0.838,0,0.242,-9.416,1,Silivriano,0,1940-01-01,0.0571,80.166,0.633,1940
+438,0.996,['Abbasuddin Ahmed'],0.548,194160,0.0301,0,2agngBm0Af09CQoV1jso7i,0.521,4,0.113,-24.26,1,Dekh Amina Mayer Kole,0,1940-01-01,0.318,71.568,0.418,1940
+439,0.936,['Jay McShann & His Orchestra'],0.612,183627,0.773,0,2akcetwbvtizDK4vQNt45M,0.89,0,0.2,-7.563,0,I Found a New Baby,0,1940,0.0566,129.478,0.673,1940
+440,0.996,['Rita Ampatzi'],0.586,199000,0.237,0,2asYHIbyG4MN3z7IQuGMJF,0.935,7,0.281,-13.927,0,Eisai Fantis,0,1940-01-01,0.038,83.335,0.909,1940
+441,0.987,['Nikos Karakostas'],0.584,196480,0.369,0,2auSwT7y8cxxya4dRzW6i4,0.821,1,0.0912,-8.624,0,"Pera ston pera maxala, solo klarino",0,1940-01-01,0.0731,139.152,0.685,1940
+442,0.994,['Markos Vamvakaris'],0.531,188080,0.542,0,2b6hx659XduJ87VSY2j5Zg,0.0933,6,0.213,-10.938,1,Stin Plaka pou epigaine,0,1940-01-01,0.0444,111.198,0.356,1940
+443,0.682,['Эрнест Хемингуэй'],0.717,98428,0.148,1,2bGBcqg8q32QCq4yfVtTlX,0,0,0.519,-18.834,1,Часть 150.3 & Часть 151.1 - По ком звонит колокол,0,1940,0.947,126.034,0.494,1940
+444,0.993,"['Surendra', 'Jyoti']",0.428,181467,0.125,0,2bHB1OaTmETeyE6xqDJXU1,0.0633,8,0.106,-21.809,1,Tum Rooth Gayi Pyare Sajaniya,0,1940-12-01,0.0476,80.659,0.519,1940
+445,0.908,['Georgia Mitaki'],0.434,188947,0.595,0,2bPhH1XJ19EXvsbfTrR7Cj,0.182,2,0.353,-8.28,1,Tha xorepseis gero,0,1940-01-01,0.0477,118.614,0.54,1940
+446,0.277,['Эрнест Хемингуэй'],0.659,107900,0.176,1,2bXgMBQA0fiGGMUldt2KTT,0,11,0.697,-17.918,0,Часть 66.3 - По ком звонит колокол,0,1940,0.962,80.697,0.633,1940
+447,0.961,['Charlie Chaplin'],0.597,181815,0.00453,0,2bef6jP2unJ18yrdHY8XTs,0,10,0.693,-26.712,0,Pudding Mysterioso,1,1940,0.066,65.186,0.331,1940
+448,0.989,['Roza Eskenazi'],0.34,196973,0.457,0,2bk6SRAwdYUwjGkVXF5r3d,0.0143,8,0.212,-10.334,0,Fevgeis kai meno monos moy,0,1940-01-01,0.0379,129.415,0.573,1940
+449,0.222,['Эрнест Хемингуэй'],0.645,100400,0.106,1,2bnR3ZR7hCbaGyhS7Y4WzP,0,11,0.452,-25.076,0,Часть 58.2 - По ком звонит колокол,0,1940,0.959,86.493,0.411,1940
+450,0.138,['Эрнест Хемингуэй'],0.617,98500,0.121,1,2bsQJbyfQC6qFDjH0sDXIX,0,1,0.511,-18.98,0,Часть 113.3 - По ком звонит колокол,0,1940,0.947,74.768,0.786,1940
+451,0.994,['Dimitris Perdikopoulos'],0.534,174520,0.455,0,2c0OCJslBDpYXL96C19UE1,0.123,5,0.0737,-11.024,1,San oi kampanes,0,1940-01-01,0.0501,87.014,0.857,1940
+452,0.945,['Markos Vamvakaris'],0.72,201920,0.389,0,2cGurUDQrfkA0bQZaXfqKJ,0.379,9,0.086,-10.159,0,Otan me vlepeis kai perno,0,1940-01-01,0.0605,108.601,0.504,1940
+453,0.976,['Marika Ninou'],0.538,202933,0.352,0,2cL4k6u2brT0hsurXFIIpJ,0.00331,2,0.0658,-12.959,0,Ti simera ti aurio ti tora,2,1940-01-01,0.0795,177.496,0.744,1940
+454,0.775,['Эрнест Хемингуэй'],0.649,107100,0.136,1,2ch1GN049cYwuyJemYXLSD,0,11,0.692,-19.519,0,Часть 18.2 - По ком звонит колокол,0,1940,0.961,85.105,0.564,1940
+455,0.0554,['Orchestra Studio 7'],0.36,274965,0.371,0,4lxKWBQjfcG2nFgUDrSgwv,0.711,9,0.321,-13.611,1,A discoteca - Musical base Version,0,1942-11-13,0.0342,152.824,0.223,1942
+456,0.0439,['Orchestra Studio 7'],0.676,147775,0.472,0,4mIxopKradHeTuXhxAmwSe,0.0131,5,0.126,-14.483,1,Tarantella luciana - Musical base Version,0,1942-11-13,0.0525,117.671,0.876,1942
+457,0.966,['Carlo Buti'],0.75,179905,0.21,0,4n1KK6x1tT0KU8R0PLcB7s,2.14E-05,5,0.211,-13.877,1,La piccinina,0,1942-05-30,0.106,128.214,0.702,1942
+458,0.986,"['Ludwig van Beethoven', 'Rudolf Serkin', 'Bruno Walter']",0.327,1151400,0.197,0,4nKQaQrF2TWdVbKL4q5fuo,0.912,3,0.125,-15.215,1,"Concerto No. 5 in E-Flat Major for Piano and Orchestra, Op. 73 ""Emperor"": I. Allegro",2,1942,0.0358,136.236,0.114,1942
+459,0.291,['Orchestra Studio 7'],0.543,202083,0.555,0,4oIqyXW9m4cwXjwzwcYMcG,5.73E-05,4,0.216,-12.272,0,Palcoscenico - Instrument and base Version,0,1942-11-13,0.0539,83.972,0.473,1942
+460,0.993,"['John Philip Sousa', 'Vladimir Horowitz']",0.536,230453,0.242,0,4oP9eTDpN6CbIE6ANumMWo,0.879,8,0.218,-17.258,1,The Stars and Stripes Forever,4,1942,0.0375,112.672,0.511,1942
+461,0.977,['Charlie Chaplin'],0.53,193824,0.209,0,4oRGp6lUlYc7O36nYsxrlz,0.604,10,0.115,-10.901,0,"The Lone Prospector, Big Jim & Black Larsen",0,1942,0.0533,109.746,0.519,1942
+462,0.888,['Orchestra Studio 7'],0.531,166087,0.286,0,4oZ4hRz34JqsKQ9Q2G90AQ,0,4,0.213,-12.758,1,A tazza 'e cafè - Instrument and base Version,0,1942-11-13,0.0572,128.345,0.605,1942
+463,0.992,['Claudio Villa'],0.245,189257,0.172,0,4oiJvd28VX8w8yeHEe002C,0.0125,10,0.113,-13.902,1,Anema e core,4,1942-11-13,0.0416,166.466,0.205,1942
+464,0.782,['葛蘭'],0.54,181227,0.327,0,4oxfiZvtMJzBKan6f4wUMo,0,2,0.0734,-8.509,1,卡門 - 藝術歌曲版,0,1942,0.124,121.607,0.673,1942
+465,0.931,['Claudio Villa'],0.698,179200,0.332,0,4pDGGv64JabLKJWxExeKnK,1.77E-05,10,0.0635,-12.08,1,Samba alla fiorentina,0,1942-11-13,0.0558,126.843,0.739,1942
+466,0.606,['Orchestra Studio 7'],0.703,192836,0.247,0,4pOP6TIOUq5jzOqwfjDMah,0.0104,1,0.179,-14.117,1,Roberta - Instrument and base Version,0,1942-11-13,0.0302,81.933,0.874,1942
+467,0.994,['Lata Mangeshkar'],0.519,196867,0.139,0,4pXDBTniSAPNtcZRAOeKgg,0.696,2,0.11,-15.047,0,Vasanta Raja Aala,0,1942-12-01,0.0622,136.712,0.777,1942
+468,0.995,['Tapi Dharma Rao'],0.477,180670,0.193,0,4qHfraZj0DRJukTpSGPc72,0.587,11,0.194,-10.811,1,"Karma Data Vasama (From ""Patni"")",0,1942-12-31,0.127,73.088,0.696,1942
+469,0.0358,['Orchestra Studio 7'],0.76,203259,0.463,0,4qXmrZyWcsETRq6JxayKid,1.31E-05,4,0.221,-12.132,0,A città 'e pullecenella - Instrument and base Version,0,1942-11-13,0.18,97.397,0.962,1942
+470,0.977,['Charlie Chaplin'],0.53,193824,0.209,0,4qmz6OTEv1FMZPtlE4TCWJ,0.604,10,0.115,-10.901,0,"The Lone Prospector, Big Jim & Black Larsen",1,1942,0.0533,109.746,0.519,1942
+471,0.899,"['Asha Bhosle', 'Mohammed Rafi']",0.324,384587,0.524,0,4qo0lLIWeqX6GpeVmpYsne,0.452,2,0.379,-12.068,1,Aaram Hai Haraam,0,1942-01-01,0.0594,145.695,0.578,1942
+472,0.99,"['Wolfgang Amadeus Mozart', 'Ezio Pinza', 'Margit Bokor', 'Wiener Philharmoniker', 'Bruno Walter']",0.383,167440,0.132,0,4qt2YWFe5jCsHJO3tQ7K1S,0.00787,10,0.542,-20.337,1,"Don Giovanni, K. 527 (Excerpts): Là ci darem la mano",0,1942-01-01,0.0693,109.379,0.237,1942
+473,0.996,"['Johann Sebastian Bach', 'Claudio Arrau']",0.667,133867,0.113,0,4qtQWHmtSZJIwO83nLyTCC,0.879,7,0.207,-25.897,1,"Goldberg Variations, BWV 988: Variation IX - Canon at the Third",1,1942,0.0824,120.522,0.657,1942
+474,0.952,"['Giuseppe Verdi', 'Gino Marinuzzi', 'Carlo Tagliabue', 'Galliano Masini', 'Maria Caniglia', ""Orchestra Sinfonica dell'EIAR di Torino""]",0.37,194400,0.337,0,4r7i4P6wmlIpkqRLzvaUPL,0.232,3,0.482,-9.265,1,"Verdi : La forza del destino : Act 4 ""Io muoio... Confessione!"" [Carlo, Alvaro, Leonora]",0,1942,0.118,72.06,0.119,1942
+475,0.898,"['Jean Sibelius', 'Arturo Toscanini']",0.131,732120,0.278,0,4rc5a3SkG6cuGBw713j1l3,0.926,2,0.722,-12.556,1,"Symphony No. 2 in D Major, Op. 43: IV. Finale. Allegro moderato",0,1942,0.0373,58.118,0.162,1942
+476,0.988,"['Franz Liszt', 'Vladimir Horowitz']",0.289,397920,0.0581,0,4rctnxvK1EIHHrZUE6DLn7,0.929,11,0.107,-21.849,1,"Isoldes Liebestod from Tristan und Isolde, S. 447 (after Richard Wagner)",5,1942,0.0419,67.319,0.036,1942
+477,0.24,['Mina'],0.529,152424,0.521,0,4sGCQ2EI3j0Sztxp2Gi3hT,0,9,0.29,-15.19,1,Stringimi forte i polsi,1,1942-11-13,0.0368,90.312,0.888,1942
+478,0.986,['Shanta Apte'],0.565,168693,0.346,0,4si2vmWbqF083mYauVxbED,0.000841,7,0.542,-8.591,1,Pani Ke Raja Machheriya Ho,0,1942-12-31,0.136,86.635,0.882,1942
+479,0.995,['Uma Devi'],0.825,191013,0.109,0,4ssXPXfFcQBk0rYWv79A4G,0.433,4,0.121,-10.107,0,Mere Chhote Se Man Men,0,1942-01-01,0.465,128.942,0.837,1942
+480,0.993,['Claudio Villa'],0.474,205688,0.313,0,4umHOZ5lSosxCvFkJ0tCqw,0.341,10,0.146,-12.382,1,Rumba all'italiana,0,1942-11-13,0.0412,79.797,0.685,1942
+481,0.982,['Giacomo Rondinella'],0.5,215824,0.139,0,4v6QYCGffoqsAKNq9nWnWm,0.00111,7,0.345,-18.223,1,Terra straniera,0,1942-11-23,0.0681,121.88,0.486,1942
+482,0.963,"['Felix Mendelssohn', 'Arturo Toscanini']",0.227,275400,0.0901,0,4vBZRf6KWbMryfuuglDdCi,0.0609,4,0.226,-23.816,1,"Incidental Music to A Midsummer Night's Dream, Op. 61: No. 12, Melodrama & Finale",0,1942,0.0447,81.427,0.0412,1942
+483,0.967,['Charlie Chaplin'],0.34,253500,0.23,0,4vLi4nQqAOoMjMvqVjlnCS,0.802,8,0.683,-12.727,0,Hustling and Shovelling / New Year's Eve,0,1942,0.106,177.472,0.261,1942
+484,0.943,['Orquesta Bizarros'],0.449,171891,0.307,0,4vn0hf28POVpk1373KpvzI,0.00315,10,0.0782,-7.707,0,Un Madrigal - Remastered,0,1942-01-12,0.0329,133.648,0.623,1942
+485,0.993,"['Wolfgang Amadeus Mozart', 'Elisabeth Schumann', 'Wiener Philharmoniker']",0.293,228640,0.0297,0,4wIT9YfnzNNGwSrgWWc01c,0.000254,5,0.0919,-26.782,1,"Le nozze di Figaro, K. 492 (Excerpts Sung in German): O säume länger nicht",0,1942-01-01,0.047,102.613,0.194,1942
+486,0.991,['白光'],0.825,144693,0.167,0,4xywjwaj2S9OodyLh03IGJ,0.762,11,0.0775,-14.835,1,禿子溺坑,2,1942-05-01,0.0907,131.594,0.411,1942
+487,0.994,['Kanan Devi'],0.588,189720,0.233,0,4y1tT4OsqrSCMM5FxhH17n,0.577,3,0.482,-14.819,1,Kon Prabhater Moner Range,0,1942-01-01,0.0839,131.734,0.62,1942
+488,0.989,['Chittoor V. Nagaiah'],0.547,90093,0.183,0,4yKe2CFVvK62xQBu7sR8hV,0.00976,11,0.325,-9.282,1,Kamaneeya Bhoomi (Padyam),0,1942-12-31,0.132,134.42,0.452,1942
+489,0.927,"['Giuseppe Verdi', 'Gino Marinuzzi', 'Bruno Erminero', 'Carlo Tagliabue', ""Coro dell'EIAR di Torino"", 'Dario Caselli', 'Giuseppe Nessi', 'Maria Caniglia', ""Orchestra Sinfonica dell'EIAR di Torino""]",0.681,33627,0.219,0,4yV1ktFQGXfm8FTpzAQxcX,0.013,0,0.219,-19.27,1,"Verdi : La forza del destino : Act 2 ""Che vedo!... mio fratello!"" [Leonora, Alcade, Carlos, Chorus, Trabuco]",0,1942,0.313,128.379,0.721,1942
+490,0.918,['Orchestra Studio 7'],0.554,198687,0.0886,0,4zBtWhYDOYZSC4iB2HbePv,0.000318,9,0.113,-18.389,1,O Bar 'e L'Università - Instrument and base Version,0,1942-11-13,0.0426,90.583,0.551,1942
+491,0.993,"['Maurice Ravel', 'Oscar Levant']",0.369,208600,0.028,0,4zEOek5wbQSe9GW0INWm3y,0.921,6,0.115,-25.886,1,"Sonatine, M. 40: II. Mouvement de menuet",0,1942,0.0452,69.573,0.0604,1942
+492,0.995,['Claudio Villa'],0.259,191033,0.147,0,4zEeRU7KnojtkQc7MuwEjN,0.339,7,0.119,-14.498,1,Carmela,0,1942-11-13,0.0445,79.857,0.381,1942
+493,0.672,['Orchestra Studio 7'],0.322,207517,0.405,0,4zF3B9J9cmfE0s0bivlvn1,2.87E-06,0,0.113,-13.225,0,Speranza - Instrument and base Version,0,1942-11-13,0.038,108.479,0.485,1942
+494,0.99,['Giacomo Rondinella'],0.441,198949,0.257,0,4zf94M9lJKqrlGpeYobASz,0.838,0,0.282,-17.395,0,Pullecenella,0,1942-11-23,0.0822,85.217,0.477,1942
+495,0.992,"['George Gershwin', 'Oscar Levant']",0.487,80680,0.164,0,4zmdPN9Vn5O1PQjpyPmJC8,0.892,0,0.0772,-18.395,0,3 Preludes (Remastered): I. Allegro ben ritmato e deciso,0,1942,0.057,105.956,0.403,1942
+496,0.941,"['Ludwig van Beethoven', 'Wilhelm Kempff', 'Berliner Philharmoniker', 'Peter Raabe']",0.324,1218320,0.132,0,4zvG0Axb0ZKmbWpSwoFUAc,0.198,3,0.119,-17.031,1,"Piano Concerto No. 5 in E-Flat Major, Op. 73 ""Emperor"": I. Allegro moderato",1,1942,0.038,118.346,0.125,1942
+497,0.989,['Luciano Tajoli'],0.426,196180,0.124,0,50Ac1ElaHcK6JDnRNxo1KD,0.722,4,0.12,-16.982,1,Cenere,0,1942-11-23,0.0506,121.847,0.395,1942
+498,0.99,['Natalino Otto'],0.75,181603,0.0538,0,50DnSBVrL4VlCkb1ClU3a4,0.941,0,0.0902,-25.348,0,Muchachita,0,1942-11-23,0.0617,123.448,0.345,1942
+499,0.297,['Orchestra Studio 7'],0.533,275435,0.498,0,50QrXb3L7FIQYR6Fp2iEHR,0.252,7,0.718,-10.952,1,O sole mio - Instrument and base Version,0,1942-11-13,0.0288,112.48,0.538,1942
+500,0.976,"['Ludwig van Beethoven', 'Wilhelm Kempff', 'Staatskapelle Berlin', 'Paul van Kempen']",0.302,622560,0.191,0,50SFrHZ0lv5YKejoWPimwS,0.835,7,0.0937,-17.564,1,"Piano Concerto No. 4 in G Major, Op. 58: III. Rondo: Vivace - Presto",0,1942,0.0407,73.865,0.18,1942
+501,0.993,['Carlo Buti'],0.332,201587,0.059,0,50gRQek3x3BkXIzzrNMukO,0.0669,2,0.0852,-17.13,1,Serenata a Maria,0,1942-04-06,0.0418,130.426,0.198,1942
+502,0.951,['Mohammed Rafi'],0.68,329616,0.323,0,50wwinifuLSa0qaP5qynzy,0.161,9,0.195,-10.245,0,Main Sunata Hoon Tujhe Ek Kahani,2,1942-12-01,0.0698,92.11,0.56,1942
+503,0.996,"['Frédéric Chopin', 'Oscar Levant']",0.391,271280,0.0781,0,512MXRvDC9ebVZTCWxjuSd,0.912,4,0.0946,-19.99,1,"Etude No. 3 in E Major, Op. 10, No. 3 (Remastered)",0,1942,0.0507,80.911,0.0554,1942
+504,0.984,"['Pasupuleti Kannamba', 'C S R Anjaneyulu']",0.533,154400,0.212,0,51SQ51ynNthivLHz3SW8Ea,0.00579,8,0.215,-13.36,0,Jayahe Trisuiadhari,0,1942-12-31,0.0565,112.903,0.534,1942
+505,0.994,['Claudio Villa'],0.453,192575,0.132,0,51Vq28IjjFHRTecEtZdkrV,0.0961,0,0.3,-14.881,1,Com'è bello cantà sotto la luna,0,1942-11-13,0.0423,143.176,0.447,1942
+506,0.988,"['Charles Koechlin', 'Bidu Sayão']",0.395,94600,0.0509,0,528sYMqo03AtUAQcj1wlHS,0.000118,9,0.0803,-19.686,1,Si tu le veux!,0,1942,0.0465,96.78,0.183,1942
+507,0.995,"['Johann Sebastian Bach', 'Oscar Levant']",0.276,81227,0.247,0,52CsG5ZsfwkxQOMaeiNmX3,0.876,10,0.0972,-21.156,1,"Partita No. 1 in B-Flat Major, BWV 825: II. Allemande",0,1942,0.0432,124.741,0.524,1942
+508,0.974,['Noor Jehan'],0.754,194480,0.272,0,52h6V948qCnqyAyyPGLZmH,0.418,9,0.139,-12.221,1,Ham Khelenge Aankh Micholi,0,1942-12-01,0.182,83.694,0.871,1942
+509,0.988,"['Franz Liszt', 'Vladimir Horowitz']",0.241,264840,0.00614,0,53CcHi6tEQN56Xq3HCeD1B,0.934,1,0.102,-33.99,1,"Consolation No. 3 in D-Flat Major, S. 172/3",6,1942,0.0396,107.657,0.0809,1942
+510,0.871,"['Claude Debussy', 'Arturo Toscanini']",0.168,489267,0.123,0,53QoMo5pHHW6ewtjfdTH4B,0.731,8,0.0856,-19.269,0,"La Mer, L. 109: I. De l'aube à midi sur la mer",0,1942,0.0384,73.368,0.0482,1942
+511,0.995,"['Parul Ghosh', 'Arun Kumar']",0.652,191228,0.149,0,54aKn8LluAlNFccyt7dGZC,0.584,9,0.133,-12.507,1,Aaya Basant Sakhi,0,1942-01-01,0.25,130.687,0.853,1942
+512,0.982,['Giorgio Consolini'],0.418,192313,0.0976,0,54dO3shy2QKo86Y2Uz4d9m,0.61,5,0.43,-18.1,0,Rocce Rosse,1,1942-11-23,0.0415,111.414,0.28,1942
+513,0.957,"['N. Vanaja', 'Malathi']",0.636,145493,0.497,0,554P3IlJjL8eQsTuyp98Bo,0.727,7,0.222,-6.12,0,Maa Vadhina,0,1942-12-31,0.0508,155.664,0.964,1942
+514,0.964,"['Francisco Canaro', 'Carlos Roldán']",0.707,188373,0.495,0,55iWKJD8kxD6KsOsxMJunW,0.593,9,0.134,-12.28,1,Candombe Criollo - Remasterizado,0,1942-03-08,0.109,103.622,0.41,1942
+515,0.779,['Mina'],0.529,124473,0.401,0,568AuBIcaog8TDTtypcbp8,1.16E-06,7,0.374,-7.982,1,T' ho visto piangere,1,1942-11-13,0.0323,116.36,0.612,1942
+516,0.577,['Orchestra Studio 7'],0.231,237322,0.366,0,56SVBMooZE2AYjlaO10lH4,3.04E-05,0,0.642,-12.126,1,Sta smania 'e te - Instrument and base Version,0,1942-11-13,0.0306,81.595,0.198,1942
+517,0.989,"['Ludwig van Beethoven', 'New York Philharmonic', 'Bruno Walter']",0.318,1151360,0.22,0,56qZfkz08PDSBnkTnDt026,0.933,3,0.117,-14.562,1,"Concerto for Piano and Orchestra No. 5 in E-Flat Major, Op. 73 ""Emperor"": I. Allegro - Instrumental",0,1942,0.0356,137.237,0.106,1942
+518,0.99,['Claudio Villa'],0.357,194638,0.189,0,57ERiGpdvoiv0HzW7BJRH4,0.00267,0,0.137,-13.743,1,Serenata delle serenate,0,1942-11-13,0.0354,99.558,0.523,1942
+519,0.933,['白光'],0.315,204027,0.257,0,57ShD2DYpaWBQRw1Zcy8En,6.01E-05,0,0.28,-11.192,1,黃昏,2,1942-05-01,0.0354,111.016,0.334,1942
+520,0.988,"['Ludwig van Beethoven', 'Rudolf Serkin']",0.582,66227,0.184,0,57zmUXHIDtFki2S3qXw1uT,0.696,0,0.155,-22.037,1,"Violin Sonata No.9 in A Major, Op. 47 ""Kreutzer"": Variation I",0,1942,0.0735,81.088,0.866,1942
+521,0.915,"['Giuseppe Verdi', 'Gino Marinuzzi', 'Maria Caniglia', ""Orchestra Sinfonica dell'EIAR di Torino"", 'Saturno Meletti', 'Tancredi Pasero']",0.55,64533,0.11,0,583xLr1XMFndDyouSF8GQK,0.000127,10,0.234,-18.849,0,"Verdi : La forza del destino : Act 2 ""Chi mi cerca"" [Padre Guardiano, Leonora, Melitone]",0,1942,0.434,85.923,0.254,1942
+522,0.992,"['Franz Liszt', 'Oscar Levant']",0.483,186053,0.0766,0,58mcD0dYrT2jjngm3Y0DWh,0.877,11,0.0745,-19.477,1,"Valses oubliées, S. 215, No. 1",0,1942,0.0485,76.009,0.084,1942
+523,0.99,"['Wolfgang Amadeus Mozart', 'Maria Cebotari', 'London Philharmonic Orchestra', 'Josef Krips']",0.381,389200,0.103,0,58tkNwzXl7NpidAxMYxoHj,0.0299,0,0.247,-20.278,1,"Le nozze di Figaro, K. 492 (Excerpts): E Susanna non vien! - Dove sono i bei momenti",0,1942-01-01,0.0684,85.754,0.142,1942
+524,0.938,"['Johannes Brahms', 'Arturo Toscanini']",0.204,306160,0.0679,0,59rLec4vnj29MlRJFOe10o,0.419,2,0.277,-19.627,1,"Serenade No. 2 in A Major, Op. 16: IV. Quasi menuetto",0,1942,0.0409,85.14,0.108,1942
+525,0.925,"['Jean Sibelius', 'Arturo Toscanini']",0.152,533787,0.295,0,59z3SUbVcZseQUErDC1qx3,0.527,8,0.0775,-12.268,1,"Finlandia, Op. 26",0,1942,0.0452,70.108,0.0838,1942
+526,0.989,"['Isaac Donayesvsky', 'Paul Robeson Jr.', 'Lawrence Brown']",0.565,137493,0.225,0,5AQFgPRTmhsyzqqnC4aZgf,0.000111,2,0.114,-11.572,1,Native Land,0,1942,0.0469,100.432,0.654,1942
+527,0.979,['Carla Boni'],0.665,163161,0.162,0,5AgpEE3A4jKTBJ61fT0OHj,1.30E-05,9,0.382,-13.549,1,Jezebel,0,1942-11-23,0.0713,103.431,0.719,1942
+528,0.983,"['Reynaldo Hahn', 'Bidu Sayão', 'Paul Breisach', 'Columbia Concert Orchestra']",0.288,121800,0.209,0,5BlkIARCGbAnqz3za3EoNk,0.00256,4,0.114,-18.154,1,Si mes vers avaient des ailes,0,1942,0.0391,104.289,0.0407,1942
+529,0.991,"['Frédéric Chopin', 'Vladimir Horowitz']",0.264,356880,0.291,0,5BsMpz8CUIJiXFegUIImdU,0.909,8,0.0985,-16.078,1,"Polonaise in A-Flat Major, Op. 53 ""Heroic""",6,1942,0.0332,86.866,0.471,1942
+530,0.31,['Orchestra Studio 7'],0.678,155298,0.462,0,5C728VmFGs3SCD4eayGeLE,0.000501,0,0.0923,-13.139,0,A sunnambula - Instrument and base Version,0,1942-11-13,0.0341,140.758,0.515,1942
+531,0.351,['Orchestra Studio 7'],0.327,205166,0.408,0,5CcnIM8hL4bdTfvlbmzOhq,0.904,0,0.15,-13.577,0,Speranza - Musical base Version,0,1942-11-13,0.0323,107.887,0.317,1942
+532,0.994,['Carlo Buti'],0.421,209136,0.0481,0,5CuJ4tYvPOmMayZ41XhyXP,0.0205,7,0.108,-18.005,1,Firenze sogna,0,1942-05-30,0.045,99.799,0.235,1942
+533,0.841,['Shanta Apte'],0.534,189213,0.479,0,5DPnk8t6Arb6B0BGxMIWYd,0.122,11,0.235,-9.35,1,Chhota Sa Sansar Hamara,0,1942-12-01,0.0578,136.911,0.947,1942
+534,0.991,['Noor Jehan'],0.737,180140,0.349,0,5DUSpk3Gy56S0dbwZidI4W,0.914,9,0.156,-12.893,1,Aa Gaya Mere Bagh Ka Mali,0,1942-12-01,0.691,87.775,0.824,1942
+535,0.995,['Vimla'],0.705,188624,0.0263,0,5DpzoCNr6dtH6pjL4NDtO2,0.816,9,0.0951,-14.74,1,Sajan Aaye Gali Men Ram Kasam,0,1942-12-31,0.768,65.614,0.945,1942
+536,0.995,['Fakir Mohammad'],0.745,192691,0.128,0,5Dye4AnolMASg6RksTx2ch,0.091,9,0.105,-12.024,0,Tu Shama Bane Main Parwana,0,1942-12-31,0.0944,111.055,0.769,1942
+537,0.989,"['Ludwig van Beethoven', 'Rudolf Serkin', 'Bruno Walter']",0.325,585360,0.22,0,5E02eP1u8WWojGPKDCB7Ic,0.924,3,0.0982,-14.717,1,"Concerto No. 5 in E-Flat Major for Piano and Orchestra, Op. 73 ""Emperor"": III. Rondo. Allegro",1,1942,0.0401,88.378,0.161,1942
+538,0.896,"['George Gershwin', 'Oscar Levant', 'Morton Gould', 'Morton Gould Orchestra']",0.395,531307,0.296,0,5E1W2OxL7XZ5S31aFvIas6,0.372,0,0.164,-13.77,1,I Got Rhythm Variations for Piano And Orchestra (Remastered),0,1942,0.0351,119.85,0.152,1942
+539,0.42,['Orchestra Studio 7'],0.74,202893,0.399,0,5EFctsRPkwGVHtRbW0oxzZ,0.887,2,0.228,-14.202,1,Malafemmena - Instrument and base Version,0,1942-11-13,0.0294,109.856,0.582,1942
+540,0.988,['Asha Bhosle'],0.77,213804,0.259,0,5ERYKjW3AgCg2ur15GIn5n,0.000236,0,0.232,-10.019,1,Hai Tera Bhi Irada,0,1942-01-01,0.771,119.411,0.609,1942
+541,0.0733,['Orchestra Studio 7'],0.696,191556,0.324,0,5EVelep0jCeTPUCCLADtbQ,0.0152,4,0.157,-12.883,1,Agata - Instrument and base Version,0,1942-11-13,0.0362,62.434,0.851,1942
+542,0.0135,['Orchestra Studio 7'],0.472,248764,0.336,0,5EdwQh6bk7LNP3xjuQoEp1,0.969,10,0.212,-15.19,0,Doce doce - Musical base Version,0,1942-11-13,0.0253,171.81,0.232,1942
+543,0.996,['M.M.Dandapani Desikar'],0.488,117653,0.573,0,5EpsKqsBZqlobA1QxPgsDL,0.899,6,0.859,-12.889,0,Hara Hara,0,1942-12-31,0.0631,104.915,0.716,1942
+544,0.996,"['Nalini Jaywant', 'Satish']",0.595,199117,0.162,0,5F2snQFKTUencrhp43kyV7,0.919,8,0.167,-13.487,1,Na Han Kaho Na Na Kaho,0,1942-12-31,0.286,78.864,0.531,1942
+545,0.892,"['Claude Debussy', 'Arturo Toscanini']",0.184,405440,0.172,0,5FLN0zui6ithcLPdg6v5qu,0.83,7,0.403,-19.987,1,"Images, L. 122, 2. Ibéria: I. Par les rues et par les chemins",0,1942,0.0466,72.091,0.185,1942
+546,0.959,['Carla Boni'],0.416,199811,0.272,0,5FWcOu2gnVDmjw8C3MrtRs,6.67E-05,9,0.307,-11.909,0,Come Giuda,1,1942-11-23,0.159,71.367,0.426,1942
+547,0.958,"['Jerome Kern', 'Paul Robeson Jr.', 'Lawrence Brown', 'Columbia Concert Orchestra']",0.243,188093,0.118,0,5FbB4EEuzJRLKT5JLzBsMk,0.000308,8,0.134,-14.403,1,Ol' Man River from Showboat,0,1942,0.0318,82.592,0.155,1942
+548,0.99,"['Wolfgang Amadeus Mozart', 'Sir John Barbirolli', 'New York Philharmonic']",0.408,558613,0.182,0,5FtIZQSAKBKitEkBMcwV8E,0.861,9,0.0734,-14.076,1,"Clarinet Concerto in A Major, K. 622: III. Rondo. Allegro",0,1942,0.038,116.05,0.51,1942
+549,0.993,['Carla Boni'],0.342,113084,0.12,0,5GKkdsYOpVUvGPkIOQLxzj,0.897,0,0.129,-19.948,1,Viale d'autunno,0,1942-11-23,0.0396,128.881,0.188,1942
+550,0.00239,['Orchestra Studio 7'],0.767,137874,0.61,0,5HZEXZ8Dc43h5FqsjlCGvk,0.912,8,0.101,-16.073,1,Caravan petrol - Musical base Version,0,1942-11-13,0.0612,130.603,0.923,1942
+551,0.484,['Orchestra Studio 7'],0.66,188317,0.411,0,5IfV9bmYLmLNmaHOKl8zjn,0,5,0.0925,-12.972,1,Tu vuò fa' l'americano - Instrument and base Version,0,1942-11-13,0.254,94.148,0.784,1942
+552,0.727,['Stan Kenton'],0.63,194493,0.696,0,5Iq5OflcdJoHgZv9q8FD3n,0.634,4,0.31,-7.846,0,El Choclo,1,1942-01-01,0.0529,75.809,0.698,1942
+553,0.576,['葛蘭'],0.367,187360,0.243,0,5IxzvnliHO0e849Y0yEysU,0,0,0.265,-11.549,1,將來是個謎,1,1942,0.053,135.044,0.349,1942
+554,0.995,"['Johann Sebastian Bach', 'Claudio Arrau']",0.552,118760,0.332,0,5J1uVp5qYRCI3n9KogmVnV,0.914,7,0.182,-20.949,1,"Goldberg Variations, BWV 988: Variation XVII",1,1942,0.0517,100.487,0.894,1942
+555,0.814,['Chapuseaux y Damirón'],0.546,159608,0.398,0,2hIJRV7y9lyjI1Y980NiR7,0.0959,0,0.314,-17.06,1,Puchunguita,0,1945-01-01,0.0671,157.927,0.964,1945
+556,0.992,"['Robert Schumann', 'William Kapell']",0.286,208640,0.0231,0,2hOUyObeu7qFYfPKMHfNUa,0.919,6,0.213,-25.21,1,"3 Romanzen, Op. 28: 2. Einfach",0,1945,0.0329,75.078,0.0931,1945
+557,0.988,"['Modest Mussorgsky', 'William Kapell']",0.65,148707,0.111,0,2hQ9VPaXuDga80eCNoV3Bg,0.78,1,0.0886,-19.037,0,Pictures at an Exhibition: Bydlo,0,1945,0.0795,108.19,0.49,1945
+558,0.963,['Sonny Boy Williamson I'],0.612,187324,0.243,0,2hVdthNDvGTufvvPdMpiUQ,0.00104,7,0.19,-14.848,1,Mattie Mae Blues,0,1945,0.108,84.295,0.744,1945
+559,0.142,['Эрих Мария Ремарк'],0.705,97400,0.149,1,2hYekxMbTgBWJi6XEEexyO,2.09E-06,1,0.31,-19.212,1,Часть 105.2 - Триумфальная арка,0,1945,0.927,107.406,0.557,1945
+560,0.92,"['Modest Mussorgsky', 'William Kapell']",0.402,52760,0.0465,0,2hnyqrrOvlEA2cR3rU4AJx,0.581,3,0.254,-23.42,0,Pictures at an Exhibition: Tuileries,0,1945,0.0312,77.36,0.524,1945
+561,0.873,"['Lata Mangeshkar', 'Premnath']",0.243,222973,0.679,0,2iBURZgeMN8mDamQdKOmsY,4.42E-06,1,0.0846,-10.002,0,Sham-E-Furqat Ka Dhal Gaya Saya,1,1945-12-01,0.115,84.436,0.528,1945
+562,0.0888,['Эрих Мария Ремарк'],0.722,96300,0.179,1,2iBpMnAzfqDWDgEwcxEFhB,2.63E-06,2,0.243,-19.127,1,Часть 220.2 - Триумфальная арка,0,1945,0.914,125.327,0.55,1945
+563,0.983,"['Sergei Rachmaninoff', 'William Kapell', 'Fritz Reiner']",0.635,61467,0.0123,0,2iHsGLov7TQB44iQNte0u2,0.955,0,0.107,-27.297,1,"Rhapsody on a Theme of Paganini, Op.43: Variation VII: Meno mosso, a tempo moderato",0,1945,0.0521,83.046,0.61,1945
+564,0.845,"['Sergei Prokofiev', 'William Kapell', 'Antal Doráti']",0.479,46640,0.59,0,2iO5Mr5RLL4dqK4v9t9Ehh,0.846,9,0.57,-14.67,0,"Concerto No. 3 in C, Op.26: Theme and Variations: Variation II: Allegro",0,1945,0.0397,79.756,0.69,1945
+565,0.973,"['Gioachino Rossini', 'Charles Adams Prince', 'Giuseppe Campanari']",0.57,153400,0.234,0,2ikJmWXzDrHpJ25l0wpZcO,4.32E-06,7,0.425,-14.026,1,Largo al factotum from Il barbiere di Siviglia - Vocal,2,1945,0.109,65.54,0.378,1945
+566,0.212,['Эрих Мария Ремарк'],0.67,96926,0.17,1,2ivPfJNZBmE8pl8MTF7Sxu,3.59E-05,0,0.123,-17.906,1,Часть 55.3 & Часть 56.1 - Триумфальная арка,0,1945,0.931,96.324,0.425,1945
+567,0.765,['紫薇'],0.441,307333,0.323,0,2j3rzNp0wcDCIB8L6UMOvV,1.18E-05,3,0.0778,-12.259,0,何日君再來,4,1945-02-01,0.0331,96.451,0.39,1945
+568,0.814,"['Gustav Mahler', 'Bruno Walter', 'New York Philharmonic']",0.145,1297000,0.0577,0,2j7uB3dzohCkp69hz0idgo,0.934,8,0.195,-20.824,1,I. Allegro maestoso,1,1945,0.0384,75.679,0.0506,1945
+569,0.993,"['Frédéric Chopin', 'William Kapell']",0.333,157427,0.0606,0,2jBFN8N0ZAzHZQX0cPps5Y,0.865,3,0.0823,-23.601,1,"Mazurka, Op.24, No. 1 in G Minor",0,1945,0.0337,91.429,0.0959,1945
+570,0.849,"['Darius Milhaud', 'Pierre Monteux']",0.302,249360,0.636,0,2jXcITksHX4ZtlePwAj455,0.596,0,0.15,-8.982,1,"Suite symphonique, No. 2, Op. 57 ""Protée"": V. Final - Vif",0,1945,0.0409,73.893,0.28,1945
+571,0.218,['Эрих Мария Ремарк'],0.672,96565,0.248,1,2jbiVqTrOHDCSeAociPC5n,3.03E-06,0,0.168,-18.726,1,Часть 188.4 & Часть 189.1 - Триумфальная арка,0,1945,0.928,79.559,0.479,1945
+572,0.986,['Adolfo Berón'],0.706,170031,0.107,0,2jnMjGcKvoR5TGImBwJPEM,0.869,4,0.109,-18.853,1,Noches de Atenas,0,1945-04-12,0.0623,110.359,0.358,1945
+573,0.819,"['John Philip Sousa', 'Arturo Toscanini']",0.412,199067,0.766,0,2k0Suw6KfQvo9pUsMCXBDO,0.394,2,0.197,-9.897,1,The Stars and Stripes Forever,0,1945,0.0447,130.776,0.78,1945
+574,0.975,"['Johannes Brahms', 'Pierre Monteux']",0.176,761933,0.199,0,2k3pti36aD7FBCs7eHD06Q,0.167,0,0.103,-15.766,1,"Alto Rhapsody, Op. 53",0,1945,0.0393,104.858,0.044,1945
+575,0.0135,['Federico García Lorca'],0.713,110500,0.149,0,2kGKkAIHLr2RZVNHyjeEUM,0,5,0.329,-25.188,0,Capítulo 7.3 - la Casa de Bernarda Alba,0,1945,0.927,70.63,0.71,1945
+576,0.087,['Эрих Мария Ремарк'],0.699,100900,0.158,1,2kQ5eXykLwc3JlgA8NhvGX,2.31E-06,0,0.346,-19.158,0,Часть 104.3 & Часть 105.1 - Триумфальная арка,0,1945,0.851,138.732,0.581,1945
+577,0.204,['Эрих Мария Ремарк'],0.715,126855,0.19,1,2kdlTCIBmBB4aVJCA3nNYU,5.49E-06,1,0.351,-18.447,1,Часть 113.3 - Триумфальная арка,0,1945,0.918,110.26,0.682,1945
+578,0.896,"['Sergei Prokofiev', 'William Kapell', 'Antal Doráti']",0.356,74067,0.454,0,2l8ALlbkTOlGhVG4RD6fDx,0.784,9,0.162,-14.318,0,"Concerto No. 3 in C, Op.26: Theme and Variations: Variation V: Allegro giusto",0,1945,0.0369,82.773,0.479,1945
+579,0.994,"['Wolfgang Amadeus Mozart', 'William Kapell']",0.392,374227,0.0722,0,2lCWk3APDS6gOHODz3HXO4,0.894,3,0.121,-27.466,1,Adagio II,0,1945,0.0468,92.167,0.253,1945
+580,0.887,['Chapuseaux y Damirón'],0.574,166557,0.48,0,2lGmcdovze6rVB7fKtPOGm,0.00512,5,0.149,-15.591,1,El Regalito,0,1945-01-01,0.071,101.024,0.967,1945
+581,0.0825,['Эрих Мария Ремарк'],0.608,95919,0.124,1,2ln1LLJTpMuNPoyyyucHKl,0.0027,1,0.117,-21.995,1,Часть 124.2 & Часть 125.1 - Триумфальная арка,0,1945,0.954,189.125,0.591,1945
+582,0.982,"['Francisco Canaro', 'Guillermo Coral', 'Alberto Arenas']",0.624,172787,0.338,0,2lyeGRafxVXR3nNK4ucXKc,0.864,7,0.339,-8.753,1,Pregonera - Remasterizado,0,1945-03-13,0.0459,122.258,0.762,1945
+583,0.995,"['Abram Chasins', 'William Kapell']",0.651,91507,0.0529,0,2m7i17fbYgbfhyOCZazgfF,0.787,9,0.276,-22.734,1,"Piano Playtime: By the Brook No. 4 (To ""Butten"")",0,1945,0.0469,87.991,0.492,1945
+584,0.981,"['Francisco Canaro', 'Carlos Roldán']",0.545,153400,0.37,0,2mXu9biCofU87odRNcJCQr,0.306,1,0.231,-8.79,0,Llamandote - Remasterizado,0,1945-03-12,0.0838,129.283,0.588,1945
+585,0.182,['Feliciano Brunelli Y Su Orquesta'],0.593,148944,0.904,0,2mfOSDa23niit68b8AONkM,0.715,8,0.379,-7.327,1,Booguie del Burrito - Remastered,0,1945-01-12,0.153,105.748,0.857,1945
+586,0.988,"['Modest Mussorgsky', 'William Kapell']",0.489,84627,0.237,0,2mgvAsROQaP7vBoU1xycK0,0.81,7,0.115,-17.411,0,Pictures at an Exhibition: Promenade,0,1945,0.0646,102.848,0.269,1945
+587,0.12,['Эрих Мария Ремарк'],0.627,102500,0.184,1,2muSghjsEdC2rXfQfbZnzF,0.00998,1,0.108,-19.14,1,Часть 99.4 & Часть 100.1 - Триумфальная арка,0,1945,0.941,176.901,0.626,1945
+588,0.227,['Эрих Мария Ремарк'],0.643,110800,0.152,1,2mvTolT1D24yX3iCQFvIDz,0,6,0.26,-19.18,1,Часть 119.3 - Триумфальная арка,0,1945,0.948,159.903,0.654,1945
+589,0.967,['Chapuseaux y Damirón'],0.708,141933,0.532,0,2nOjNAomxn0YQdVdp9rPUQ,0.554,0,0.13,-9.199,1,Alla Va Eso,0,1945-01-01,0.0567,99.284,0.704,1945
+590,0.138,['Эрих Мария Ремарк'],0.635,104100,0.152,1,2nReLid0aVd4ug0TxkP3Wc,2.26E-06,0,0.241,-20.181,1,Часть 17.2 - Триумфальная арка,0,1945,0.939,84.201,0.629,1945
+591,0.994,"['Sergei Rachmaninoff', 'William Kapell', 'Fritz Reiner']",0.441,17907,0.151,0,2ndQKlOL0BCycoGoNFRFo0,0.852,2,0.468,-18.048,0,"Rhapsody on a Theme of Paganini, Op.43: Variation II: L'istesso tempo",0,1945,0.0557,82.922,0.975,1945
+592,0.986,"['Francisco Canaro', 'Guillermo Coral']",0.519,177867,0.356,0,2o0SHy8LMoy7znH8J6LFHT,0.326,10,0.163,-7.022,1,Trenzas - Remasterizado,0,1945-03-12,0.154,128.237,0.493,1945
+593,0.0982,['Эрих Мария Ремарк'],0.721,101500,0.191,1,2o0moCqIf4KR4gpUdLx6IS,1.01E-06,1,0.246,-21.336,1,Часть 128.3 - Триумфальная арка,0,1945,0.892,123.477,0.606,1945
+594,0.958,"['Ludwig van Beethoven', 'Joseph Szigeti', 'Bruno Walter', 'New York Philharmonic']",0.199,587467,0.0682,0,2o0mqMROTEkzHlj4YSWtDp,0.346,7,0.093,-24.228,1,"Violin Concerto in D Major, Op. 61: II. Larghetto",0,1945,0.0459,88.172,0.0891,1945
+595,0.0814,['Эрих Мария Ремарк'],0.727,104600,0.133,1,2o44sqKiNOAEpjptIiQHzz,1.09E-05,1,0.091,-21.513,1,Часть 222.2 - Триумфальная арка,0,1945,0.889,128.445,0.584,1945
+596,0.96,['M. L. Vasanthakumari'],0.499,179440,0.411,0,2o4zDsBkzgcTdfsik3CUNg,0.44,6,0.132,-6.892,1,Radha Sametha Krishna,0,1945-12-01,0.15,88.175,0.915,1945
+597,0.169,['Эрих Мария Ремарк'],0.596,95200,0.172,1,2oJLbAcNvids60bf54qt3u,1.02E-05,1,0.321,-22.664,1,Часть 240.2 - Триумфальная арка,0,1945,0.959,202.175,0.722,1945
+598,0.994,"['Johann Sebastian Bach', 'William Kapell']",0.345,134933,0.0777,0,2ol6iBmIh79V7Km6mZbdCN,0.931,9,0.102,-23.57,1,Allemande (beginning),0,1945,0.0417,68.699,0.232,1945
+599,0.913,['William Kapell'],0.704,1325093,0.223,0,2oxZ6KbavToosKKbNvBmu1,0,2,0.326,-24.48,0,Interview with William Kapell,0,1945,0.935,112.485,0.403,1945
+600,0.391,['Эрих Мария Ремарк'],0.713,95088,0.149,1,2p05iXZ7jG5D0JtV0JQIyl,1.48E-06,0,0.228,-18.187,1,Часть 49.4 & Часть 50.1 - Триумфальная арка,0,1945,0.68,128.624,0.623,1945
+601,0.133,['Эрих Мария Ремарк'],0.709,97500,0.226,1,2p7j6fmqLAGNnrL9Jddmy2,0.000341,11,0.0807,-21.546,0,Часть 174.2 - Триумфальная арка,0,1945,0.801,112.419,0.463,1945
+602,0.911,"['Felix Mendelssohn', 'Marlboro Festival Octet']",0.443,266840,0.229,0,2pE1C9bWneX71cnqW7jLjC,0.876,7,0.0967,-21.741,0,"III. Scherzo: Allegro leggierissimo from Octet in E-flat Major, Op. 20",0,1945,0.0377,142.336,0.453,1945
+603,0.209,['Эрих Мария Ремарк'],0.701,131400,0.191,1,2pSVONYZjtptK1MpiwFOda,4.61E-05,6,0.101,-19.733,0,Часть 105.4 & Часть 106.1 - Триумфальная арка,0,1945,0.953,104.702,0.677,1945
+604,0.982,['M. S. Subbulakshmi'],0.251,262560,0.202,0,2pkup5bRgk6qdDtAkpBby3,0.000106,1,0.111,-12.465,1,Pannedum Naalai,0,1945-12-01,0.0352,68.109,0.287,1945
+605,0.994,['Shamshad Begum'],0.448,191790,0.182,0,2plEHDXKPHJNcL77bL4GaA,0.747,1,0.178,-13.124,1,Naina Bhar Aaye Neer,0,1945-01-01,0.0918,69.041,0.315,1945
+606,0.0503,['Эрих Мария Ремарк'],0.692,114700,0.138,1,2ppjaV99jWQBnlgF4IzSyt,2.22E-06,8,0.0828,-21.447,1,Часть 231.4 - Триумфальная арка,0,1945,0.918,138.63,0.55,1945
+607,0.0905,['Эрих Мария Ремарк'],0.712,103200,0.181,1,2q5FlK299A35aDN4ufo6XT,1.59E-05,5,0.0715,-21.36,0,Часть 156.5 & Часть 157.1 - Триумфальная арка,0,1945,0.819,127.172,0.457,1945
+608,0.983,['M. S. Subbulakshmi'],0.378,152213,0.547,0,2qJzfF3sNBgAV47EdbatZN,0.000983,3,0.49,-4.655,1,Giridhara Gopala,0,1945-11-03,0.0315,84.344,0.902,1945
+609,0.993,"['Orkestr Borisa Shermana', 'Boris Sherman', 'Rostislav Pljatt', 'Vasiliy Kachalov']",0.548,160628,0.0841,0,2qTrhyZwkMShDsaGlTURiN,0.345,3,0.511,-14.989,0,Dve foreli (starinnaja pesenka),0,1945-01-01,0.187,133.598,0.358,1945
+610,0.983,"['Sergei Rachmaninoff', 'William Kapell', 'Fritz Reiner']",0.635,61467,0.0123,0,2qYaSlK0698oGi7Z9yrixw,0.955,0,0.107,-27.297,1,"Rhapsody on a Theme of Paganini, Op.43: Variation VII: Meno mosso, a tempo moderato",0,1945,0.0521,83.046,0.61,1945
+611,0.145,['Эрих Мария Ремарк'],0.715,102400,0.202,1,2qel6vvh7ueUeizYW04xZC,0.0001,5,0.309,-20.126,0,Часть 169.3 - Триумфальная арка,0,1945,0.8,118.008,0.356,1945
+612,0.0793,['Эрих Мария Ремарк'],0.629,100319,0.224,1,2qs6MU53ips9mFXxfjxIfn,1.66E-05,5,0.0852,-20.863,1,Часть 190.3 & Часть 191.1 - Триумфальная арка,0,1945,0.947,164.932,0.579,1945
+613,0.995,"['Sergei Rachmaninoff', 'William Kapell', 'Fritz Reiner']",0.217,95773,0.0887,0,2qyUIFKjivHVrKujN5J2LB,0.909,6,0.1,-25.614,1,"Rhapsody on a Theme of Paganini, Op.43: Variation XVII: [Allegretto]",0,1945,0.0362,131.292,0.0467,1945
+614,0.984,"['Ludwig van Beethoven', 'Ania Dorfmann', 'Arturo Toscanini']",0.351,859160,0.278,0,2qylCNZLsng9t8fy8OA0by,0.808,7,0.106,-13.713,1,"Piano Concerto No. 1 in C Major, Op. 15: I. Allegro con brio",0,1945,0.0295,86.113,0.171,1945
+615,0.99,"['Johann Sebastian Bach', 'William Kapell']",0.268,395560,0.234,0,2qzOEz2C9VeupkuO0QlwL3,0.906,2,0.148,-19.286,1,"Partita No.4 in D Major, BWV 828: Ouverture",0,1945,0.0369,106.524,0.363,1945
+616,0.936,"['Igor Stravinsky', 'Pierre Monteux']",0.158,41987,0.63,0,2rCXJDLUlIy7QAkeD3iWiW,0.258,3,0.254,-9.962,1,"The Rite of Spring: The Adoration of the Earth, Pt. 1: VI. Procession of the Sage",0,1945,0.0439,108.12,0.219,1945
+617,0.968,"['Sergei Rachmaninoff', 'William Kapell', 'Edmund Kurtz']",0.246,548560,0.19,0,2rGDv2kgFK38I2AjzwIY0S,0.892,7,0.304,-16.025,0,"Cello Sonata in G Minor, Op. 19: I. Lento - Allegro moderato",0,1945,0.0356,103.864,0.135,1945
+618,0.905,['AmáΙia Rodrigues'],0.61,186958,0.152,0,2rP2uguojjmyL4K0cqmCfh,0,3,0.0628,-7.348,1,La Femme Du Berger,1,1945-01-01,0.0452,107.497,0.487,1945
+619,0.993,"['Franz Liszt', 'William Kapell']",0.349,405027,0.0653,0,2rPfYnANzL7HUeQMk5azNZ,0.923,4,0.115,-21.338,1,5. Sonetto 104 del Petrarca,0,1945,0.0459,78.289,0.0384,1945
+620,0.988,['Lowell Fulson'],0.676,167627,0.349,0,2rXgIlJJUMo1MWg2KQpLiY,0.000358,5,0.0955,-7.995,1,Mean Woman Blues,0,1945,0.0382,113.64,0.636,1945
+621,0.995,['Khursheed Bano'],0.495,189493,0.104,0,2rfpoo6ISwlTEFMNDMYZHM,0.166,5,0.162,-15.629,0,Itna Bhi Na Woh Samjhake Gaye,0,1945-01-01,0.0883,139.234,0.591,1945
+622,0.135,['Эрих Мария Ремарк'],0.689,105471,0.209,1,2rrxkyULb19pa1MYwFtKcM,0,3,0.0794,-18.828,1,Часть 35.4 & Часть 36.1 - Триумфальная арка,0,1945,0.927,90.46,0.571,1945
+623,0.987,"['Traditional', 'Yehudi Menuhin']",0.164,216280,0.206,0,2s3GpLVoaqu4BgLST84u5x,0.639,5,0.3,-16.966,0,16th Century Melody: La Romanesca,0,1945,0.0457,61.456,0.24,1945
+624,0.968,"['George Gershwin', 'John Williams', 'Joshua Bell']",0.389,99467,0.113,0,2sJdVE1AOlRrFUH4phftOR,0.448,2,0.118,-21.168,0,I. Allegro ben ritmato e deciso from Three Preludes - Instrumental,0,1945,0.0615,179.135,0.303,1945
+625,0.995,['Ghulam Haider'],0.633,196169,0.139,0,2tWWf3Extuv9lpvWODmeuM,0.715,4,0.109,-15.271,0,Ae Chand Tu Bata De,0,1945-01-01,0.13,82.779,0.484,1945
+626,0.954,"['Felix Mendelssohn', 'Bruno Walter', 'New York Philharmonic']",0.504,275440,0.36,0,2thpB5Uz5y3dvf4RJBRzOZ,0.77,7,0.184,-17.752,0,"A Midsummer Night's Dream. Incidental Music, Op. 61: Scherzo - Remastered",0,1945,0.0321,129.487,0.554,1945
+627,0.987,"['Robert Schumann', 'Claudio Arrau', 'Karl Krueger', 'Detroit Symphony Orchestra']",0.295,309227,0.0498,0,2tjxRttkirZfD3vzTXcONl,0.807,2,0.173,-25.932,0,"Piano Concerto in A Minor, Op. 54: II. Intermezzo - Andantino grazioso",0,1945,0.0335,96.35,0.115,1945
+628,0.99,['Hemant Kumar'],0.497,201667,0.182,0,2tl5OMjzTe9gMTKBPIbXYd,0.95,0,0.159,-19.347,0,Tujhe Aana Padega,0,1945-12-01,0.196,95.859,0.801,1945
+629,0.0438,['Эрих Мария Ремарк'],0.719,380529,0.154,1,2uCixhn6fyNuyO9oq861zM,8.19E-06,2,0.09,-19.566,1,Часть 141.3 & Часть 142.1 - Триумфальная арка,0,1945,0.942,126.978,0.532,1945
+630,0.739,['Jazz At The Philharmonic'],0.551,717973,0.579,0,2uLY7JyfLtgB85NqYKAGWY,0.699,9,0.686,-13.028,0,"Oh, Lady, Be Good",0,1945-01-01,0.173,124.655,0.531,1945
+631,0.98,"['Joseph-Hector Fiocco', 'Yehudi Menuhin']",0.574,162493,0.335,0,2uQ5yjUgnCBLgufIGUE06b,0.289,7,0.123,-16.213,1,"Harpsichord Suite No. 1 in G Major, Op. 1/1: Allegro",0,1945,0.0615,131.556,0.967,1945
+632,0.993,"['Wolfgang Amadeus Mozart', 'William Kapell']",0.394,107933,0.162,0,2uiypnFTUk54w8nkvvQxS5,0.922,7,0.118,-19.824,1,Allegro moderato (beginning) I,0,1945,0.038,67.165,0.659,1945
+633,0.906,['The Hollywood Four Blazes'],0.692,182370,0.299,0,2unGT1FqOEwy0MRMFKwSwY,0.855,8,0.0826,-13.72,1,Theme: Longhair's Nightmare,0,1945-01-01,0.0704,103.583,0.834,1945
+634,0.995,"['Frédéric Chopin', 'William Kapell']",0.368,138573,0.0349,0,2uocIkTaY9Okjy2csmyHFC,0.881,11,0.0787,-24.841,1,"Mazurka, Op.41, No. 2 in E Minor",0,1945,0.0472,76.167,0.04,1945
+635,0.986,['Sonny Boy Williamson I'],0.58,166478,0.18,0,2uu8jxObdLgRoUkSWatdRp,0.000237,5,0.0727,-15.548,1,My Black Name Blues,0,1945,0.0931,81.024,0.691,1945
+636,0.817,['Mohammed Rafi'],0.529,202160,0.616,0,2v1r2ZCoeHYQkoToigIxOC,3.68E-05,11,0.144,-12.128,0,Dil Tu Bhi Gaa,0,1945-12-01,0.109,134.771,0.912,1945
+637,0.219,['Эрих Мария Ремарк'],0.654,102221,0.165,1,2vBx2Ji6nVNbNalzpxCDWm,1.14E-06,0,0.216,-19.927,1,Часть 202.4 & Часть 203.1 - Триумфальная арка,0,1945,0.902,84.712,0.752,1945
+638,0.000751,['Federico García Lorca'],0.61,97500,0.178,0,2vMALs2yzWAUqua1rF90Lq,0,1,0.355,-25.269,1,Capítulo 13.4 - la Casa de Bernarda Alba,0,1945,0.935,164.582,0.618,1945
+639,0.0305,['Federico García Lorca'],0.636,101700,0.271,0,2vounPTMUDeNn3BzH82m7t,0,1,0.264,-22.489,1,Capítulo 7.2 - la Casa de Bernarda Alba,0,1945,0.936,164.095,0.785,1945
+640,0.992,"['Sergei Rachmaninoff', 'William Kapell', 'Fritz Reiner']",0.428,60067,0.174,0,2wAPYDZ4nWkop3MzIZbara,0.645,9,0.374,-20.253,0,"Rhapsody on a Theme of Paganini, Op.43: Variation VI: L'istesso tempo",0,1945,0.0343,47.059,0.302,1945
+641,0.0556,['Эрих Мария Ремарк'],0.733,101800,0.107,1,2wC0FEFabZbcsXJRffhUgN,0.000248,1,0.0325,-24.33,1,Часть 217.3 - Триумфальная арка,0,1945,0.93,81.145,0.495,1945
+642,0.989,['Bechu Dutta'],0.332,193413,0.31,0,2wZC9G0A5UK9Sm2ibPzAyv,0.423,11,0.143,-11.161,1,Jader Jibon Byartha,0,1945-12-01,0.0777,175.608,0.358,1945
+643,0.992,['Noor Jehan'],0.431,184875,0.204,0,2x4OsJfQ7jkoXAWOgv4KZC,0.626,6,0.129,-14.106,1,Aaja Ri Nindiya,0,1945-01-01,0.0601,127.142,0.237,1945
+644,0.0117,['Federico García Lorca'],0.567,97047,0.214,0,2xSLU0uoDv4Ot0dpViMfEy,0,1,0.485,-27.213,1,Capítulo 4.6 & Capítulo 5.1 - la Casa de Bernarda Alba,0,1945,0.954,168.74,0.649,1945
+645,0.968,['AmáΙia Rodrigues'],0.493,165582,0.0843,0,2xTB5furWFFCb0hfkkt8ZI,0,11,0.139,-16.425,1,Fadista Louco,0,1945-01-01,0.0485,115.495,0.153,1945
+646,0.894,"['Édouard Lalo', 'Pierre Monteux', 'Yehudi Menuhin']",0.498,481720,0.286,0,2xUNXFieaoE0tUUBTqeDSg,0.772,9,0.234,-13.739,1,"Symphonie espagnole pour violon et orchestre in D Minor, Op. 21: V. Rondo - Allegro",0,1945,0.0579,84.845,0.757,1945
+647,0.994,"['Johann Sebastian Bach', 'William Kapell']",0.327,156440,0.295,0,2xXebHp5uI5UzqP83XXlHV,0.876,9,0.18,-18.589,0,"Suite in A Minor, BWV 818: Allemande",0,1945,0.0397,146.422,0.464,1945
+648,0.992,"['Béla Bartók', 'Benny Goodman', 'Joseph Szigeti']",0.109,271600,0.0384,0,2xnABYmnkVX2d3PJ98NHEg,0.925,7,0.103,-23.09,1,"II. Piheno (Relaxation) from Contrasts for Violin, Clarinet and Piano - Instrumental",1,1945,0.0422,81.015,0.0342,1945
+649,0.102,['Эрих Мария Ремарк'],0.756,99100,0.153,1,2xsA2SxFi4WoWQIpWq8hdu,5.51E-06,5,0.164,-18.931,0,Часть 220.3 - Триумфальная арка,0,1945,0.709,97.089,0.525,1945
+650,0.273,['Эрих Мария Ремарк'],0.719,110463,0.187,1,2y1QPS2BYzTH2YuNxYq6df,0,2,0.32,-18.231,0,Часть 53.4 & Часть 54.1 - Триумфальная арка,0,1945,0.871,126.712,0.542,1945
+651,0.234,['Эрих Мария Ремарк'],0.652,126800,0.114,1,2y6ud0wfOSl6ZyggM2Af0k,3.38E-06,5,0.445,-20.139,0,Часть 78.2 - Триумфальная арка,0,1945,0.907,90.782,0.643,1945
+652,0.114,['Эрих Мария Ремарк'],0.765,114200,0.131,1,2yS6xJv6ApdebANnRpOjpt,5.80E-05,1,0.0865,-20.504,1,Часть 111.2 - Триумфальная арка,0,1945,0.942,81.518,0.616,1945
+653,0.913,['William Kapell'],0.704,1325093,0.223,0,2yezXgKe13D8hYgM7vzuvG,0,2,0.326,-24.48,0,Interview with William Kapell,0,1945,0.935,112.485,0.403,1945
+654,0.412,['紫薇'],0.608,179467,0.359,0,2yuQaSn1Xpf52k7Nf8RIi8,1.19E-05,5,0.0564,-15.497,0,戀之火,0,1945-02-01,0.0352,114.755,0.373,1945
+655,0.987,"['Igor Stravinsky', 'Eugene Istomin']",0.368,168240,0.27,0,4khSHwXssKwRWqlLOe3b1I,0.838,0,0.112,-20.892,1,Sonata pour Piano: III. Quarter Note = 112,0,1946,0.0349,104.714,0.681,1946
+656,0.993,"['Frédéric Chopin', 'Arthur Rubinstein']",0.289,260173,0.088,0,4ksdJGB1CachVl9I937uZI,0.928,11,0.11,-22.613,1,"Mazurkas, Op. 56: No. 1 in B Major",3,1946,0.0427,109.662,0.163,1946
+657,0.937,"['Johannes Brahms', 'Gregor Piatigorsky', 'Alfred Wallenstein']",0.311,886640,0.185,0,4l230yPKIYbPXMnY6snVXD,0.643,0,0.118,-15.806,1,"Concerto in A Minor for Violin and Cello, Op. 102: I. Allegro",0,1946,0.039,129.048,0.179,1946
+658,0.989,"['Franz Schubert', 'Eugene Istomin']",0.238,363067,0.0876,0,4lMRzRq5IeWcTgPVG91quE,0.916,6,0.0894,-23.67,1,"Four Impromtus, Op. 90, D. 899: No. 3. Andante in G-Flat Major",1,1946,0.0322,64.225,0.0609,1946
+659,0.984,"['Kalyani', 'Amar']",0.362,208573,0.183,0,4lxKjMLjbTvspZ5umW7BmB,0.81,3,0.147,-15.981,0,Badal Baras Baras Ke,0,1946-12-31,0.0433,83.413,0.574,1946
+660,0.971,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.499,29427,0.0939,0,4mBj1MyvPgXIs77sUU2M87,1.68E-05,7,0.2,-22.778,1,"Messiah, HWV 56, Pt. 1: Then shall the eyes of the blind be opened - Recitative",0,1946,0.0448,103.023,0.0588,1946
+661,0.993,['Harishchandra Bali'],0.553,178648,0.314,0,4mS9XdMq5DUiQCUpSsLwtx,0.609,3,0.211,-8.072,1,Rang Rangilee Duniya Mein,0,1946-12-31,0.0924,77.915,0.711,1946
+662,0.529,"['Maurice Ravel', 'Pierre Monteux']",0.23,72893,0.162,0,4md5ckkdSH4n8yW9MKTwkl,0.000405,8,0.34,-18.945,0,"Valses nobles et sentimentales, M. 61: V. Presque lent",0,1946,0.0383,93.503,0.23,1946
+663,0.994,"['Frédéric Chopin', 'Maryla Jonas']",0.256,260080,0.0293,0,4mkJBvvQ3kzwNki5vmymw0,0.946,9,0.0987,-26.254,0,"Mazurka in A Minor, Op. 17 No. 4",0,1946,0.0415,80.443,0.0377,1946
+664,0.936,['University of North Texas Symphony Orchestra'],0.312,128867,0.292,0,4mn8NLXic5YnS5aPQYl24F,0.777,3,0.3,-14.35,1,ไกลกังวล / เกิดเป็นไทยตายเพื่อไทย,1,1946-12-02,0.03,82.427,0.439,1946
+665,0.936,['David Raksin'],0.147,139912,0.333,0,4nO6CXpbSkbWkjtL6EGCTb,0.608,8,0.15,-11.497,1,The Bad and the Beautiful (1952) The Spellbinder,0,1946-02-01,0.0333,91.814,0.0863,1946
+666,0.989,['Ninu Mazumder'],0.53,186224,0.33,0,4ooXrdWgurk2kEmvwDfbkZ,0.0128,6,0.64,-8.663,0,"Aaj Hans Hanske, Pt. 1",0,1946-12-31,0.129,81.005,0.685,1946
+667,0.995,['Master Krishnarao'],0.516,179868,0.227,0,4orR3AqhgLlv3uxkSPNC1e,0.945,4,0.142,-14.19,0,Shyam Bajaye Tore Ghar Men Muraliya,0,1946-12-31,0.158,69.408,0.893,1946
+668,0.989,"['Johann Sebastian Bach', 'Jascha Heifetz']",0.361,229400,0.187,0,4p2grQLMt89wq37Iw9zDq6,0.826,5,0.143,-22.529,1,"Partita No. 2 in D Minor, BWV 1004: IV. Gigue",0,1946,0.0557,87.362,0.963,1946
+669,0.978,"['Pt. Amarnath', 'Anupam Ghatak']",0.637,164907,0.247,0,4pAPYcggJgSb1pDbiT6MdN,0,3,0.115,-6.793,0,Aa More Saiyan Pyar Karenge,0,1946-12-31,0.105,92.146,0.698,1946
+670,0.996,"['Frédéric Chopin', 'Arthur Rubinstein']",0.211,100160,0.183,0,4pEfJ1fMk1iEWP7dNMvhci,0.852,6,0.0948,-16.95,0,"24 Preludes, Op. 28: Prelude No. 8 in F-sharp minor",2,1946,0.0391,91.95,0.0797,1946
+671,0.985,['Mohammed Rafi'],0.611,154488,0.148,0,4pXDh5Gg9sYtjytqkRjCuR,0.211,6,0.119,-15.549,0,Kahke Bhi Na Aaye Tum,0,1946-01-01,0.0401,82.32,0.498,1946
+672,0.993,['Shyam Babu'],0.629,196859,0.196,0,4pn3prFuo5xRlGhk4GfT6z,0.000829,0,0.173,-9.005,0,Maya Nagar Byopar Mera,0,1946-12-31,0.0832,138.937,0.555,1946
+673,0.864,"['Pyotr Ilyich Tchaikovsky', 'Jascha Heifetz', 'Fritz Reiner', 'Chicago Symphony Orchestra']",0.314,951187,0.128,0,4qgc0dP8mvoZvB6rdHFd8f,0.0368,7,0.0745,-20.246,1,"Violin Concerto in D Major, Op. 35: I. Allegro moderato",0,1946,0.0428,92.706,0.178,1946
+674,0.987,"['Johann Sebastian Bach', 'Jascha Heifetz']",0.195,341160,0.0591,0,4r8H5q3b77iwyNiQtjQBVR,0.966,0,0.166,-25.81,1,"Sonata No. 2, BWV 1003, in A Minor: Andante",0,1946,0.0501,99,0.219,1946
+675,0.96,"['Francisco Canaro', 'Nelly Omar']",0.537,165507,0.369,0,4rBS91sD9YQ7osRxID4Rob,0.0919,7,0.191,-9.678,0,Rosa de Otoño - Remasterizado,0,1946-03-13,0.0683,99.113,0.615,1946
+676,0.978,"['Giuseppe Verdi', 'Arturo Toscanini']",0.44,96987,0.344,0,4rX7FpMmKt18dsj4loFKLj,0.009,11,0.156,-14.112,1,La Traviata: Signora - Che t'accadde?,0,1946,0.111,96.936,0.203,1946
+677,0.837,"['Francisco Canaro', 'Enrique Lucero']",0.347,200000,0.517,0,4rfxJIaOeSt6BCE2ltaNzN,0.0459,7,0.204,-5.779,0,Dos Almas - Remasterizado,0,1946-03-13,0.0396,97.336,0.279,1946
+678,0.985,"['Georges Bizet', 'George Sebastian', 'Metropolitan Opera Orchestra']",0.34,201107,0.148,0,4rsWgvhStBAH1Kklxtm7cB,0,7,0.0563,-21.31,1,Habanera from Carmen - Voice,2,1946,0.218,75.851,0.198,1946
+679,0.936,['Manik Varma'],0.455,184640,0.448,0,4sVJL3rnuuiw0uuc9FeOk7,0.615,5,0.652,-6.496,0,Nadiya Kinare Mora Gaon Re,0,1946-01-01,0.307,67.011,0.932,1946
+680,0.994,"['Frédéric Chopin', 'Arthur Rubinstein']",0.359,251827,0.0617,0,4shL5HBa7pqtOTa6T03xxn,0.935,1,0.12,-23.484,1,"Berceuse in D-Flat Major, Op. 57",3,1946,0.0471,44.777,0.272,1946
+681,0.99,['Pandya'],0.578,205894,0.274,0,4svAFJF1Cbc2JDvhbyZcwk,0,0,0.346,-8.744,1,Kyon Ghungat Mein Athkheli,0,1946-12-31,0.0796,138.889,0.674,1946
+682,0.985,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.392,25400,0.0471,0,4tGCIEdzCs6qsEqpY5PFWE,0.00034,9,0.648,-26.801,1,"Messiah, HWV 56, Pt. 1: Behold a virgin shall conceive - Recitative",0,1946,0.0848,145.021,0.384,1946
+683,0.989,"['Frédéric Chopin', 'Arthur Rubinstein']",0.165,83400,0.123,0,4tUWoQOhEhtlJkBp3MMp7n,0.902,10,0.09,-27.893,0,"Piano Sonata No. 2 in B-Flat Minor, Op. 35: IV. Presto",3,1946,0.0341,83.334,0.493,1946
+684,0.991,"['Johann Sebastian Bach', 'Jascha Heifetz']",0.301,187533,0.0794,0,4tp0eP6QhtXXbORiK3mWOI,0.884,2,0.0729,-23.389,0,"Partita No. 2 in D Minor, BWV 1004: III. Sarabande",0,1946,0.0496,68.326,0.4,1946
+685,0.535,"['Jacques Ibert', 'Pierre Monteux']",0.209,159133,0.13,0,4u7X8zABEWXDOlm5u29SDD,0.859,9,0.153,-19.523,0,"Escales: II. Tunis - Nefta - Modéré, très rythmé",0,1946,0.0504,177.623,0.219,1946
+686,0.906,"['Henri Vieuxtemps', 'Jascha Heifetz', 'Sir Malcolm Sargent', 'The New Symphony Orchestra Of London']",0.439,69187,0.331,0,4uEzke5YHSYTM22TSXacyL,0.378,9,0.102,-17.196,0,"Violin Concerto No. 5 in A Minor, Op. 37: III. Allegro con fuoco - Redbook Stereo",4,1946,0.0681,130.877,0.46,1946
+687,0.994,"['Frédéric Chopin', 'Arthur Rubinstein']",0.245,184173,0.0683,0,4uSPPwbdSSXzZbkgrj3dnb,0.916,4,0.0896,-25.671,1,"Mazurkas, Op. 67: No. 4 in A Minor",4,1946,0.0446,64.84,0.253,1946
+688,0.942,['Quartetto Stars con Orchestra Pippo Barzizza'],0.532,183480,0.339,0,4ucyg1mFpjG0GCQN9TF2ke,0,3,0.384,-20.966,1,Il Re Del Portogallo,0,1946,0.0969,139.142,0.545,1946
+689,0.983,"['Gustav Mahler', 'Bruno Walter']",0.414,135427,0.0626,0,4umJmgsQrcIrFUrcbwUcnN,0,5,0.0647,-18.906,1,"Lieder und Gesänge aus der Jugendzeit (Excerpts): Book 3, No. 3, Scheiden und Meiden",0,1946,0.0595,99.687,0.306,1946
+690,0.989,"['Frédéric Chopin', 'Eugene Istomin']",0.246,291933,0.109,0,4upGls3XGGnq20lqTKtIuO,0.791,3,0.0689,-23.065,1,"Nocturnes, Op. 55: No. 2 in E-Flat Major",0,1946,0.0429,78.98,0.112,1946
+691,0.995,['Kalyani'],0.803,172506,0.115,0,4vDuCehcIq9f7neXahibbZ,0.00123,5,0.0995,-10.035,0,Jeevan Sargam Pe Gaaye Ja Geet,0,1946-12-31,0.183,70.349,0.812,1946
+692,0.54,['Bernard Herrmann'],0.118,115572,0.399,0,4vJf17HrUpgihw16itIq6x,0.866,9,0.0903,-10.803,0,The Man in Gray Flannel Suit (1956) Prelude,0,1946-01-01,0.0365,55.916,0.2,1946
+693,0.986,"['Giuseppe Verdi', 'Arturo Toscanini']",0.299,216733,0.0937,0,4vSaDa7oGZ2lheLCgAAsj9,0.00237,1,0.101,-20.377,1,La Traviata: Di Provenza,0,1946,0.0434,85.912,0.242,1946
+694,0.969,"['Gustav Mahler', 'Bruno Walter']",0.585,101227,0.0555,0,4w6vHWB6aSIAdkaEWnR51i,0,5,0.153,-21.047,1,"Lieder und Gesänge aus der Jugendzeit (Excerpts): Book 1, No. 3, Hans und Grete",0,1946,0.13,91.044,0.613,1946
+695,0.602,"['Nikolai Rimsky-Korsakov', 'Pierre Monteux']",0.247,296667,0.424,0,4wCZuFxExyhMWHZkINZhUa,0.678,7,0.515,-11.146,1,"Symphony No. 2, Op. 9 ""Antar"": III. Allegro risoluto alla Marcia",0,1946,0.0317,130.813,0.245,1946
+696,0.992,['Geeta Dutt'],0.624,207424,0.13,0,4wT14jBzNCc5i84PUJeIYB,1.14E-05,0,0.226,-10.631,0,Preeti Kisi Ko Na Chhode,0,1946-12-31,0.197,76.01,0.723,1946
+697,0.957,"['Giuseppe Verdi', 'Arturo Toscanini']",0.584,63173,0.353,0,4wbStjDI1QlXKwGB52z2wL,0.0236,0,0.608,-11.94,1,La Traviata: Avrem lieta di maschere la notte,0,1946,0.0777,80.487,0.804,1946
+698,0.97,"['Giacomo Puccini', 'Arturo Toscanini']",0.251,79333,0.312,0,4wfUSHKglub1R07gOnPCSi,0.0999,10,0.205,-15.446,1,La Bohème: Act I: Oh! sventata!,2,1946,0.0429,82.273,0.367,1946
+699,0.995,['Noor Jehan'],0.488,189414,0.2,0,4wlFLFf6pUsPB8cAeBInkp,0.919,1,0.152,-14.766,1,Sajan Pardesi Balam Pardesi,0,1946-12-01,0.054,131.945,0.828,1946
+700,0.975,['Michel De Villers'],0.676,215173,0.25,0,4wvp7meWYURllTr3gvxM9H,0.566,7,0.159,-14.968,1,I Can't Get Started,0,1946,0.0434,60.539,0.286,1946
+701,0.927,"['Gustav Mahler', 'Bruno Walter', 'Columbia Symphony Orchestra']",0.131,1756320,0.0792,0,4xo89JC16QJVgVYTOLajXQ,0.768,2,0.447,-21.803,1,Symphony No. 9 in D Major: I. Andante comodo,0,1946,0.0356,83.921,0.0385,1946
+702,0.995,"['Felix Mendelssohn', 'Maryla Jonas']",0.228,147613,0.0344,0,4z5kA10HBpAVz59uArXXZa,0.92,0,0.0781,-21.773,0,"Song without Words in G Minor, Op. 102 No. 4",0,1946,0.037,75.337,0.0436,1946
+703,0.994,"['Frédéric Chopin', 'Eugene Istomin']",0.309,246840,0.0947,0,4zI4RAAvEA4nOTOP8I7OGu,0.877,4,0.066,-20.013,0,"Nocturne in E Minor No. 19, Op. 72, No. 1",0,1946,0.0369,98.011,0.156,1946
+704,0.898,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.335,61827,0.23,0,4zIy19juGWY1qwErZK43tk,0.0493,8,0.13,-16.528,1,"Messiah, HWV 56, Pt. 2: All they that see Him laugh Him to scorn - Accompagnato",0,1946,0.033,86.493,0.133,1946
+705,0.943,"['Giacomo Puccini', 'Arturo Toscanini']",0.311,231427,0.16,0,501JoG3LGRXOEF8Q5sqZ71,0.00266,5,0.731,-17.711,1,"La Bohème: Act III: O buon Marcello, aiuto!",2,1946,0.0503,112.083,0.205,1946
+706,0.988,['Buck Clayton'],0.598,180760,0.0602,0,5075v6CYuPEl4xQPLvXnCd,0.0701,1,0.228,-19.161,1,Blues Triste,0,1946,0.0385,102.62,0.467,1946
+707,0.994,['H Khan Mastana'],0.322,209369,0.0997,0,50W7hYcBGy4UWd4hcPTYFr,0.78,9,0.119,-18.496,1,Asha Ki Jyoti Lagaye Ja,0,1946-01-01,0.0421,81.533,0.56,1946
+708,0.993,"['Robert Schumann', 'Maryla Jonas']",0.379,40120,0.396,0,50fu6sdcaguNf0Xm5cPOH9,0.953,2,0.0845,-15.268,1,"Kinderszenen, Op. 15: 5. Glückes genug",0,1946,0.0419,102.343,0.491,1946
+709,0.868,['Zohrabai Ambalawali'],0.397,175333,0.775,0,50pwsTFVsJTYA7rPFGpAoP,0.0005,0,0.601,-3.068,0,Koyeliya Bole Jiya Mora Dole,0,1946-01-01,0.133,82.56,0.875,1946
+710,0.979,['B Jayamma'],0.649,118960,0.458,0,50w52kSN7d9p56BN37tZbD,0.0548,9,0.885,-9.944,0,Sri Seetha Rama Kalyanam,0,1946-12-31,0.26,116.453,0.83,1946
+711,0.994,"['Anupam Ghatak', 'Lachhiram']",0.599,191250,0.131,0,50ySAvJXlZ6538CEhVIHZV,0.636,3,0.118,-13.401,1,Jeevan Sathi Mil Jaye To,0,1946-12-31,0.396,73,0.583,1946
+712,0.989,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.276,208907,0.241,0,51VWfzhH9K0OLMxtbvIC4C,0.0402,5,0.196,-13.859,1,"Messiah, HWV 56, Pt. 2: Lift up your heads, O ye gates - Chorus",0,1946,0.0286,93.629,0.403,1946
+713,0.983,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.345,92560,0.284,0,51joL6TwT6PfPGRR7DsLDl,0.00726,10,0.144,-14.732,1,"Messiah, HWV 56, Pt. 2: The Lord gave the word - Chorus",0,1946,0.0325,72.556,0.173,1946
+714,0.839,"['Igor Stravinsky', ""L'Orchestre de la Suisse Romande"", 'Ernest Ansermet']",0.273,974773,0.221,0,52T85MqEJqcNQRhvYTIEoW,0.201,5,0.0797,-17.822,0,Le Sacre du Printemps - Version for Orchestra (published 1921): Part 1: The Adoration of the Earth,0,1946-01-01,0.0574,92.085,0.083,1946
+715,0.995,['Harishchandra Bali'],0.534,198716,0.272,0,52Xw4bF8xYiiN6unWcRp4L,0.909,3,0.253,-12.927,1,La Do Sajan Mohe Bajooband,0,1946-12-31,0.281,83.952,0.74,1946
+716,0.994,"['Claude Debussy', 'Robert Casadesus']",0.338,146680,0.0758,0,53miOUHHsDAik50ov0omLM,0.893,2,0.15,-27.394,1,"Préludes, Livre 2, L. 123: 4. Les fées sont d'exquises danseuses. Rapide et léger",0,1946,0.0368,80.823,0.079,1946
+717,0.799,['Manfried Rössner'],0.38,120200,0.127,0,53oJj720y6BYpZb6Xtc7n9,2.89E-06,4,0.146,-20.078,0,Kapitel 1 - Karl III. Und Anna von Österreich,0,1946-11-29,0.09,166.398,0.0734,1946
+718,0.983,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.294,150133,0.116,0,53vcztj1BV25LVInFViygp,0.146,2,0.296,-17.774,0,"Messiah, HWV 56, Pt. 3: Since by man came death - Chorus",0,1946,0.0381,91.428,0.039,1946
+719,0.986,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.195,170467,0.184,0,54Fxhh4QH4do0KmihPVDla,0.359,5,0.143,-16.483,0,"Messiah, HWV 56, Pt. 2: Surely He hath borne our griefs - Chorus",0,1946,0.0362,77.475,0.0385,1946
+720,0.326,['Manfried Rössner'],0.587,123100,0.159,0,54L8xzU9VFBhH2WY57EmjN,0,7,0.0683,-21.031,1,Kapitel 22 - Karl III. Und Anna von Österreich,0,1946-11-29,0.87,168.973,0.169,1946
+721,0.988,"['Johannes Brahms', 'Isaac Stern']",0.286,426840,0.183,0,54NzP3hETqHn3M9wukKnEo,0.691,11,0.0897,-14.323,0,"IV. Allegro from Piano Trio No. 1 in B Major, Op. 8",0,1946,0.0383,141.634,0.122,1946
+722,0.935,"['Anton Bruckner', 'Bruno Walter', 'Columbia Symphony Orchestra']",0.24,659720,0.175,0,54i3qXyirvCXdbIn4PynJL,0.826,5,0.0423,-17.95,1,"Symphony No. 4 in E-Flat Major, WAB 104 ""Romantic"": III. Scherzo. Bewegt",0,1946,0.0572,90.055,0.13,1946
+723,0.995,['Harishchandra Bali'],0.588,190218,0.322,0,55TL2hPiZUVvR31OdMJl9R,0.911,5,0.415,-10.298,1,Ankhon Mein Chhalke Shabab,0,1946-12-31,0.187,64.897,0.762,1946
+724,0.5,"['Igor Stravinsky', 'Paul Pasquier', ""L'Orchestre de la Suisse Romande"", 'Ernest Ansermet']",0.664,31120,0.264,0,55iajGirarPhiOL5uClTLB,0,5,0.414,-23.928,0,Oedipus Rex - Actus secundus: Le témoin du meurtre sort de l'ombre,0,1946-01-01,0.929,79.615,0.63,1946
+725,0.981,['Satya Chowdhury'],0.374,181093,0.32,0,56KOfwFC0TIzt9fqDiWl3D,0.00618,7,0.658,-13.335,1,Kato Je Byatha Bhulale,0,1946-12-01,0.0449,102.06,0.535,1946
+726,0.532,['Manfried Rössner'],0.652,222500,0.182,0,56Rn2NDNNlVB8BXt5Pxeqa,0,7,0.188,-17.647,1,Kapitel 34 - Karl III. Und Anna von Österreich,0,1946-11-29,0.84,93.643,0.577,1946
+727,0.985,"['Gustav Mahler', 'Bruno Walter']",0.404,205600,0.0849,0,56lWJ2F7IksrSRX0dpsBo0,0,8,0.123,-19.661,1,"Lieder und Gesänge aus der Jugendzeit (Excerpts): Book 3, No. 4, Nicht wiedersehen!",0,1946,0.0661,78.6,0.293,1946
+728,0.986,"['Zohrabai Ambalawali', 'Shyam Kumar']",0.67,189406,0.108,0,57t6VKTlMV231tPl7WGA5m,0,11,0.378,-12.765,1,Pardesi Dola Aaj Milenge,0,1946-12-31,0.411,133.754,0.715,1946
+729,0.995,['Jagmohan Sursagar'],0.511,180743,0.152,0,57wBqYB8UGxstn5T2WmTAG,0.0258,0,0.118,-10.538,1,Prabhu Teri Maya Jo Chahe,0,1946-12-31,0.129,69.903,0.734,1946
+730,0.813,['Franz Waxman'],0.313,335712,0.337,0,57xyKbrx2MBbz2bHvLsVRw,0.512,9,0.071,-11.84,1,Peyton Place (1957) Main Title / Entering Peyton Place / Going to Scholl,0,1946-02-01,0.0335,124.046,0.201,1946
+731,0.993,"['Francisco Canaro', 'Nelly Omar']",0.349,176400,0.253,0,58Dwd54TIlZotUTFPsHAfI,0.341,6,0.171,-11.485,0,Canción Desesperada - Remasterizado,0,1946-03-13,0.0461,180.049,0.429,1946
+732,0.97,['Satya Chowdhury'],0.472,194920,0.224,0,58KDrfL63sBKR7C7b1XcwT,0,4,0.341,-13.783,1,Chhere Dao More,0,1946-12-01,0.036,72.126,0.331,1946
+733,0.874,"['Igor Stravinsky', 'Paul Pasquier', ""L'Orchestre de la Suisse Romande"", 'Ernest Ansermet']",0.612,81200,0.16,0,58ZjZy87mn32fCjThaQBq7,0,0,0.132,-22.938,0,"Oedipus Rex - Actus secundus: Et maintenant, vous allez entendre",0,1946-01-01,0.543,105.241,0.103,1946
+734,0.993,"['Claude Debussy', 'Robert Casadesus']",0.337,176200,0.0208,0,598yLNkV2oSSksryLkW661,0.907,10,0.0867,-32.914,1,"Children's Corner, L. 113: II. Jimbo's Lullaby. Assez modéré",0,1946,0.0453,111.975,0.0634,1946
+735,0.95,"['Igor Stravinsky', ""L'Orchestre de la Suisse Romande"", 'Ernest Ansermet']",0.0791,239453,0.037,0,59olAIpgsy5f10KCv3apxQ,0.0513,11,0.058,-29.518,0,The Firebird (L'oiseau de feu) - Suite (1919): Round Dance of the Princesses,0,1946-01-01,0.0381,80.897,0.105,1946
+736,0.987,"['Frédéric Chopin', 'Arthur Rubinstein']",0.278,437027,0.137,0,5AnNbtnz54r94cd2alxg5I,0.909,1,0.109,-20.132,1,"Scherzo No. 3 in C-Sharp Minor, Op. 39",4,1946,0.0413,63.377,0.088,1946
+737,0.377,['Manfried Rössner'],0.68,120500,0.242,0,5AoxxsP3DZj3MLW7ybYCrE,0,7,0.531,-17.404,1,Kapitel 4 - Karl III. Und Anna von Österreich,0,1946-11-29,0.676,44.515,0.466,1946
+738,0.992,"['Tani', 'Chacha']",0.573,213402,0.0933,0,5BDLPe8tK5WAAcA3OvxnzP,7.23E-05,9,0.198,-12.907,1,Jhum Jhum Kar Aai Jawani,0,1946-12-31,0.234,141.315,0.778,1946
+739,0.996,"['Felix Mendelssohn', 'Vladimir Horowitz']",0.426,135558,0.0207,0,5BPlrdOL7xV6BDcARi6qUV,0.957,9,0.0716,-28.273,1,"Lieder ohne Worte: Spring Song, Op. 62, No. 6",1,1946,0.0461,161.567,0.625,1946
+740,0.775,"['Gustav Mahler', 'Bruno Walter', 'Arnold Michaelis']",0.651,960253,0.132,0,5BUnEGxQWlHOK2QZsOcts7,0,6,0.499,-25.381,1,A Talking Portrait: Bruno Walter in Conversation with Arnold Michaelis,0,1946,0.918,90.065,0.661,1946
+741,0.874,"['Georges Auric', 'Roger Desormières']",0.209,177326,0.451,0,5BWc4URR3KsdZvvCQMurMV,0.837,6,0.338,-10.411,1,Belle retourne auprès de la Bête - Version originale de 1946,0,1946-01-01,0.0389,79.813,0.0998,1946
+742,0.962,"['Ottokar Nováček', 'Jascha Heifetz', 'Bell Telephone Hour Orchestra', 'Donald Voorhees']",0.446,163400,0.422,0,5BosZ34BCLJz9x4fcNg0j1,0.891,2,0.626,-15.246,0,"8 Concert Caprices, Op. 5: No. 4, Perpetuum mobile (Live)",2,1946-01-01,0.042,88.858,0.756,1946
+743,0.963,['Chittoor V. Nagaiah'],0.62,88027,0.57,0,5BpeD1wjDyqaIxrVwZmopc,0.000619,1,0.172,-5.029,1,Sangeetha Njanamu,0,1946-12-31,0.081,81.883,0.845,1946
+744,0.987,"['Johann Sebastian Bach', 'Eugene Istomin', 'Adolf Busch', 'Busch Chamber Players']",0.482,453547,0.215,0,5CAcfYKxVQ62qMR4igzOKj,0.833,7,0.109,-18.133,0,"Keyboard Concert No. 1 in D Minor, BWV 1052: I. Allegro",0,1946,0.0283,102.317,0.274,1946
+745,0.99,"['Johann Sebastian Bach', 'Jascha Heifetz']",0.436,284907,0.0797,0,5CVZUGKvIxOf8zE06qMOoi,0.336,7,0.117,-18.487,0,"Sonata No. 1, BWV 1001, in G Minor: Fugue: Allegro",0,1946,0.0959,83.647,0.908,1946
+746,0.989,"['Franz Schubert', 'Eugene Istomin']",0.388,498813,0.0951,0,5CrXQ8zFdjpjuRKDFcBSmj,0.922,2,0.0784,-24.421,1,"Sonata for Piano in D Major, Op. 53 (D 850): IV. Rondo - Allegro moderato",0,1946,0.0339,123.05,0.153,1946
+747,0.941,"['Gustav Mahler', 'Bruno Walter', 'New York Philharmonic']",0.355,837093,0.212,0,5DGa7bMIcRTCbF5wA5z8Rw,0.791,2,0.0305,-17.686,1,Symphony No. 5 in C-Sharp Minor: V. Rondo-Finale,0,1946,0.0433,118.272,0.321,1946
+748,0.965,"['George Frideric Handel', 'The Liverpool Philharmonic Orchestra', 'Sir Malcolm Sargent']",0.399,247973,0.277,0,5DLfqVjCQ2ymVhZRwcG0M0,0.888,2,0.237,-12.25,1,"Messiah, HWV 56, Pt. 3: The trumpet shall sound - Air",0,1946,0.0332,120.517,0.355,1946
+749,0.986,['Ignacio Corsini'],0.648,174933,0.205,0,5DPZaqLR6PiD5eVPD7eMLt,0.481,7,0.111,-17.012,0,Mama Vieja - Remasterizado,0,1946-06-26,0.0451,94.698,0.624,1946
+750,0.977,"['Giuseppe Verdi', 'Arturo Toscanini']",0.586,138200,0.184,0,5DZXKcAacl64TfSglBmA1R,6.23E-05,8,0.349,-17.366,1,La Traviata: Che è ciò (Waltz-Duet),0,1946,0.158,118.344,0.727,1946
+751,0.98,['Lillian Hayman'],0.313,188808,0.306,0,5EbGmVmJLUk0vrP4ymCTE9,0.00528,5,0.111,-12.557,0,Imitation of Life (1959) Trouble of the World,0,1946-02-01,0.0415,82.937,0.257,1946
+752,0.995,"['Frédéric Chopin', 'Maryla Jonas']",0.336,316133,0.0201,0,5EpfDmnLwJySswKdlpKa0x,0.931,11,0.0852,-23.889,1,"Nocturne in B Major, Op. 32 No. 1",0,1946,0.0595,83.541,0.156,1946
+753,0.964,"['Gaetano Donizetti', 'Andrea Rost', 'Sir Charles Mackerras', 'Royal Philharmonic Orchestra']",0.253,222240,0.0238,0,5FBFrtYuAJeK7zRlFuc1al,0,5,0.102,-25.114,1,"Prendi, per me sei libero from L'elisir d'amore - Voice",0,1946,0.0637,62.301,0.042,1946
+754,0.987,"['Johann Sebastian Bach', 'Jascha Heifetz']",0.14,248667,0.0335,0,5FC69Bh1Vu8YPcnx1wPdYb,0.554,10,0.198,-27.161,1,"Sonata No. 1, BWV 1001, in G Minor: Siciliano",0,1946,0.0504,177.25,0.268,1946
+755,0.987,"['Wolfgang Amadeus Mozart', 'George Szell']",0.398,412133,0.107,0,4kmysWkEAgwXqn25n5TIuX,0.498,4,0.187,-18.785,0,"Violin Sonata in E Minor, K. 304/300c: I. Allegro",0,1947,0.0504,176.59,0.437,1947
+756,0.975,['P L Deshpande'],0.651,158693,0.205,0,4l5ZIUrjNzFaR1F6NOKT9h,0.887,8,0.16,-19.53,1,Ja Ja Ga Sakhi,0,1947-12-31,0.256,113.197,0.531,1947
+757,0.892,"['Ludwig van Beethoven', 'Arturo Toscanini']",0.289,293053,0.184,0,4l5pDuTUQ5OIX5Tw027Bd7,0.861,0,0.118,-14.87,1,"The Creatures of Prometheus, Op. 43: Overture - 1992 Remastered",0,1947,0.0441,152.622,0.328,1947
+758,0.946,['Shrimati Ghosh'],0.38,205512,0.286,0,4lBT8QheHGeYyPvlMzItxd,0.00711,8,0.115,-11.184,1,Do Nigahen Milte Milte,0,1947-01-01,0.038,129.194,0.438,1947
+759,0.843,['The Soft Winds'],0.676,133867,0.414,0,4lTknhkzVsTRnNaHShxSiU,0,11,0.964,-23.831,1,Herb Ellis & Lou Carter,0,1947,0.96,94.467,0.465,1947
+760,0.985,['Gouri Kedar Bhattacharya'],0.368,192987,0.136,0,4lW5yHlPAJFK6xq1joP61U,0.0746,4,0.345,-15.117,0,Jodi Path Cheyechhilo Go Pradip,0,1947-12-01,0.0396,72.271,0.48,1947
+761,0.977,['Hubert Fol'],0.584,238747,0.183,0,4lqQf9hjZZ9EV2ULEQq7W5,0.862,2,0.106,-13.843,0,Always,0,1947,0.0465,134.59,0.658,1947
+762,0.928,['Joe Mooney'],0.613,191347,0.0808,0,4lqSaTwT29uQ4xxiRAc2fy,8.65E-05,3,0.245,-18.948,0,Nancy (With The Laughing Face),0,1947,0.0605,121.129,0.464,1947
+763,0.715,"['Udit Narayan', 'Kavita Krishnamurthy']",0.414,486627,0.482,0,4lqx34QKsH1QutC2YBWxgp,1.44E-05,10,0.0733,-12.568,1,"Baharon Ki Maangi Hui Ek Dua, Pt. 2",0,1947-12-01,0.0431,146.514,0.591,1947
+764,0.99,['Naseem Akhtar'],0.638,153843,0.0435,0,4mDAl2LFK0b2uHDoZTZGPU,2.68E-06,0,0.0873,-12.394,1,Inse Khush Hai Zamana,0,1947-12-31,0.799,172.315,0.888,1947
+765,0.794,"['Aram Khachaturian', 'Woody Herman & His Orchestra']",0.571,152893,0.69,0,4miDw0yMpP649O4lSoC3HY,0.574,0,0.0961,-12.664,1,Sabre Dance from Gayne,1,1947,0.376,87.697,0.686,1947
+766,0.993,['Zohrabai Ambalawali'],0.437,199760,0.0975,0,4ndm5kEGCFbYrbWiRjzmQy,0.879,0,0.0952,-17.98,1,Kya Batayen Kitni Hasrat Dil Ke,0,1947-08-15,0.089,146.317,0.659,1947
+767,0.878,"['Giuseppe Verdi', 'Arturo Toscanini']",0.491,79920,0.0736,0,4oIKbU7rqjZeRE17YnZHoE,0.000128,0,0.255,-26.841,1,Otello: Act II: Eccola,0,1947,0.164,77.817,0.612,1947
+768,0.92,['The Soft Winds'],0.631,324440,0.214,0,4oLM7Dd2D16VQaOEOwsGHr,0.555,0,0.888,-17.624,1,C. Jam Blues,0,1947,0.0577,102.835,0.689,1947
+769,0.99,['Roshan Ara Begum'],0.549,294818,0.324,0,4oz1a2GDkNP4xCA6yOk28m,0.4,1,0.186,-8.458,0,Desh Ki Pur Kaif,0,1947-08-15,0.0431,116.991,0.541,1947
+770,0.991,"['Anima Ghosh', 'Dwijen Chowdhury']",0.549,179699,0.195,0,4p4YQI26vNz0rgvFFQiDn3,2.37E-06,2,0.126,-8.796,1,Abhi Jao Bajariya Se Lao Saiyan,0,1947-12-31,0.238,81.327,0.804,1947
+771,0.995,"['Hameeda Bano', 'A. R. Ojha']",0.623,186572,0.077,0,4pJSM9P3IXKxGqwHqBTvuY,0.000359,2,0.106,-10.207,0,In Ankhiyan Ki Pehchan,0,1947-12-31,0.456,73.462,0.569,1947
+772,0.982,"['Απόστολος Χατζηχρήστος', 'Giannis Papaioannou']",0.592,200017,0.592,0,4pRyqidbPXTaDUk4nCH3Kd,0.0109,2,0.186,-11.271,1,Ξανθειά Σμυρνιωτοπούλα,0,1947-01-01,0.0328,119.287,0.96,1947
+773,0.981,"['Joe E. Brown', 'Cornelius Peeples', 'Porter W. Heaps']",0.624,257827,0.614,0,4ppjuiHyQokX0OmTJqtsl5,2.45E-05,3,0.518,-12.884,1,How To Play Baseball - Hitting - Part 4,0,1947,0.948,55.924,0.563,1947
+774,0.956,"['Avinash', 'Jyotsna Bhole']",0.456,171027,0.391,0,4qLpW7W0RPH9HRdtBPZPux,0.857,4,0.372,-13.292,0,Shubha Mangal Ya Samaya,0,1947-12-31,0.0673,141.407,0.89,1947
+775,0.931,"['Franz Joseph Haydn', 'Isaac Stern', 'Mstislav Rostropovich', 'Jean-Pierre Rampal']",0.639,107573,0.102,0,4qVTsn3u6HFypz07cJwcbf,0.645,0,0.0609,-26.208,1,"London Trio No. 1 in C Major, Hob. IV: 1 - I. Allegro moderato - II. Andante - III. Finale: III. Finale. Vivace",0,1947,0.0775,155.091,0.889,1947
+776,0.972,"['Felix Mendelssohn', 'Arturo Toscanini']",0.447,258267,0.28,0,4r3pALurU8qmKb1Yl5DxBS,0.951,7,0.212,-20.684,0,"A Midsummer Night's Dream, Op. 61: Scherzo. Allegro vivace",0,1947,0.034,135.716,0.649,1947
+777,0.995,['Supriti Ghosh'],0.534,172453,0.171,0,4sWNR9XMj8fIUXofNER66o,0.257,4,0.137,-13.742,1,Jani Jani Tomar Preme Sakal Premer Bani,0,1947-12-01,0.0513,120.444,0.589,1947
+778,0.988,"['Maurice Ravel', 'Robert Casadesus']",0.334,554107,0.254,0,4tRqAmhmTGw4C8HtWALAAQ,0.891,11,0.112,-17.576,1,"Gaspard de la Nuit, M. 55: III. Scarbo",0,1947,0.0402,138.456,0.0382,1947
+779,0.892,['Suraiya'],0.295,181027,0.312,0,4tlyyyRPfI9rMa9KfULToU,0.00447,4,0.164,-9.166,0,Jab Se Chale Gaye Hai Woh,0,1947-08-15,0.0323,83.401,0.459,1947
+780,0.831,"['Ludwig van Beethoven', 'Arturo Toscanini']",0.253,578067,0.406,0,4u7kQWkCsBaMEq6ckQBW9C,0.877,0,0.121,-10.911,1,"Consecration of the House Overture, Op. 124 - 1992 Remastered",0,1947,0.0406,75.729,0.386,1947
+781,0.98,"['Franz Joseph Haydn', 'Isaac Stern', 'Leonard Rose', 'Eugene Istomin']",0.417,343933,0.0645,0,4uljeJ7j3gq3mxSfsfFzsd,0.662,3,0.216,-25.143,1,"Trio No. 10 in E-Flat Major, Hob. XV:10: I. Allegro moderato",0,1947,0.0379,72.647,0.379,1947
+782,0.912,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.242,484933,0.212,0,4ulxWHnQrvaPPH3dHURNfp,0.896,2,0.0968,-14.277,1,"Symphony No. 35 in D Major, K. 385 ""Haffner"": I. Allegro con spirito",0,1947,0.033,150.541,0.218,1947
+783,0.989,['Chittoor V. Nagaiah'],0.675,130827,0.368,0,4umBirUOlv2Z89v4XMsamn,0.738,5,0.344,-6.917,1,Manasa Maayanu Padaka,0,1947-12-31,0.286,72.975,0.887,1947
+784,0.994,['Μαρίκα Φραντζεσκοπούλου'],0.392,181023,0.26,0,4v7mimVnpItRqIHNRLanTR,0,11,0.172,-8.67,0,Πριγκιπιώτισσα,0,1947-01-01,0.0506,99.477,0.474,1947
+785,0.64,['Gene Autry'],0.816,136033,0.544,0,4vUiLyO2DWdogTR7nsvIiQ,0.875,10,0.0734,-9.655,0,Silver Spurs,0,1947-03-28,0.116,102.749,0.96,1947
+786,0.995,"['Maurice Ravel', 'Robert Casadesus']",0.339,300507,0.00913,0,4vVEFjhszA6orr3bMIKoaf,0.913,1,0.0846,-30.956,1,"Miroirs, M. 43: V. La Vallée des cloches",0,1947,0.0607,75.314,0.0445,1947
+787,0.933,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.536,347693,0.185,0,4vZJOcIRMz9UHoQ1pixI6y,0.924,7,0.0812,-17.342,1,"Serenade No. 13 in G Major, K. 525, ""Eine Kleine Nachtmusik"": I. Allegro",0,1947,0.0468,137.499,0.55,1947
+788,0.854,"['Antonio Vivaldi', 'Isaac Stern', 'Eugene Ormandy', 'Philadelphia Orchestra']",0.176,287973,0.151,0,4wMiV1Qw6quvcilaQjmdfB,0.676,2,0.0764,-21.319,0,"Concerto for 2 Violins in A Minor, RV 522: II. Larghetto e spirituoso",0,1947,0.0461,123.498,0.039,1947
+789,0.992,['Rafiq Ahmed'],0.518,173308,0.224,0,4woTU4fiSS1qM0utEQVcRY,0.0453,3,0.141,-9.662,1,Apna Ghar Pehchan Bande,0,1947-12-31,0.161,76.8,0.682,1947
+790,0.996,"['Maurice Ravel', 'Robert Casadesus', 'Gaby Casadesus']",0.547,71400,0.158,0,4xCLoYMVZDs3KtipY5l6lz,0.803,0,0.0783,-33.52,1,"Ma mère l'Oye, M. 60: I. Pavane de la Belle au bois dormant",0,1947,0.0549,71.568,0.585,1947
+791,0.974,"['Thomas Moore', 'Eileen Farrell', 'Charles Lichter', 'Columbia Concert Orchestra']",0.362,131027,0.214,0,4y9mAAOKChYpaK9b9mV36s,1.21E-06,4,0.746,-10.816,1,The Minstrel Boy: Irish Air from Golden Book - Remastered,0,1947,0.0376,96.547,0.319,1947
+792,0.993,['Lata Mangeshkar'],0.491,175107,0.253,0,4yvlo7oYlkDx0cXjXSf53i,0.932,0,0.181,-13.948,1,Ek Naye Rang Men Duje Umang Men,0,1947-12-31,0.0788,169.802,0.843,1947
+793,0.98,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.236,329000,0.0327,0,4zAahuchG7l7WFW06aXGeN,0.727,2,0.109,-24.56,0,"Serenade No. 9 in D Major, K. 320 ""Posthorn"": V. Andantino",0,1947,0.0433,101.013,0.0627,1947
+794,0.994,"['Andrés Segovia', 'Johann Sebastian Bach']",0.673,225707,0.12,0,4zYJ5g5Sz3pDtjKkXN5w0M,0.903,4,0.114,-19.488,1,"Cello Suite No. 6 in D Major, BWV 1012: V. Gavotte I-II (arr. A. Segovia)",2,1947,0.0678,75.544,0.494,1947
+795,0.914,"['A. R. Oza', 'Avinash Vyas']",0.587,194987,0.398,0,4zefT6PP07tCzYRcbmOgsm,0.00155,7,0.148,-8.536,0,Pachhe Shamliyoji Bolya,0,1947-12-01,0.061,123.186,0.725,1947
+796,0.62,['Honoré de Balzac'],0.683,122900,0.088,0,50J7PvAXfW8ccU6CHkmAy7,0,7,0.259,-25.547,1,Kapitel 6 - Die läßliche Sünde,0,1947-11-29,0.64,58.715,0.449,1947
+797,0.986,['Suraiya'],0.639,204986,0.16,0,50vacVWNh6kxkgn5oNeHTU,7.56E-06,2,0.288,-10.654,0,Ham Hai Dukhiya Is Duniya Mein,0,1947-12-01,0.048,102.236,0.419,1947
+798,0.885,"['Franz Joseph Haydn', 'Isaac Stern', 'Columbia Symphony Orchestra', 'Columbia Orchestra']",0.549,282560,0.38,0,517ZtxUhJFDejyq2GmbtE4,0.0998,0,0.142,-11.444,1,"Violin Concerto No. 1 in C Major, Hob. VIIa:1: III. Finale. Presto",0,1947,0.0365,106.161,0.745,1947
+799,0.985,['Shamshad Begum'],0.508,231863,0.401,0,52OplOaUgPNeERRf0HYyyK,0.553,1,0.0852,-9.541,1,Loot Jawani Phir Nahin Jani,0,1947-08-15,0.0616,104.795,0.735,1947
+800,0.882,"['Johannes Brahms', 'Isaac Stern', 'Sir Thomas Beecham', 'Royal Philharmonic Orchestra']",0.194,1355640,0.126,0,52eDKUu2Xsd1GPqcgCFuwM,0.503,2,0.143,-16.791,1,"Violin Concerto in D Major, Op. 77: I. Allegro non troppo",0,1947,0.044,76.945,0.081,1947
+801,0.993,"['Ludwig van Beethoven', 'Rudolf Serkin']",0.431,419493,0.0241,0,52vmipU0V7LH2X2vsh7kpr,0.915,1,0.105,-25.065,1,"Sonata No. 23 in F Minor for Piano, Op. 57 ""Appassionata"": II. Andante con moto",0,1947,0.0412,97.427,0.201,1947
+802,0.995,"['Avinash', 'Jyotsna Bhole']",0.462,189133,0.259,0,533ifecnWAJyV2TnKhQod8,0.638,4,0.134,-12.975,0,Don Jeevache Prem Bichare,0,1947-12-31,0.0515,127.48,0.66,1947
+803,0.984,['Shamshad Begum'],0.366,188852,0.482,0,54DrqzZjOAVwHsJAsrvRcE,0.0103,9,0.473,-9.067,1,Jisne Jalaya Aashian,0,1947-01-01,0.0437,137.131,0.881,1947
+804,0.732,['David Raskin'],0.159,1181533,0.128,0,54FXuRdpKxTZqzYSd5hUqy,0.768,4,0.149,-22.216,0,Part III: Amber's Theme / Ride / Death / Sickness / Attack / Ordeal,0,1947,0.0371,97.301,0.086,1947
+805,0.952,['Francisco Canaro'],0.633,138907,0.467,0,54aeeS56ndhzYChqdmGh3v,0.907,7,0.349,-9.753,1,La Puñalada - Instrumental (Remasterizado),0,1947-03-15,0.0349,119.969,0.892,1947
+806,0.94,['Hubert Fol'],0.567,140320,0.446,0,54fRsUn9SsSgR6266e8XV2,0.0554,10,0.481,-8.796,1,Making Be-Bop,0,1947,0.107,175.382,0.827,1947
+807,0.996,['Zohrabai Ambalawali'],0.443,147480,0.192,0,55Nmsb3MjuOiy7yWYEt1a5,0.92,6,0.274,-17.022,0,Mohe Banka Balam Lage Pyara,0,1947-12-31,0.161,82.01,0.625,1947
+808,0.993,['Shamshad Begum'],0.402,195059,0.34,0,55ewdkYXOy6CacHqjxppG8,0.229,1,0.187,-7.882,1,Hath Gore Gore Gulabi,0,1947-12-31,0.0939,173.538,0.709,1947
+809,0.995,['Zafar Khurshid'],0.731,178631,0.163,0,56Q2aNM1WWQhXwcWQYbuHk,0.00719,5,0.0943,-9.698,1,Nai Baharen Aai,0,1947-12-31,0.243,123.382,0.843,1947
+810,0.911,"['Max Bruch', 'Isaac Stern', 'Eugene Ormandy', 'Philadelphia Orchestra']",0.149,512800,0.265,0,56qNZGOr3Aaj6l40lR5fck,0.191,3,0.229,-14.761,1,"Violin Concerto No. 1 in G Minor, Op. 26: II. Adagio",0,1947,0.0396,102.596,0.0603,1947
+811,0.946,['Manabendra Mukherjee'],0.421,192440,0.341,0,56qsJo6XkUJrvCcdIlW8Bn,0.0208,0,0.351,-18.173,1,Jao Meghdut Dio Priyar Haate,0,1947-12-01,0.0404,126.505,0.384,1947
+812,0.965,['Lead Belly'],0.554,86753,0.446,0,571B5Z1tC8u6GhVBdhEr9D,0.688,7,0.143,-13.002,1,Blind Lemon (Memorial Record),0,1947,0.044,96.644,0.973,1947
+813,0.538,['Asleep At The Wheel'],0.546,195827,0.517,0,57U4sxhiGJ5YVDWjnAyLEV,0.00143,2,0.452,-11.093,0,Choo Choo Ch'Boogie,1,1947,0.0505,164.227,0.779,1947
+814,0.973,['Gouri Kedar Bhattacharya'],0.343,192827,0.0697,0,57rPLjUsf23YzHQmeQlnHC,0.459,1,0.109,-19.141,0,Aaji Milan Nishi,0,1947-12-01,0.0509,73.529,0.316,1947
+815,0.912,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.261,317000,0.0607,0,5829G0yclOOhpD41OxSqRD,0.706,0,0.0826,-21.838,1,"Serenade No. 13 in G Major, K. 525, ""Eine Kleine Nachtmusik"": II. Romance. Andante",0,1947,0.041,78.892,0.269,1947
+816,0.995,['Zafar Khurshid'],0.574,199227,0.0884,0,58fufONhMhrVe7UGkxMAWH,0.692,0,0.135,-14.662,0,Aai Nazar Andhere Mein,0,1947-12-31,0.121,67.892,0.706,1947
+817,0.926,['M. S. Subbulakshmi'],0.533,207160,0.516,0,599JN9GoL29I6u78I2riLj,2.02E-06,7,0.18,-9.539,1,Pag Ghunghru Bandh Meera Nachi Re,0,1947-12-05,0.0461,106.238,0.785,1947
+818,0.992,['Dilshad Begum'],0.769,168983,0.151,0,59b0qbFKlb7wtrCR8WRAIo,0.0216,7,0.126,-8.225,0,Mere Dard-E-Dil Ki Duniya Mein,0,1947-12-31,0.0367,101.533,0.663,1947
+819,0.904,['Joe Mooney'],0.702,152840,0.2,0,59iCCHumpd5YtyXJxvPEAB,0,5,0.0863,-14.043,0,A Man With One Million Dollars,0,1947,0.148,98.968,0.88,1947
+820,0.978,['Kusum Mantri'],0.728,191034,0.483,0,5AKcRlmhnvT8DHEy8iR80I,0.00897,0,0.168,-5.886,0,Lelo Roop Jawani,0,1947-12-31,0.0502,113.03,0.93,1947
+821,0.996,['Α.Νταλγκά'],0.454,181023,0.401,0,5AO2wA0ufMS0p3CX8L4DKM,0.0051,9,0.283,-8.843,1,Στους Ποδαράδες μια πολίτισσα,0,1947-01-01,0.0614,78.613,0.584,1947
+822,0.154,['Billy Joe Shaver'],0.78,176800,0.562,0,5AW7KxfECOinwSw4dxvUEm,2.85E-05,6,0.0692,-10.695,1,Georgia On A Fast Train,0,1947,0.0479,123.066,0.877,1947
+823,0.989,['Αντώνης Νταλγκάς'],0.471,186015,0.345,0,5AthRBUfMlCLGoNsChY4La,0.0618,10,0.383,-11.406,1,Σμυρνιά καμωματού,0,1947-01-01,0.0892,90.896,0.644,1947
+824,0.964,['Gouri Kedar Bhattacharya'],0.534,191093,0.179,0,5BcZBmGfC9nTBr0wAxaI53,3.14E-05,8,0.12,-12.638,1,Keno Piya Piya Piya Bale,0,1947-12-01,0.0296,66.812,0.259,1947
+825,0.995,"['Maurice Ravel', 'Robert Casadesus']",0.477,293533,0.041,0,5Bq2Tz5KBbcFH0LkpCB8fa,0.926,4,0.102,-26.685,0,"Le tombeau de Couperin, M. 68: III. Forlane",0,1947,0.0432,82.912,0.116,1947
+826,0.995,['Rajkumari'],0.666,197939,0.225,0,5BxFawPEF6R6TLbE8rLwaF,0.281,11,0.11,-7.791,0,He Chandliya,0,1947-03-27,0.168,162.22,0.78,1947
+827,0.836,['Hubert Fol'],0.601,197707,0.367,0,5C9wSyMI73XKapYw4mCimW,0.149,2,0.104,-12.149,0,A Fine Romance,0,1947,0.0469,101.598,0.8,1947
+828,0.871,['Hemant Kumar'],0.236,199173,0.232,0,5CRoVakIbrtvzTmSIfyOIA,0.000827,3,0.2,-9.423,1,Ei Aandhare Nai Path,0,1947-12-31,0.0315,138.695,0.166,1947
+829,0.29,['Rosanne Cash'],0.832,240800,0.278,0,5DqobQrtpl1Qaq81dcwojF,4.80E-05,10,0.102,-13.144,1,Runaway Train,1,1947,0.0396,119.032,0.643,1947
+830,0.992,['Master Krishnarao'],0.711,163463,0.283,0,5DtrqaQXUQgUYzjVp3QI3F,0.0077,6,0.226,-9.505,1,Kudrat Ki Hai Badhai,0,1947-12-31,0.397,111.786,0.814,1947
+831,0.995,['Suraiya'],0.35,187667,0.124,0,5EkXNFOH9AOLahDMb78o5p,0.833,11,0.188,-15.613,0,Bigdi Huyi Taqdeer Banai Nahin Jati,0,1947-12-01,0.0433,75.436,0.665,1947
+832,0.982,['Alberto Rabagliati'],0.415,191959,0.228,0,5FDGcgEabZADDgbom6xLIP,0.889,8,0.247,-15.09,1,Ho Perduto I Tuoi Baci,0,1947-06-17,0.051,127.798,0.382,1947
+833,0.987,"['Rajkumari', 'Patanjali']",0.429,187975,0.122,0,5FEkV9YybIn4k7QJKLhUcV,0.62,1,0.536,-13.745,1,Main Kya Karoon Koi Bataye,0,1947-12-31,0.0511,133.436,0.242,1947
+834,0.976,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.104,452093,0.0347,0,5FEo8XGhuXFKQcBQ2vFNxM,0.933,5,0.0778,-26.43,1,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": II. Andante cantabile",0,1947,0.0411,85.494,0.0533,1947
+835,0.99,['Amirbai Karnataki'],0.63,169300,0.213,0,5FG0tWautf0Xwx2FYAbUfE,0.0193,6,0.117,-6.416,1,Dekhoji Dekho Aaya Mausam Bahar Ka,0,1947-12-31,0.446,181.08,0.748,1947
+836,0.989,['S. Varalakshmi'],0.498,131200,0.317,0,5Gr3pnsjjs8g0h6mVQmXU9,0.00839,10,0.153,-8.663,1,Chandhamama,0,1947-12-31,0.113,88.651,0.575,1947
+837,0.871,['Hubert Fol'],0.602,175547,0.317,0,5Gz6HV1CydI0a9H1tIbWM9,0.0011,5,0.232,-9.419,1,I’ve Got Be-Bop,0,1947,0.0315,139.685,0.818,1947
+838,0.805,['Gene Autry'],0.838,150160,0.354,0,5H8SQT3GcZs1Pug0sMXTEY,0,1,0.301,-12.85,1,Here Comes Santa Claus (Right Down Santa Claus Lane),0,1947,0.0369,96.638,0.976,1947
+839,0.991,['Sushila Rani'],0.547,192708,0.292,0,5HZ96ibAPeFGG7HaNfXzdO,0.804,3,0.168,-8.747,1,Nanhi Nanhi Boondiya Re,0,1947-12-31,0.249,179.571,0.8,1947
+840,0.982,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.398,328960,0.0879,0,5HfKzAG2hv1N6sY0C2P0Zi,0.937,7,0.147,-20.669,1,"Serenade No. 9 in D Major, K. 320 ""Posthorn"": IV. Rondeau. Allegro ma non troppo",0,1947,0.0432,91.054,0.379,1947
+841,0.992,['Sudha Mukherjee'],0.297,193267,0.14,0,5HlRXdgrdzlRrKe4hjEdZ8,0.167,2,0.11,-15.733,0,Ami Sraban Akashe Oi,0,1947-12-01,0.035,107.733,0.125,1947
+842,0.776,['Bernard Herrmann'],0.235,56159,0.037,0,5HrdBq87x1vBlHy3aDhgKO,0.0133,11,0.189,-22.959,1,The Reading,2,1947,0.0367,102.348,0.284,1947
+843,0.995,['Supriti Ghosh'],0.496,186613,0.0439,0,5HuSVW7CGwvNZDhENL1rgl,0.128,2,0.112,-17.941,1,Himer Raate Oi Gaganer,0,1947-12-01,0.0546,68.625,0.376,1947
+844,0.782,"['Amilcare Ponchielli', 'Giuseppe Patanè', 'Hungarian State Orchestra']",0.253,337880,0.112,0,5IHhGdy3geX2754tPwJGQJ,0.651,4,0.119,-21.903,1,"Dance Of The Hours From ""La Gioconda""",2,1947,0.0424,85.91,0.175,1947
+845,0.995,['Indrabadan Bhatt'],0.674,187745,0.212,0,5IPbTEKEOa0E09at4CxjpL,0.124,0,0.17,-11.368,1,Gori Re Ab Dil Ka Lagana Chhod,0,1947-12-31,0.317,60.591,0.822,1947
+846,0.992,['Zeenat Begum'],0.38,158507,0.318,0,5J5nIKOdii394BUeMsplOA,0.0938,0,0.142,-12.737,1,Kaliyon Ko Masalne Aaye Hai,0,1947-01-01,0.0383,67.697,0.705,1947
+847,0.945,"['Wolfgang Amadeus Mozart', 'George Szell', 'Cleveland Orchestra']",0.303,285867,0.137,0,5JBpSoJG7eS202d4pWbJ2v,0.899,7,0.291,-14.866,1,"Symphony No. 41 in C Major, K. 551 ""Jupiter"" (1955 Mono Version): III. Menuetto. Allegretto",0,1947,0.0349,150.284,0.428,1947
+848,0.971,['Zohrabai Ambalawali'],0.498,210936,0.384,0,5KH515l47AKM7mhmOQEAyS,0.0003,0,0.241,-6.137,1,Main Nainon Ka Sawan Bulane Chali,0,1947-12-31,0.036,121.008,0.708,1947
+849,0.995,['Supriti Ghosh'],0.554,182493,0.219,0,5KInJbvIiHbIReI4ZgpBqM,0.375,11,0.153,-14.212,1,Chander Hasir Bandh Bhengechhe,0,1947-12-01,0.0342,85.477,0.437,1947
+850,0.381,['Orquesta Tejada'],0.438,184570,0.333,0,5KZwSHZuxUhZtqqyyty8kU,0.00315,7,0.531,-13.643,1,Boda en Hawai - Remastered,0,1947-01-12,0.0286,95.759,0.636,1947
+851,0.894,"['Richard Rodgers', 'Eileen Farrell', 'Luther Henderson', 'Luther Henderson Orchestra']",0.394,148747,0.13,0,5KpQFXqpKEN8nJb3Sgwfcg,0.000207,1,0.0941,-18.197,1,Glad to be Unhappy - Remastered,0,1947,0.0389,105.221,0.377,1947
+852,0.875,"['Pablo de Sarasate', 'Isaac Stern']",0.481,252627,0.146,0,5L2pOvUXzM0D4ZE4sQn0c5,0.0737,9,0.0559,-21.899,0,"Caprice basque, Op. 24",0,1947,0.0546,113.279,0.262,1947
+853,0.926,"['Wolfgang Amadeus Mozart', 'Cleveland Orchestra', 'Louis Lane']",0.424,586133,0.0954,0,5Lx6o9G9WURIz21UB1f23l,0.536,2,0.272,-21.327,1,"Divertimento No. 17 in D Major, K. 334: VI. Rondo. Allegro",0,1947,0.0416,121.355,0.398,1947
+854,0.923,['T. R. Mahalingam'],0.666,66973,0.47,0,5MPqWXII2MGE7a8HRepvMk,0.184,0,0.245,-11.891,1,Viduthalai,0,1947-12-31,0.0785,106.625,0.971,1947
+855,0.993,['Amirbai Karnataki'],0.486,171979,0.0964,0,3rY7KLz9QnJBSkzR7Bec0L,0.101,11,0.291,-10.16,0,Khoyi Khoyi Aankhen Hai,0,1948-12-31,0.0952,70.153,0.483,1948
+856,0.932,"['Igor Stravinsky', 'New York Philharmonic']",0.31,138773,0.151,0,3rrzeIArTA12BqE8YReXVK,0.0025,7,0.132,-18.292,1,Four Norwegian Moods: IV. Cortège,0,1948,0.0397,178.857,0.453,1948
+857,0.974,['Lalita Dewoolkar'],0.619,176491,0.198,0,3rvLQrF77YhNazzm1Mi84P,2.64E-05,2,0.151,-8.224,1,Bata Do Koi Hai Duniya Nazar Men Nai,0,1948-12-31,0.107,176.448,0.961,1948
+858,0.991,"['Igor Stravinsky', 'Concertgebouworkest', 'Eduard van Beinum']",0.307,79240,0.552,0,3ryuNNE8z7malfO5jossWa,0.913,5,0.161,-13.047,1,Le Sacre du Printemps / Part 1: L'Adoration de la Terre: 3. Jeu du rapt,0,1948-01-01,0.0595,98.544,0.35,1948
+859,0.98,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.091,252773,0.0325,0,3sUbtDseMFmjyR49Qea0U3,0.875,11,0.0982,-28.868,1,The Firebird Suite: Rondo (Khorovod) - Revised 1945 Version,0,1948,0.0399,83.639,0.038,1948
+860,0.995,['Sunetra'],0.464,203186,0.0635,0,3scLAq375cM03TytxRDcoJ,0.185,0,0.118,-12.242,1,Rani Se Bhikharan Ban Gai Re,0,1948-12-31,0.162,76.431,0.73,1948
+861,0.87,"['Robert Schumann', 'NBC Symphony Orchestra', 'Bruno Walter']",0.268,255467,0.187,0,3shsw6qCjt5iulgGIAnaMy,0.769,5,0.294,-14.276,1,"Symphony No. 4 in D Minor, Op. 120 (1851 Version): III. Scherzo: Lebhaft",0,1948,0.0399,85.056,0.346,1948
+862,0.996,['V. S. Jog'],0.567,170593,0.193,0,3swch2TllILH2ZS1LvePIY,0.621,4,0.268,-13.338,1,Beet Gaya Prabhu Ram Ka Raj Re,0,1948-01-01,0.147,65.829,0.565,1948
+863,0.988,['Pannalal Bhattacharya'],0.45,180187,0.211,0,3t9ijluk5GaHnribvrtt5Z,0.0233,1,0.15,-14.044,1,Tumi To Jano Na,0,1948-12-01,0.033,74.058,0.513,1948
+864,0.956,['Yves Montand'],0.554,202933,0.152,0,3tWMiJzr9GkIfYxGbpZbvt,3.25E-06,4,0.0996,-15.563,1,Les Cireurs De Souliers De Broadway,0,1948-01-01,0.12,139.942,0.316,1948
+865,0.993,['Saroj Velinkar'],0.597,188424,0.278,0,3tcazUqieZIhPOAGdbhpmY,8.28E-06,8,0.125,-12.015,0,He Krishna Murari,0,1948-12-31,0.0373,105.2,0.54,1948
+866,0.934,"['Doris Day', 'Paul Weston And His Orchestra']",0.413,203213,0.0677,0,3tlPJpDQjXPdqcanXbVl91,2.41E-05,7,0.142,-18.675,1,Don't Take Your Love from Me (with Paul Weston & His Music From Hollywood),1,1948,0.04,137.511,0.201,1948
+867,0.98,['Saroj Velinkar'],0.649,188233,0.266,0,3u3mlun37o0tK6Wk3QU2fU,4.84E-06,10,0.386,-11.412,1,Tum Murli Shyam Bajao,0,1948-12-31,0.126,68.333,0.902,1948
+868,0.988,['Igor Stravinsky'],0.311,432493,0.093,0,3u46gkxpRpIqzAS7kE5BmH,0.94,2,0.0638,-22.519,1,Octet for Wind Instruments: II. Tema con variazioni,1,1948,0.0433,80.469,0.0712,1948
+869,0.882,"['Ludwig van Beethoven', 'Jascha Heifetz', 'Emanuel Bay']",0.249,65040,0.263,0,3uA5pDNS5S8E6F9ASSoDiV,0.714,9,0.345,-17.297,1,"Sonata No. 1 in D, Op. 12: Variation II",0,1948,0.0481,167.717,0.496,1948
+870,0.919,['Harry Gold & His Pieces Of Eight'],0.672,167853,0.134,0,3uF6yROegFLXIwfCc5s6ft,3.30E-06,4,0.0692,-12.752,0,The Boomba,0,1948,0.0472,89.397,0.627,1948
+871,0.668,"['Igor Stravinsky', 'Michael Tilson Thomas']",0.434,68067,0.553,0,3uKAE01Oyfx4Z5PG44hjxZ,0.953,5,0.184,-17.546,0,Le sacre du printemps (The Rite of Spring): Première partie: L'adoration de la terre (Part I: Adoration of the Earth): Danse de la terre (Dance of the Earth),0,1948,0.039,84.652,0.038,1948
+872,0.923,['Suraiya'],0.406,180507,0.453,0,3uYNoWmbbJCNn6oibGeAuQ,0,8,0.0548,-9.829,1,Mohe Mera Bachpan La De Balma,0,1948-12-31,0.0539,89.014,0.769,1948
+873,0.938,"['Igor Stravinsky', 'Benny Goodman']",0.398,155760,0.0549,0,3vOknmh781XL7VC7sRBMdA,0.0103,0,0.169,-25.42,0,Ebony Concerto: II. Andante,0,1948,0.0373,124.687,0.157,1948
+874,0.863,"['Giacomo Puccini', 'Luis Cobos']",0.203,314067,0.371,0,3vzsCBoyqL9Ihp5MLWHXUE,0.0192,2,0.154,-12.63,1,Turandot: Act III - Nessun dorma - Vocal,0,1948,0.0371,88.415,0.0981,1948
+875,0.867,['Μιχάλης Καλέργης'],0.633,98499,0.48,0,3w8rCQziUSC9DKKQ7PSMM4,0.0159,7,0.32,-8.652,0,Για ιδές το το μαριόλικο,0,1948-01-01,0.0427,109.891,0.96,1948
+876,0.924,['Shamshad Begum'],0.488,189196,0.301,0,3xiF18okO6JGjVclsyiL4T,0.123,9,0.773,-15.046,0,Dar Dar Ki Thokren Hain,0,1948-12-31,0.0334,58.654,0.537,1948
+877,0.97,['Mohammed Farooqui'],0.384,215408,0.261,0,3xlcSzhQDrO3zBwA35Cw56,0.00146,11,0.386,-10.407,0,Kahan Site,0,1948-12-31,0.0372,85.25,0.47,1948
+878,0.938,"['Igor Stravinsky', 'Joseph Szigeti']",0.26,267000,0.123,0,3xtFCBIWQrRAMvHCUBCD4r,0.000297,10,0.126,-17.299,1,Russian Maiden's Song,0,1948,0.0436,85.463,0.384,1948
+879,0.979,"['Igor Stravinsky', 'Charles Rosen', 'Columbia Symphony Orchestra']",0.343,67173,0.0249,0,3yR8xwNvkI7UR2sqnTNFtM,0.899,2,0.146,-27.86,1,Movements for Piano and Orchestra: III. Eighth Note = 72,0,1948,0.0365,135.794,0.116,1948
+880,0.797,"['S. Varalakshmi', 'Ghantasala']",0.549,203400,0.666,0,3yja6GsTml3VDvmAEzKdks,0.000109,9,0.163,-4.634,1,Navodayam,0,1948-12-31,0.0473,143.238,0.881,1948
+881,0.99,['Suraiya'],0.525,200760,0.175,0,3ytUCXdAo24hXFXH5K3wjs,0,0,0.0741,-8.093,1,Din Guzra Raat Aai,0,1948-12-31,0.0434,114.604,0.66,1948
+882,0.993,['Suraiya'],0.346,199160,0.379,0,3yzetYZmlqNwnujugWxgDE,8.33E-05,5,0.513,-8.299,0,Ab Na Kisi Se Kahiyega,0,1948-01-01,0.0328,80.511,0.28,1948
+883,0.988,"['Johann Sebastian Bach', 'Jascha Heifetz']",0.234,284773,0.0752,0,3z5b8UJUZyvwOnfC1Fx432,0.62,7,0.207,-22.325,0,"Sonata No. 1, BWV 1001, in G Minor: Adagio",1,1948,0.0457,96.06,0.234,1948
+884,0.955,"['Igor Stravinsky', 'CBC Symphony Orchestra']",0.319,313267,0.214,0,3z7PSaMG13sSeMYTPzzxaQ,0.122,0,0.0987,-19.197,1,Babel,0,1948,0.0421,130.07,0.139,1948
+885,0.933,['Umm Kulthum'],0.391,354640,0.598,0,3zBN7CglbceFgYCyt7lSSl,0.622,5,0.545,-7.087,0,Haablo Bokra,0,1948-01-01,0.128,96.423,0.74,1948
+886,0.783,"['Ghantasala', 'S. Varalakshmi']",0.436,67627,0.755,0,3zR1UrjOZ4xAcjnetjvAEr,0.00626,1,0.343,-2.513,1,Nerajuthu Paina,0,1948-12-31,0.0662,58.519,0.922,1948
+887,0.994,"['Manik Dadarkar', 'R. Sharma']",0.672,198960,0.25,0,3zYetz7XSuEyoJQRVDXQ5N,0.00826,5,0.529,-9.385,1,Main Chhoti Si Ek Paniharan,0,1948-12-31,0.269,72.169,0.806,1948
+888,0.918,['Pannalal Bhattacharya'],0.723,186080,0.33,0,3zbN5uROiOkve89NznMvBs,0.000351,1,0.125,-11.613,0,Ashar Khela Ei Jibane,0,1948-12-01,0.0324,120.376,0.807,1948
+889,0.987,"['Debabrata Biswas', 'Geeta Sen Naha']",0.492,165893,0.133,0,409z3tV5agscqNhXKkb1VE,0.945,10,0.103,-18.452,1,Anek Diner Shunyata Mor,0,1948-12-01,0.0335,130.55,0.38,1948
+890,0.776,"['Igor Stravinsky', 'Seiji Ozawa']",0.482,107373,0.595,0,40ejfRZp7cTP9NxeGOaImu,0.89,0,0.616,-13.335,1,The Rite of Spring: Part I: The Adoration of the Earth: Games of the Rival Tribes,0,1948,0.0871,86.468,0.497,1948
+891,0.922,['Meena Kapoor'],0.597,172478,0.497,0,40qnujs0Xqh2kl148qlrzr,0.0646,5,0.694,-9.452,0,Boot Polish Karwa Le Babu,0,1948-12-31,0.0318,108.261,0.697,1948
+892,0.827,"['Igor Stravinsky', 'Leonard Bernstein', 'London Symphony Orchestra']",0.276,74093,0.746,0,40yWPv9Qg1stVW54VhgJlz,0.626,4,0.0805,-10.826,0,The Rite of Spring (Scenes of Pagan Russia in two parts): Part One - Adoration of the Earth: Dance of the Earth,0,1948,0.052,139.199,0.0322,1948
+893,0.941,['Candy Johnson'],0.582,175787,0.46,0,41BNaICLSEfMcrCvOVWBeC,0.95,1,0.0811,-13.233,1,Stampin',0,1948-11-15,0.0586,129.684,0.845,1948
+894,0.885,['Μιχάλης Καλέργης'],0.666,100380,0.333,0,41luqZ4nlBlKqhP1MApQdW,0.0519,1,0.556,-10.458,1,Στης μαντζουράνας τον ανθό,0,1948-01-01,0.0857,107.411,0.584,1948
+895,0.947,"['Béla Bartók', 'Concertgebouworkest', 'Eduard van Beinum']",0.309,419400,0.295,0,43fJoZLfHSxi8QWWajrPRw,0.914,7,0.0512,-16.458,1,"Music for Strings, Percussion and Celeste, Sz.106: 4. Allegro molto",0,1948-01-01,0.0427,115.263,0.137,1948
+896,0.948,"['Wolfgang Amadeus Mozart', 'Budapest String Quartet']",0.451,317333,0.181,0,445YqdJAtGkzrZhwCGoirC,0.282,7,0.332,-16.176,1,"Quartet No. 19 in C Major for Strings, K. 465 (""Dissonant""): IV. Allegro",0,1948,0.0435,82.575,0.438,1948
+897,0.95,['Μιχάλης Καλέργης'],0.478,89735,0.263,0,4481ywOMJZLVAB8wUT7xog,1.28E-06,4,0.189,-10.059,1,Ο Λίνγκος ο λεβέντης,0,1948-01-01,0.0751,121.348,0.578,1948
+898,0.993,"['Hemant Kumar', 'Debabrata Biswas', 'Samaresh Roy']",0.53,144707,0.389,0,44RZGmrhNi9mcLki9fR0u2,0.777,3,0.156,-12.668,0,Sabdhan Sabdhan,0,1948-12-01,0.108,71.647,0.766,1948
+899,0.97,"['Wolfgang Amadeus Mozart', 'Budapest String Quartet']",0.457,288720,0.101,0,44VJJJx789rxrwkIKnNRzx,0.127,0,0.252,-17.219,1,"Quartet No. 19 in C Major for Strings, K. 465 (""Dissonant""): III. Menuetto - Allegro",0,1948,0.0417,86.47,0.445,1948
+900,0.992,"['Shankar Dasgupta', 'Geeta Dutt']",0.863,185649,0.362,0,44ev0KtgPwyPHDmeSpwm9C,0.000233,11,0.399,-8.071,0,Sab Nagri Nagri Dhund Phiri,0,1948-12-31,0.2,90.522,0.803,1948
+901,0.993,['Igor Stravinsky'],0.18,217960,0.0847,0,44kgLfCS8Up4GHgBFMb6ZU,0.125,6,0.107,-22.245,0,"Anthem ""The Dove Descending Breaks the Air""",0,1948,0.0454,77.337,0.0339,1948
+902,0.969,"['Giacomo Puccini', 'Giuseppe Antonicelli', 'Metropolitan Opera Orchestra']",0.369,125160,0.0552,0,45G1v5SNmv2usJLTx5hzrs,0,4,0.538,-21.826,0,La Bohème: Act I - Chi è là? - Scusi,0,1948,0.0854,83.982,0.128,1948
+903,0.994,"['Shamshad Begum', 'Alauddin']",0.741,168625,0.246,0,45MrcGEduYHjn7MPFJlWCB,0.0247,7,0.234,-7.368,0,Sawan Ke Din Aaye Balma,0,1948-12-31,0.349,130.257,0.878,1948
+904,0.995,['Marlene'],0.683,165956,0.423,0,4642SckZ98yMsJgXYqPiHb,0.896,10,0.292,-10.793,1,Ai! Como Sufro!,0,1948-12-01,0.052,85.156,0.97,1948
+905,0.841,"['Antonín Dvořák', 'New York Philharmonic', 'Bruno Walter']",0.273,341560,0.207,0,46859nMKjAKavCkhbTOl8n,0.719,7,0.202,-14.101,1,"Symphony No. 8 in G Major, Op. 88, B. 163: III. Allegretto grazioso - Molto vivace",0,1948,0.0369,82.45,0.338,1948
+906,0.979,['Nat King Cole Trio'],0.478,165000,0.108,0,46kL1Uzh4xwMXHD6RDqFC9,0.0125,3,0.383,-17.645,1,(Go To Sleep) My Sleepy Head,5,1948,0.0346,78.118,0.397,1948
+907,0.947,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.187,140893,0.00549,0,47B2Jhl1oTq6SRawCWDILS,0.954,3,0.11,-41.06,1,L'Oiseau de feu: Introduction - 1910 version,0,1948,0.0368,111.161,0.0336,1948
+908,0.94,"['Igor Stravinsky', 'Eugene Ormandy']",0.301,77333,0.714,0,47aJi0fjRseILhwcZKHsYe,0.923,5,0.405,-9.871,1,Stravinsky: Le sacre du printemps (The Rite of Spring): Le sacre du printemps: The Adoration of the Earth: Ritual of Abduction,0,1948,0.0641,89.895,0.232,1948
+909,0.979,"['Johann Sebastian Bach', 'Igor Stravinsky', 'CBC Symphony Orchestra']",0.347,77240,0.255,0,47bNznDyAcpd6CgK0aFgUt,0.886,0,0.109,-19.807,1,"Chorale Variations on the Christmas Carol ""Vom Himmel hoch da komm' ich her"", BWV 769: Variation I (In Canone all' Ottava)",0,1948,0.0428,85.911,0.674,1948
+910,0.994,"['John Stafford Smith', 'Igor Stravinsky', 'CBC Symphony Orchestra']",0.311,83093,0.143,0,48U33WgDS5EEUKEhMT9Zwt,0.911,10,0.115,-12.392,1,The Star-Spangled Banner,0,1948,0.0324,85.126,0.471,1948
+911,0.86,"['Igor Stravinsky', 'Woody Herman Orchestra']",0.491,197867,0.144,0,48ZfXROclyHHu05wFWSPx6,0.12,0,0.176,-19.579,1,Ebony Concerto: III. Moderato - Con moto - Moderato - Vivo,0,1948,0.0584,146.929,0.522,1948
+912,0.994,['Igor Stravinsky'],0.666,81667,0.113,0,48dao4XFLsXdZaHllgr24Q,1.35E-05,9,0.0979,-17.865,0,"Four Russian Peasant Songs ""Saucers"" - For Equal Voices with Four Horns: I. On Saints' Days in Chigisakh - Revised 1954 version",0,1948,0.0357,98.673,0.687,1948
+913,0.995,['Mohantara Talpade'],0.753,180035,0.135,0,48oFkoBTcLiYe6jbPDs3H8,0.534,7,0.147,-11.993,1,Humara Ghar Ban Jaye,0,1948-12-31,0.476,126.59,0.827,1948
+914,0.985,"['Igor Stravinsky', 'Esa-Pekka Salonen']",0.387,348240,0.0935,0,48y5n7gGR6GYlDeYTXBXhq,0.942,0,0.058,-19.301,1,Symphony in Three Movements: III. Con moto,0,1948,0.0376,156.966,0.131,1948
+915,0.991,['P. A. Periyanayaki'],0.482,154000,0.348,0,49DQuM0qybIqKljBKa1m04,0.0168,1,0.178,-9.933,1,Jeeviya Bhakkiyame,0,1948-12-01,0.0469,125.281,0.865,1948
+916,0.986,['Igor Stravinsky'],0.635,57933,0.0702,0,49ut84Mt7HKEJgM3A8Mjsx,3.62E-05,11,0.114,-18.189,0,"Four Russian Peasant Songs ""Saucers"" - For Equal Voices with Four Horns: III. The Pike - Revised 1954 version",0,1948,0.0495,97.878,0.605,1948
+917,0.857,"['Igor Stravinsky', 'New York Philharmonic']",0.363,235027,0.388,0,4A3DvEuJ2KRujgqFzkT9mn,0.255,4,0.461,-14.815,0,"Fireworks, Op. 4",0,1948,0.0652,129.367,0.0769,1948
+918,0.984,"['Johannes Brahms', 'Jascha Heifetz']",0.165,480000,0.199,0,4A6zvvCMgm6PZXDgP7WeRE,0.57,3,0.0907,-16.109,1,"Sonata No. 1 in G, Op. 78: Adagio",0,1948,0.0401,81.773,0.0396,1948
+919,0.993,['Nat King Cole Trio'],0.735,167933,0.0737,0,4ARrfT2xr2MV0OuJA61UGF,0.015,5,0.087,-19.076,1,Medley: Nursery Rhymes: Mary Had A Little Lamb/London Bridge/Go In And Out The Window/Pop Goes The Weasel,2,1948,0.0593,86.581,0.434,1948
+920,0.947,"['Igor Stravinsky', 'Robert Heinrich', 'Robert Nagel']",0.507,33467,0.284,0,4BOrq7Au76ohWeBxm7XF1F,0.893,0,0.576,-19.222,0,Fanfare for a New Theatre,0,1948,0.138,173.766,0.564,1948
+921,0.957,['Shamshad Begum'],0.472,195200,0.167,0,4Bw4vd6GjDFMfVgXBWyHih,5.28E-05,11,0.193,-14.413,1,Taqdeer Bani Bankar Bigdi,0,1948-12-01,0.0401,113.628,0.248,1948
+922,0.992,['G. I. Gurdjieff'],0.148,541333,0.111,0,4C8OrxNttOnuUm7a2XFifO,0.896,9,0.173,-19.669,0,"20a) No. 69, First Series",0,1948-04-15,0.0407,82.927,0.0399,1948
+923,0.986,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.155,61267,0.00255,0,4Cd2jML99DDH81PUKVzDA1,0.0771,10,0.2,-37.604,1,L'Oiseau de feu: Brusque apparition d'Ivan Tsarévitch - 1910 version,0,1948,0.0475,134.769,0.401,1948
+924,0.955,['Pannalal Bhattacharya'],0.402,199427,0.147,0,4DASrLGxOxEVogvvtkzC2Q,0.00113,1,0.205,-13.439,0,Tomar Mato Amio To,0,1948-12-01,0.0379,124.072,0.346,1948
+925,0.908,['Amirbai Karnataki'],0.441,184613,0.367,0,4DI9iFVvp4It0VGLrYFvOH,0.000288,5,0.32,-11.656,0,Sapnu Sachhun,0,1948-08-09,0.301,165.311,0.714,1948
+926,0.978,['Lucho Oliva'],0.719,144640,0.477,0,4DQ689WcX7kA9gln4j9e0I,0.00184,8,0.195,-10.555,1,La Casa Del Jabonero,0,1948-01-01,0.0665,82.929,0.92,1948
+927,0.984,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.82,55760,0.452,0,4DQe7iBKwygUyXxCMMQQ9U,0.96,11,0.162,-15.365,1,Pulcinella Suite: V. Toccata. Allegro,0,1948,0.0405,114.561,0.76,1948
+928,0.649,"['Igor Stravinsky', 'Pierre Monteux']",0.232,42507,0.835,0,4DebbiDIm5mqtZ8ic9HXxW,0.992,3,0.256,-5.232,1,The Rite of Spring: Part I: Procession of the Sage,0,1948,0.0475,148.552,0.0747,1948
+929,0.994,['Parvez Kapadia'],0.501,189453,0.134,0,4DnCsnjcfp7iyWHM8sYOif,0.92,2,0.111,-15.538,1,Piya Chale Aaye,0,1948-12-31,0.0553,133.134,0.721,1948
+930,0.977,"['Igor Stravinsky', 'Pierre Monteux']",0.167,174840,0.0846,0,4EJutd1Q4reUQc3mCLyHyq,0.18,6,0.522,-19.173,0,The Rite of Spring: Part II: Mystic Circles of the Young Girls,0,1948,0.0364,87.654,0.0505,1948
+931,0.945,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.426,105693,0.131,0,4EfJirxaLBmMRPTSLBqMgl,0.893,0,0.107,-17.891,1,Pulcinella Suite: IIIa. Scherzino,0,1948,0.0391,110.275,0.453,1948
+932,0.985,"['Giacomo Puccini', 'Kiri Te Kanawa', 'Sir John Pritchard', 'London Philharmonic Orchestra']",0.208,270267,0.0565,0,4EkQVcAicSjPsYFUzIARmK,5.41E-05,1,0.0774,-19.958,1,Madama Butterfly: Un bel dì,0,1948,0.0477,98.091,0.0597,1948
+933,0.984,"['Igor Stravinsky', 'CBC Symphony Orchestra']",0.451,275667,0.17,0,4EwD7TBOPvC5KN7FLd2Tpg,0.869,7,0.133,-17.959,1,Symphony in C Major: III. Allegretto,0,1948,0.0444,125.48,0.28,1948
+934,0.995,['Harish Bhardwaj'],0.788,186212,0.224,0,4F07kAonzvXZc0Al8G6hVz,0.00847,3,0.445,-9.576,1,Azad Nishani,0,1948-12-31,0.44,62.943,0.814,1948
+935,0.996,['M. K. Thyagaraja Bhagavathar'],0.634,177133,0.281,0,4F6R3rQAS7fk5JxqrnM3wW,0.837,0,0.0973,-10.858,0,Manam Ninainthenginene,0,1948-12-31,0.054,79.835,0.932,1948
+936,0.99,['Münir Nurettin Selçuk'],0.292,328640,0.326,0,4FsUr8E9VNE221A2RmMl9x,0.0389,2,0.125,-10.052,1,Bu Hülyalar Diyarında,8,1948-12-06,0.0642,90.818,0.276,1948
+937,0.982,"['Edvard Grieg', 'Jascha Heifetz']",0.241,370493,0.208,0,4FzZfyN4Uwn5xKhnBRx2rI,0.416,4,0.138,-16.721,1,"Sonata No. 3 in C Minor, Op. 45: Allegretto espressivo alla Romanza; Allegro molto; Tempo I",0,1948,0.0464,76.743,0.0846,1948
+938,0.982,['Mukesh'],0.528,221267,0.254,0,4GDLMG6HW5b8PJxwqlwt0C,1.00E-05,1,0.0961,-12.852,1,Bhoolne Wale Yaad Na Na,0,1948-01-01,0.0302,92.576,0.52,1948
+939,0.932,"['Ernest Bloch', 'Jascha Heifetz']",0.234,273067,0.25,0,4GXvs41QH1Uxsym2Lmz8t7,0.00019,1,0.158,-12.928,1,"Sonata No. 2 ""Poème mystique"": Animato - Moderato - Allegro moderato - Tempo iniziale",0,1948,0.0529,177.617,0.0447,1948
+940,0.953,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.287,35800,0.323,0,4GaJkTE30diyvMkRqbnccq,0.936,0,0.417,-22.693,1,L'Oiseau de feu: Apparition de l'Oiseau de feu - 1910 version,0,1948,0.0454,142.44,0.104,1948
+941,0.98,"['Ernest Bloch', 'Jascha Heifetz']",0.12,59587,0.126,0,4GdR04TCP6SvAtRoAowoSp,0.88,9,0.112,-19.269,1,"Sonata No. 2 ""Poème mystique"": Moderato assai ""Credo in unum Deum!...""",0,1948,0.0474,177.822,0.116,1948
+942,0.933,"['Wolfgang Amadeus Mozart', 'Budapest String Quartet', 'Walter Trampler']",0.499,308640,0.268,0,4HFCNcmyabyI14AwTJ5OLV,0.398,10,0.073,-13.772,1,"Quintet No. 1 in B-Flat Major for Strings, K. 174: IV. Allegro",0,1948,0.043,127.099,0.61,1948
+943,0.986,['T. S. Bhagavathi'],0.534,165471,0.372,0,4HUeL8XyajWJQLrL8ACDdL,0.483,9,0.444,-8.673,1,Maganaga Sundhara Mana Moghanan,0,1948-08-11,0.0948,98.716,0.961,1948
+944,0.94,"['Igor Stravinsky', 'Columbia Symphony Orchestra']",0.182,25200,0.000884,0,4HYlFKmAWrhjC4PBXyJmHS,0.993,10,0.082,-48.278,1,"Le sacre du printemps: Part 1 ""Adoration of the Earth"", The Wise Elder",0,1948,0.0604,118.462,0,1948
+945,0.961,"['Giacomo Puccini', 'Giuseppe Antonicelli', 'Metropolitan Opera Orchestra']",0.357,41760,0.53,0,4J7HeczOMetPbUGsL0IHL5,0.55,8,0.532,-10.582,1,La Bohème: Act IV - Quadriglia,0,1948,0.0496,78.121,0.712,1948
+946,0.992,['Safiye Ayla'],0.325,188369,0.248,0,4JRrjikrmk29kGoW8CBg5x,0.801,0,0.217,-16.296,1,Ne Derin Kudreti Var,0,1948-04-30,0.08,73.233,0.507,1948
+947,0.993,"['Leela Mehta', 'A. R. Ojha']",0.611,190921,0.223,0,4JUhe5SG5bKGINfLnooUvv,0.043,2,0.142,-9.68,1,Hotel Ka Kinara Ho,0,1948-12-31,0.198,67.572,0.751,1948
+948,0.989,['Mohantara Talpade'],0.609,191169,0.142,0,4JlYwSNXTyCSIdFhw5LwVG,0.00504,6,0.105,-10.441,0,Ek Bhola Shikari Aaya,0,1948-12-31,0.478,174.63,0.733,1948
+949,0.737,['Igor Stravinsky'],0.825,98760,0.237,0,4KEME1HJH6XY18zyluTFno,0.94,2,0.106,-16.93,1,The Soldier's Tale Suite: I. The Soldier's March,0,1948,0.0617,116.036,0.578,1948
+950,0.961,"['Igor Stravinsky', 'Concertgebouworkest', 'Eduard van Beinum']",0.375,66480,0.796,0,4KIGFmuWCrbQPrRaVrF3wm,0.843,2,0.0704,-11.158,0,Le Sacre du Printemps / Part 1: L'Adoration de la Terre: 8. Danse de la terre,0,1948-01-01,0.0547,86.591,0.0375,1948
+951,0.961,"['Giacomo Puccini', 'Giuseppe Antonicelli', 'Metropolitan Opera Orchestra']",0.578,183733,0.247,0,4KRpaZqmT3t4IfKtJvee6M,2.60E-06,0,0.102,-17.017,0,La Bohème: Act II - Oh! Essa! Musetta!,0,1948,0.525,62.64,0.564,1948
+952,0.829,['Lucho Oliva'],0.635,176875,0.43,0,4LB8UN65DmHJsfgpIHR5o7,0.00636,3,0.152,-11.039,0,En Vano,3,1948-01-01,0.0401,159.09,0.948,1948
+953,0.995,"['Suraiya', 'G. M. Durrani']",0.523,194188,0.103,0,4LbVfJ8NyKBEPJMpcHa26Y,3.81E-05,5,0.233,-10.456,1,Mere Ansuon Meri Hasrato,0,1948-01-01,0.114,131.198,0.611,1948
+954,0.995,['Suraiya'],0.501,181840,0.344,0,4Lk5Z0jzCobR6IY9vFhfrq,0.912,7,0.178,-9.45,0,Din Pe Din Beet Jaye,0,1948-12-31,0.074,73.31,0.598,1948
+955,0.864,"['Camille Saint-Saëns', 'Charles Münch', 'New York Philharmonic']",0.229,532947,0.208,0,1fqRUY7Eyj8ff0v7Ssklbw,0.849,8,0.102,-17.883,1,"Symphony No. 3 in C Minor, Op. 78 ""Organ"": I. Adagio - Allegro moderato",4,1949,0.0416,132.885,0.158,1949
+956,0.985,"['Salvatore Cardillo', 'Mario Lanza', 'Constantine Callinicos']",0.179,155280,0.374,0,1ftOw055sL5qBIGp1ZuYln,0.000169,3,0.14,-8.546,1,Core 'ngrato,1,1949,0.033,76.223,0.275,1949
+957,0.988,"['André Gide', 'Jean Amrouche']",0.594,724927,0.293,0,1gF2Bk44PqRYOyWP1eHxvx,0.00472,8,0.232,-20.61,1,"""Les Faux-monnayeurs"": Composition...",0,1949,0.875,72.326,0.626,1949
+958,0.984,"['Pietro Mascagni', 'Richard Tucker']",0.18,211600,0.272,0,1ggMPSZkJ7o0riJMbFvXXr,0.00111,8,0.618,-12.752,0,"Cavalleria Rusticana: ""Mamma, mamma! Quel vino è generoso""",0,1949,0.0541,64.82,0.175,1949
+959,0.891,"['Colette', 'André Parinaud', 'Robert Casadessus']",0.664,639960,0.184,0,1gojEzPzwDMhaLoxsOOPqv,0,7,0.285,-15.011,1,Dualité de Colette et Claudine,0,1949,0.953,85.639,0.463,1949
+960,0.846,['Shamshad Begum'],0.564,211867,0.29,0,1gvON2x95M5nNuk9aSHcaF,5.37E-05,5,0.358,-10.134,1,Do Char Din Pyar Se,0,1949-12-31,0.47,85.546,0.569,1949
+961,0.992,['Giacomo Rondinella'],0.261,167053,0.276,0,1hB2sfui5H9La7w98ZCxb8,0.00965,7,0.315,-16.571,1,Sulo,0,1949-01-01,0.0572,80.677,0.0909,1949
+962,0.981,"['Irving Berlin', 'Johnny V. R. Thompson', 'Allyn McLerie', 'Miss Liberty Ensemble', 'Jay Blackton']",0.243,173093,0.175,0,1hf7hC5MYb86001qzR5rBJ,0.000128,0,0.14,-14.149,1,Miss Liberty: Paris Wakes Up and Smiles,0,1949,0.0409,80.666,0.226,1949
+963,0.787,"['Giuseppe Verdi', 'Arturo Toscanini']",0.411,53013,0.408,0,1hrASLD1BLLXJkDGGgOtTA,0.469,2,0.3,-11.397,0,Aida: Traditor!,0,1949,0.0855,136.957,0.403,1949
+964,0.827,['Shanta Kunwar'],0.528,212287,0.471,0,1hu5Dh8Ke8h7ZzCRcqWaFx,0.00355,9,0.391,-9.84,1,Armaan Loot Gaye Hae,0,1949-12-31,0.0424,131.875,0.71,1949
+965,0.802,['Lead Belly'],0.409,193123,0.672,0,1i8C8u3CVtM4NmaPGNXBNk,0.494,9,0.313,-8.601,1,John Henry,0,1949,0.0409,145.218,0.731,1949
+966,0.91,"['Jay Blackton', 'Laurence Guittard', 'Christine Andreas']",0.27,257107,0.16,0,1iYOEFvQbSmRrzIldiIWvP,0.000388,9,0.0963,-17.246,1,"People Will Say We're in Love (From ""Oklahoma!"")",1,1949,0.0342,78,0.203,1949
+967,0.965,"['Fromental Halévy', 'Richard Tucker', 'Wilfrid Pelletier']",0.237,259867,0.18,0,1ivbgk5DS1fAppzMVqeVF1,5.10E-06,5,0.0963,-14.207,0,"La Juive: ""Rachel, quand du seigneur""",0,1949,0.0397,92.726,0.149,1949
+968,0.995,['Robin Majumdar'],0.589,183347,0.185,0,1jF9tFdbK6wAxRN4NTYan2,0.93,11,0.106,-17.535,1,Moni Maniker Pasara,0,1949-12-31,0.0753,130.33,0.551,1949
+969,0.993,['Dilip Dholakia'],0.459,194252,0.282,0,1jMQqsOw6QHC4Mq5WXVBSb,0.306,7,0.337,-8.994,1,Bhala Bhalae Bhool Kari,0,1949-03-02,0.148,64.849,0.417,1949
+970,0.778,['Bourvil'],0.637,194533,0.345,0,1jjZsdtrgJDPEDIOfLJtyo,0,3,0.0793,-10.125,1,Ma place,1,1949,0.153,80.075,0.648,1949
+971,0.995,['Sulochana Kadam'],0.754,173964,0.351,0,1jl449khYMkGlVb3RhPYi0,0.756,0,0.126,-9.378,0,Jahan Koi Na Ho Wahan Chalenge Ham,0,1949-12-31,0.111,148.899,0.96,1949
+972,0.993,"['Wolfgang Amadeus Mozart', 'Bruno Walter', 'Columbia Symphony Orchestra']",0.502,147333,0.252,0,1jsOMnrDvxZDHZqvoIu5C9,0.0138,7,0.155,-12.196,1,"Die Entführung aus dem Serail, K. 384, Act II: ""Welche Wonne..""",0,1949,0.114,75.835,0.565,1949
+973,0.858,['Lalita Dewoolkar'],0.513,241653,0.364,0,1juCEmPAkt2OiC8UqB7I0A,0.000199,9,0.155,-11.102,1,Dil Leke Bhaga,0,1949-12-31,0.0924,180.836,0.755,1949
+974,0.974,"['Ernest Bloch', 'Isaac Stern', 'Alexander Zakin']",0.253,379267,0.206,0,1k80cWFHXq0lfIJg9Exj9y,0.729,7,0.159,-16.584,0,Baal Shem - Three PIctures of Chassidic Life: II. Nigun,0,1949,0.0421,104.804,0.0924,1949
+975,0.959,['Mitch Miller & The Sing-Along Gang'],0.109,260867,0.273,0,1k8Z5FY3QFBJtm4a63aF5p,0.000466,10,0.124,-14.77,1,"Silent Night, Holy Night",1,1949,0.0356,71.313,0.103,1949
+976,0.991,['Κούλα Νικολαϊδου'],0.41,95935,0.311,0,1kG5glfzBWVa0W3cL2sbGv,4.77E-05,10,0.216,-9.951,1,Απόψε πάλι,0,1949-01-01,0.0394,96.012,0.505,1949
+977,0.966,"['Johannes Brahms', 'Wilhelm Furtwängler', 'Wiener Philharmoniker']",0.127,197813,0.218,0,1kqWugFghxSx3rjDtf2XQl,0.921,10,0.335,-15.989,1,"Brahms: Variations on a Theme by Haydn, Op. 56a ""St. Antoni Chorale"": Variation VII. Grazioso",0,1949,0.036,147.935,0.116,1949
+978,0.946,"['Nikolai Rimsky-Korsakov', 'Mario Lanza', 'Constantine Callinicos']",0.238,239253,0.301,0,1ktOaQeEQRMv9B5XOoa88t,0.000918,1,0.109,-9.804,1,Sadko: Song of India,1,1949,0.0314,93.734,0.269,1949
+979,0.959,"['Ralph Vaughan Williams', 'Leopold Stokowski', 'New York Philharmonic']",0.113,517733,0.0173,0,1kwpuqFRYEeM01Ccg5P9kb,0.888,0,0.116,-34.677,1,Symphony No. 6 in E Minor: IV. Epilogue,0,1949,0.0444,93.826,0.0346,1949
+980,0.984,"['Aaron Copland', 'Martha Lipton']",0.372,136133,0.152,0,1lN3jH5YqsNzHDRqjqKlZD,0.000174,1,0.0982,-13.61,1,Twelve Poems of Emily Dickinson: IX. I felt a funeral in my brain,0,1949,0.063,173.447,0.051,1949
+981,0.669,"['Anton Bruckner', 'Wiener Philharmoniker', 'Hans Knappertsbusch']",0.167,1220467,0.123,0,1lSlNDHyjHq67U92wbwczi,0.217,11,0.289,-20.217,1,"Symphony No. 7 in E Major, WAB 107 (Modified 1885 Version, Ed. A. Gutmann): I. Allegro moderato [Live]",0,1949-08-30,0.04,104.871,0.039,1949
+982,0.876,"['George Gershwin', 'Mary Martin', 'Girl Crazy Ensemble (1952)', 'Lehman Engel']",0.426,173533,0.302,0,1lT06EeLeQEzOYD9X8tCby,0,7,0.522,-11.286,1,Girl Crazy: Boy! What Love Has Done to Me,1,1949,0.0437,85.654,0.408,1949
+983,0.536,['Munawwar Sultana'],0.61,167027,0.455,0,1lTGhbAlGF8wvzUbWmutby,8.53E-05,5,0.419,-9.605,0,Dil ko rahat nahin qarar nahin,0,1949-01-01,0.0701,76.89,0.472,1949
+984,0.838,['Lead Belly'],0.599,65698,0.321,0,1lgnLRxxnFqaXxMlZNyWKj,0,2,0.156,-9.407,0,Come And Sit Down Beside Me,0,1949,0.0354,87.006,0.919,1949
+985,0.849,['Hariram'],0.618,203314,0.202,0,1ljivYBdnsquYYJMmRXupX,1.05E-06,0,0.413,-18.214,1,Gagar Gai Bharne Sakhi,0,1949-12-31,0.0461,81.032,0.935,1949
+986,0.988,"['Giacomo Puccini', 'Richard Tucker', 'Dorothy Kirsten', 'Fausto Cleva']",0.179,221013,0.212,0,1lkfS36M4GobrT3QVhrA6S,0.0095,4,0.124,-12.348,1,"La bohème, Act I:""O soave fanciulla""",0,1949,0.0402,83.141,0.0507,1949
+987,0.979,['Charles Mingus'],0.248,245133,0.219,0,1lzMkGUlTgyMUbrp1j9A3N,0.905,5,0.123,-13.591,0,Inspiration,3,1949,0.0292,76.779,0.0946,1949
+988,0.948,"['Joaquín Rodrigo', 'Andrés Segovia']",0.479,225019,0.137,0,1m02sEzI88HcByzEM8goMH,0.74,4,0.236,-24.695,1,Fandango,0,1949-01-01,0.0383,90.29,0.485,1949
+989,0.937,"['Giuseppe Verdi', 'Arturo Toscanini']",0.274,100573,0.123,0,1m7WbravGKJ9iilTKOywFz,7.06E-05,1,0.246,-19.687,1,Aida: Vedi? Di morte l'angelo,0,1949,0.0456,72.428,0.238,1949
+990,0.978,"['Giuseppe Verdi', 'Arturo Toscanini']",0.15,266787,0.116,0,1m8Hj7ER6ixH30KApRpVZj,0.00372,3,0.108,-19.381,1,"Aida: Nume, custode e vindice",0,1949,0.036,60.015,0.169,1949
+991,0.987,"['Giacomo Puccini', 'Richard Tucker', 'Fausto Cleva [Conductor]']",0.274,275840,0.251,0,1m8epcwSD06TJu7kYyTv1m,9.48E-06,7,0.246,-12.113,1,"La Bohême, Act I: ""Che gelida manina""",0,1949,0.0401,126.229,0.11,1949
+992,0.941,"['Giuseppe Verdi', 'Arturo Toscanini']",0.203,98507,0.103,0,1m9BazgCOGMJxmyqE30grw,0.0218,2,0.364,-23.632,0,Aida: Qui Radamès verrà!,0,1949,0.0425,81.033,0.103,1949
+993,0.952,['Ezio Pinza'],0.243,180693,0.234,0,1mANcjsYwOOSQJdf8dIL1Y,0.00182,0,0.0964,-13.954,1,"Some Enchanted Evening - from ""South Pacific, 1949""",0,1949,0.0394,90.851,0.222,1949
+994,0.798,"['Franz von Suppé', 'London Philharmonic Orchestra', 'Sir Georg Solti']",0.241,494053,0.268,0,1mVlcXbhcRM0Ie9nydrC6d,0.000536,2,0.0708,-11.583,1,Poet and Peasant: Overture,0,1949,0.0512,87.945,0.244,1949
+995,0.996,"['Suraiya', 'Mukesh']",0.362,190880,0.232,0,1mdGSkdBhCvCBTDDcRkCgy,0.883,3,0.129,-14.586,1,Badra Ki Chhaon Tale,0,1949-01-01,0.14,66.599,0.498,1949
+996,0.953,"['N. S. Krishnan', 'T A Madhuram']",0.602,197240,0.408,0,1nItTy4DPU7LcrbGAfLkcp,0.0208,1,0.124,-8.579,1,Vignanathai,0,1949-12-01,0.48,67.748,0.816,1949
+997,0.994,"['Lalita Phadke', 'Balakram']",0.805,167787,0.269,0,1nMOUk1hLge8FdFEdZ98TB,0.546,8,0.122,-9.15,0,Bachpan Mera Bachpan Tera,0,1949-12-31,0.487,101.197,0.835,1949
+998,0.945,['Lead Belly'],0.702,202707,0.32,0,1nPu67v2i3iWqdiZYY48Uf,0.00118,5,0.68,-9.817,1,Whoa Buck,0,1949,0.353,75.967,0.465,1949
+999,0.529,['Frank Wedekind'],0.663,140400,0.153,0,1ncMthnYcUTBCSPEoelULc,0,5,0.194,-29.06,1,Kapitel 20 - Der Kammersänger,0,1949-03-12,0.925,145.585,0.27,1949
+1000,0.73,"['Maurice Ravel', 'Pierre Monteux']",0.295,425453,0.21,0,1nq1Rwjoq6dmKuKay15MUN,0.57,2,0.0995,-16.411,1,Alborada del gracioso,0,1949,0.0501,127.926,0.122,1949
